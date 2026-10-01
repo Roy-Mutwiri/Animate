@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+<style>
+.line{fill:none;stroke:#181310;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+.thin{fill:none;stroke:#181310;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+.chairBack{fill:#9b8985;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSeat{fill:#c5b0ad;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairDark{fill:#675753;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSide{fill:#766863;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.skin{fill:#d9ddd4;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.eye{fill:#fbfff8;stroke:#181310;stroke-width:5}
+</style>
+</defs>
+<path class="chairSide" d="M 349.8 970.3 L 349.8 628.2 L 970.8 640.7 L 970.8 982.8 Z"/>
+<path class="chairSide" d="M 924.5 985.6 L 970.8 982.8 L 970.8 640.7 L 924.5 643.5 Z"/>
+<path class="chairBack" d="M 303.5 973.1 L 924.5 985.6 L 924.5 643.5 L 303.5 631.0 Z"/>
+<path class="chairSeat" d="M 303.5 631.0 L 924.5 643.5 L 970.8 640.7 L 349.8 628.2 Z"/>
+<path class="chairSide" d="M 380.4 1148.6 L 380.4 1037.6 L 949.4 1049.1 L 949.4 1160.0 Z"/>
+<path class="chairSide" d="M 806.0 1168.7 L 949.4 1160.0 L 949.4 1049.1 L 806.0 1057.8 Z"/>
+<path class="chairDark" d="M 237.0 1157.2 L 806.0 1168.7 L 806.0 1057.8 L 237.0 1046.3 Z"/>
+<path class="chairDark" d="M 237.0 1046.3 L 806.0 1057.8 L 949.4 1049.1 L 380.4 1037.6 Z"/>
+<path class="chairSide" d="M 795.0 1097.2 L 1061.0 1081.1 L 1061.0 840.7 L 795.0 856.8 Z"/>
+<path class="chairDark" d="M 698.9 1095.2 L 795.0 1097.2 L 795.0 856.8 L 698.9 854.8 Z"/>
+<path class="chairDark" d="M 698.9 854.8 L 795.0 856.8 L 1061.0 840.7 L 964.9 838.7 Z"/>
+<path class="chairSide" d="M 359.4 1036.1 L 359.4 952.9 L 940.4 964.6 L 940.4 1047.8 Z"/>
+<path class="chairSide" d="M 720.6 1061.1 L 940.4 1047.8 L 940.4 964.6 L 720.6 977.9 Z"/>
+<path class="chairSeat" d="M 139.6 1049.4 L 720.6 1061.1 L 720.6 977.9 L 139.6 966.1 Z"/>
+<path class="chairSeat" d="M 139.6 966.1 L 720.6 977.9 L 940.4 964.6 L 359.4 952.9 Z"/>
+</svg>

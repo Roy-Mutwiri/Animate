@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1180" viewBox="0 0 1800 1180">
+<rect width="1800" height="1180" fill="#eee9df"/>
+<text x="54" y="64" font-family="Arial" font-size="32">Corrected Blender camera</text>
+<text x="644" y="64" font-family="Arial" font-size="32">Landmarks overlay</text>
+<text x="1234" y="64" font-family="Arial" font-size="32">2D artwork from projection</text>
+<image href="camera_construction_v4.png" x="60" y="105" width="430" height="765"/>
+<image href="camera_landmark_overlay_v4.svg" x="650" y="105" width="430" height="765"/>
+<image href="projected_2d_artwork_v4.svg" x="1240" y="105" width="430" height="765"/>
+<text x="54" y="940" font-family="Arial" font-size="25">Alignment is derived from camera_landmarks_v4.json and chair_projected_faces_v4.json. Chair depth uses projected Blender faces.</text>
+</svg>

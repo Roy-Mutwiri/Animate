@@ -1,0 +1,3 @@
+opened frames=1702 layers=16 lib=15
+exported 5 frames in 2.346s
+DONE

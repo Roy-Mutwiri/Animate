@@ -1,0 +1,135 @@
+{
+  "source_blend": "D:\\Animate\\Projects\\HonestInterview\\BlenderConstructionV4\\honest_interview_construction_v4.blend",
+  "camera": "Camera_Portrait_Orthographic",
+  "render_size": [
+    1080,
+    1920
+  ],
+  "notes": "V4 corrected: chair base raised to meet the underside of the seat cushion; both-armrest-hidden diagnostic added; projected faces regenerated from this saved camera.",
+  "landmarks": {
+    "head_center": [
+      496.05,
+      524.14
+    ],
+    "head_top": [
+      540.0,
+      395.09
+    ],
+    "head_bottom": [
+      540.0,
+      654.01
+    ],
+    "l_shoulder": [
+      411.45,
+      678.71
+    ],
+    "r_shoulder": [
+      603.77,
+      682.58
+    ],
+    "spine": [
+      500.67,
+      713.43
+    ],
+    "pelvis": [
+      489.11,
+      903.7
+    ],
+    "l_elbow": [
+      190.14,
+      848.31
+    ],
+    "r_elbow": [
+      751.07,
+      859.61
+    ],
+    "l_wrist": [
+      172.29,
+      918.2
+    ],
+    "r_wrist": [
+      861.44,
+      932.09
+    ],
+    "l_hip": [
+      392.33,
+      906.75
+    ],
+    "r_hip": [
+      576.64,
+      910.46
+    ],
+    "l_knee": [
+      202.07,
+      1066.31
+    ],
+    "r_knee": [
+      498.56,
+      1072.28
+    ],
+    "l_ankle": [
+      169.23,
+      1367.87
+    ],
+    "r_ankle": [
+      489.76,
+      1374.32
+    ],
+    "l_foot": [
+      40.52,
+      1389.99
+    ],
+    "r_foot": [
+      521.32,
+      1399.68
+    ],
+    "seat_front_left": [
+      100.48,
+      949.24
+    ],
+    "seat_front_right": [
+      979.52,
+      949.24
+    ],
+    "seat_back_left": [
+      100.48,
+      930.83
+    ],
+    "seat_back_right": [
+      979.52,
+      930.83
+    ],
+    "back_top_left": [
+      100.48,
+      600.29
+    ],
+    "back_top_right": [
+      979.52,
+      600.29
+    ],
+    "back_bottom_left": [
+      100.48,
+      936.43
+    ],
+    "back_bottom_right": [
+      979.52,
+      936.43
+    ],
+    "near_arm_back_top": [
+      105.11,
+      826.75
+    ],
+    "near_arm_front_top": [
+      105.11,
+      898.38
+    ],
+    "far_arm_back_top": [
+      974.89,
+      826.75
+    ],
+    "far_arm_front_top": [
+      974.89,
+      898.38
+    ]
+  }
+}

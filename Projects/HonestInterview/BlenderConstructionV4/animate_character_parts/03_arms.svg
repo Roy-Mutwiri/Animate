@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+<style>
+.line{fill:none;stroke:#181310;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+.thin{fill:none;stroke:#181310;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+.chairBack{fill:#9b8985;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSeat{fill:#c5b0ad;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairDark{fill:#675753;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSide{fill:#766863;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.skin{fill:#d9ddd4;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.eye{fill:#fbfff8;stroke:#181310;stroke-width:5}
+</style>
+</defs>
+<path class="line" d="M 435.4 651.0 L 190.1 848.3"/>
+<path class="line" d="M 190.1 848.3 L 172.3 918.2"/>
+<path class="line" d="M 579.8 651.0 L 751.1 859.6"/>
+<path class="line" d="M 751.1 859.6 L 861.4 932.1"/>
+<circle cx="172.3" cy="918.2" r="13" fill="#181310"/>
+<ellipse cx="861.4" cy="932.1" rx="16" ry="12" fill="#181310"/>
+</svg>

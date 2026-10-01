@@ -1,0 +1,11 @@
+# ProductionFull_v4 Issue Log
+
+| Shot/timecode | Visible defect or risk | Correction | Recheck result |
+|---|---|---|---|
+| All close-ups | V3 gesture arms crossed too close to head/neck and read as stray stick lines | Lowered and bent respondent active-arm poses in the V4 generator; kept shoulder/elbow/wrist path below the mouth/eyes | Rechecked `previews\sample_v4_review_sheet.png` and `previews\opening_dialogue_pose_review.png`; active arms no longer cover the mouth/eye area, though silhouettes remain simple |
+| Spoken frames, especially line starts/ends | V3 cue JSON was copied from V2 and metadata pointed to V2 analysis WAVs; phrase-end cleanup could close mouths early | Regenerated Rhubarb cue JSONs against V4-local full-length speaker analysis WAVs; changed frame conversion to `floor(seconds * 24 + 0.5)`; extended three line tails using waveform/cue evidence | Cue metadata now points to `ProductionFull_v4\assets`; MP4 has 1702 video frames and original audio duration preserved |
+| Mouth construction | V3 mouth drawings were oversized blocks/ellipses and sometimes read as pasted on | Rebuilt mapping so Rhubarb `B`, `C`, `D`, `E`, `F`, `G`, `H`, `X/A` each have smaller lower-face drawing families; added cheek/eyelid support | Review sheets show smaller, clearer lower-face placement; lip sync remains cue/frame reviewed, not ear-verified |
+| Chair/body overlaps | V3 chair foreground could still hide or confuse pelvis/thigh support | Kept split chair passes and adjusted close-up foreground occlusion; reviewed representative frames | Contact sheets show more readable seated contact than V3, but chair/body construction is still simplified versus reference |
+| Editable source | Initial V4 Animate source had one populated vector layer | Created `honest_interview_full_v4_layered_keyed_timeline.fla` with seven populated layers | Animate MCP reports 7 layers: Mouth, Brows_Eyes_Head, Arms, Body_Legs, Chair_Foreground, Chair_Back_Seat, Background |
+| Animate timeline length | Layered FLA reports 1703 frames after creation; attempted trim JSFL did not reduce it | Preserved result and documented exact mismatch | Final PNG sequence and MP4 are 1702 frames; layered FLA has one extra held/blank tail frame in Animate |
+

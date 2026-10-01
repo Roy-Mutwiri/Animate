@@ -1,0 +1,5 @@
+# Current ProductionFull_v5 generator and review utilities.
+# Historical environment was not locked; see docs/WORKFLOW.md.
+numpy
+Pillow
+opencv-python

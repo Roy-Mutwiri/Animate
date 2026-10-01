@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+<style>
+.line{fill:none;stroke:#181310;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+.thin{fill:none;stroke:#181310;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+.chairBack{fill:#9b8985;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSeat{fill:#c5b0ad;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairDark{fill:#675753;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSide{fill:#766863;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.skin{fill:#d9ddd4;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.eye{fill:#fbfff8;stroke:#181310;stroke-width:5}
+</style>
+</defs>
+<ellipse class="eye" cx="466.1" cy="524.1" rx="20" ry="34"/>
+<ellipse class="eye" cx="534.0" cy="520.1" rx="20" ry="32"/>
+<ellipse cx="481.1" cy="524.1" rx="6" ry="11" fill="#181310"/>
+<ellipse cx="549.0" cy="519.1" rx="6" ry="10" fill="#181310"/>
+</svg>

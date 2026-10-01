@@ -1,0 +1,10 @@
+sheet,start_frame,end_frame,start_time,end_time,visual_inspection_status
+sheet_0001_f00000-00023.jpg,0,23,0.0,0.92,not_yet_inspected
+sheet_0002_f00024-00047.jpg,24,47,0.96,1.88,not_yet_inspected
+sheet_0003_f00048-00071.jpg,48,71,1.92,2.84,not_yet_inspected
+sheet_0004_f00072-00095.jpg,72,95,2.88,3.8,not_yet_inspected
+sheet_0005_f00096-00119.jpg,96,119,3.84,4.76,not_yet_inspected
+sheet_0006_f00120-00143.jpg,120,143,4.8,5.72,not_yet_inspected
+sheet_0007_f00144-00167.jpg,144,167,5.76,6.68,not_yet_inspected
+sheet_0008_f00168-00191.jpg,168,191,6.72,7.64,not_yet_inspected
+sheet_0009_f00192-00199.jpg,192,199,7.68,7.96,not_yet_inspected

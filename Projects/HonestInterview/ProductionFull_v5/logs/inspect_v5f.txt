@@ -1,0 +1,24 @@
+document honest_interview_v5f.fla 1080x1920 fps=24 frames=1702 layers=17
+layer 0 FX_Iris span=1702 keyframes=45
+layer 1 GL_mouth span=1702 keyframes=302
+layer 2 GL_glasses span=1702 keyframes=113
+layer 3 GL_brows span=1702 keyframes=117
+layer 4 GL_eyes span=1702 keyframes=145
+layer 5 GL_head span=1702 keyframes=111
+layer 6 GL_body span=1702 keyframes=111
+layer 7 CAP_mouth span=1702 keyframes=525
+layer 8 CAP_brows span=1702 keyframes=132
+layer 9 CAP_eyes span=1702 keyframes=256
+layer 10 CAP_head span=1702 keyframes=198
+layer 11 CAP_body span=1702 keyframes=232
+layer 12 SET_Chair_GL span=1702 keyframes=143
+layer 13 SET_Chair_CAP span=1702 keyframes=143
+layer 14 SET_Nightstand span=1702 keyframes=143
+layer 15 SET_Room span=1702 keyframes=143
+layer 16 AUDIO_original span=1702 keyframes=1 sound=Bro was so honest.mp3 sync=stream
+library 16: FACE(folder), HEAD(folder), MOUTH(folder), SET(folder), FACE/Brows(graphic,8f), FACE/Eyes_Cap(graphic,9f), FACE/Eyes_Glasses(graphic,9f), FACE/Glasses(graphic,1f), HEAD/Head_Cap(graphic,1f), HEAD/Head_Glasses(graphic,1f), MOUTH/Mouth_Cap(graphic,36f), MOUTH/Mouth_Glasses(graphic,36f), SET/Armchair(graphic,1f), SET/Nightstand(graphic,1f), SET/Room(graphic,1f), Bro was so honest.mp3(sound)
+CAP_mouth frame 216: MOUTH/Mouth_Cap firstFrame=14 loop=single frame
+CAP_mouth frame 253: MOUTH/Mouth_Cap firstFrame=12 loop=single frame
+CAP_mouth frame 1600: MOUTH/Mouth_Cap firstFrame=20 loop=single frame
+CAP_mouth frame 1695: MOUTH/Mouth_Cap firstFrame=20 loop=single frame
+DONE

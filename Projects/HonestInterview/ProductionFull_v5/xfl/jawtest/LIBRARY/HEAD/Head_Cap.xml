@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="HEAD/Head_Cap" symbolType="graphic"><timeline><DOMTimeline name="Head_Cap"><layers><DOMLayer name="art" color="#4F80FF"><frames><DOMFrame index="0" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#CECECE"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="9.90" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="!2385 0[2385 639 2065 1192[1746 1746 1193 2065[639 2385 0 2385[-639 2385 -1192 2065[-1746 1746 -2065 1192[-2385 639 -2385 0[-2385 -639 -2065 -1192[-1746 -1746 -1193 -2065[-639 -2385 0 -2385[639 -2385 1193 -2065[1746 -1746 2065 -1193[2385 -639 2385 0"/>
+</edges></DOMShape>
+<DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="1.50" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="!-2160 -922[-2340 -900 -2295 -1305[-2250 -1710 -1935 -2115[-1620 -2520 -1080 -2678[-540 -2835 45 -2812[630 -2790 1125 -2565[1620 -2340 1912 -2025[2205 -1710 2295 -1462[2385 -1215 2092 -1282[1800 -1350 1125 -1328[450 -1305 -225 -1238[-900 -1170 -1440 -1058[-1980 -945 -2160 -922"/>
+<Edge fillStyle1="1" strokeStyle="1" edges="!-1755 -1058[-1710 -1350 -2205 -1372[-2700 -1395 -3150 -1305[-3600 -1215 -3758 -1080[-3915 -945 -3758 -832[-3600 -720 -3150 -698[-2700 -675 -2250 -720[-1800 -765 -1755 -1058"/>
+</edges></DOMShape>
+<DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="2.70" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!1530 -1350|1710 -1080"/>
+<Edge strokeStyle="1" edges="!1800 -1350|2025 -1125"/>
+<Edge strokeStyle="1" edges="!2070 -1305|2250 -1080"/>
+</edges></DOMShape>
+<DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#F8EB63"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!1030 -1945[1010 -1869 958 -1826[905 -1783 851 -1797[797 -1812 773 -1876[749 -1939 770 -2015[790 -2091 842 -2134[895 -2177 949 -2163[1003 -2148 1027 -2084[1051 -2021 1030 -1945"/>
+</edges></DOMShape></elements></DOMFrame></frames></DOMLayer></layers></DOMTimeline></timeline></DOMSymbolItem>

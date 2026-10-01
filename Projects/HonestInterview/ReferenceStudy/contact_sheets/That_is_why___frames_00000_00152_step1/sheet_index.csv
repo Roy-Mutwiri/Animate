@@ -1,0 +1,8 @@
+sheet,start_frame,end_frame,start_time,end_time,visual_inspection_status
+sheet_0001_f00000-00023.jpg,0,23,0.0,0.9583333333333334,not_yet_inspected
+sheet_0002_f00024-00047.jpg,24,47,1.0,1.9583333333333333,not_yet_inspected
+sheet_0003_f00048-00071.jpg,48,71,2.0,2.9583333333333335,not_yet_inspected
+sheet_0004_f00072-00095.jpg,72,95,3.0,3.9583333333333335,not_yet_inspected
+sheet_0005_f00096-00119.jpg,96,119,4.0,4.958333333333333,not_yet_inspected
+sheet_0006_f00120-00143.jpg,120,143,5.0,5.958333333333333,not_yet_inspected
+sheet_0007_f00144-00152.jpg,144,152,6.0,6.333333333333333,not_yet_inspected

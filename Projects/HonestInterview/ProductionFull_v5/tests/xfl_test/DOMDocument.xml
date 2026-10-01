@@ -1,0 +1,18 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#FFFFFF" width="1080" height="1920" frameRate="24" currentTimeline="1" xflVersion="22.02" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 15" majorVersion="24" buildNumber="15" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false"><folders><DOMFolderItem name="Test" isExpanded="false"/></folders><symbols><Include href="Test/Mouth.xml" loadImmediate="false"/></symbols><timelines><DOMTimeline name="Scene 1"><layers><DOMLayer name="shapes" color="#4F80FF"><frames><DOMFrame index="0" duration="24" keyMode="9728"><elements><DOMShape>
+<fills>
+<FillStyle index="1"><SolidColor color="#FF0000"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#00AA00"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#DDDDDD"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="6.00" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="8.00" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!2000 2000|8000 2000|8000 8000|2000 8000|2000 2000"/>
+<Edge fillStyle1="2" edges="!12000 2000|12000 8000|18000 8000|18000 2000|12000 2000"/>
+<Edge fillStyle1="3" strokeStyle="1" edges="!14800 16000[14800 17243 13628 18121[12457 19000 10800 19000[9143 19000 7972 18121[6800 17243 6800 16000[6800 14757 7972 13879[9143 13000 10800 13000[12457 13000 13628 13879[14800 14757 14800 16000"/>
+<Edge strokeStyle="2" edges="!2000 24000[6000 20000 8000 23000[10000 26000 16000 22000"/>
+</edges></DOMShape></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="mouth" color="#4F80FF"><frames><DOMFrame index="0" duration="12" tweenType="motion" motionTweenSnap="true" keyMode="22017"><elements><DOMSymbolInstance libraryItemName="Test/Mouth" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="300.00" ty="1500.00"/></matrix><transformationPoint><Point x="0.00" y="0.00"/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="12" duration="12" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="Test/Mouth" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="0.866025" b="0.500000" c="-0.500000" d="0.866025" tx="800.00" ty="1600.00"/></matrix><transformationPoint><Point x="0.00" y="0.00"/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer></layers></DOMTimeline></timelines></DOMDocument>

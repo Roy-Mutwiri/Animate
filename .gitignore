@@ -1,0 +1,34 @@
+# Local environments and reproducible interpreter caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+
+# Credentials, authentication/session data and local configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+cookies.txt
+cookies.json
+CookiesDir/
+sessions/
+.aws/
+.ssh/
+.codex/
+
+# OS metadata
+Thumbs.db
+.DS_Store
+
+# Originals preserved in .repo-assets/parts; restore with scripts/large_assets.py.
+/Goal/GPU-Link-Setup (1).exe
+/Goal/GPU-Link-Setup.exe
+/Goal/TikTokStreamClipper-v1.0.2-win64.zip
+/Goal/TikTokStreamClipper-v1.0.2-win64/TikTokStreamClipper/TikTokStreamClipper.exe
+/Projects/HonestInterview/tools/Rhubarb-Lip-Sync-1.14.0-Windows.zip
+*.restore-tmp

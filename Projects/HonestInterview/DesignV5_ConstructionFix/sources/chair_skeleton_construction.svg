@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .line { fill:none; stroke:#181310; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .limb { fill:none; stroke:#181310; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#181310; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; }
+      .soft { fill:none; stroke:#676b65; stroke-width:4; stroke-linecap:round; stroke-linejoin:round; opacity:.55; }
+      .chair { fill:#9b8985; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .chair2 { fill:#c5b0ad; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .chairDark { fill:#675753; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .skin { fill:#d9ddd4; stroke:#181310; stroke-width:7; stroke-linejoin:round; }
+      .shirt { fill:#f7efe3; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .eye { fill:#fbfff8; stroke:#181310; stroke-width:5; }
+      .skel { fill:none; stroke:#0d63c7; stroke-width:6; stroke-linecap:round; stroke-linejoin:round; opacity:.9; }
+      .joint { fill:#0d63c7; stroke:#ffffff; stroke-width:3; opacity:.95; }
+      .mark { fill:none; stroke:#d64b3f; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; opacity:.9; }
+    </style>
+  </defs>
+  
+      <rect width="1080" height="1920" fill="#d5d2cc"/>
+      <rect x="696" y="126" width="218" height="284" fill="#fbfaf4" stroke="#58524d" stroke-width="7"/>
+      <path d="M805 129 L805 408 M699 264 L912 264" class="soft"/>
+      <path d="M0 1138 L1080 1138 L1080 1920 L0 1920 Z" fill="#808680"/>
+      <path d="M0 1365 C270 1332 760 1332 1080 1365" class="soft"/>
+      <path d="M0 1600 C330 1562 780 1564 1080 1602" class="soft"/>
+      <path d="M184 1138 L42 1920 M430 1138 L380 1920 M704 1138 L795 1920 M940 1138 L1068 1920" class="soft"/>
+    
+
+      <g transform="translate(742 955)">
+        <ellipse cx="64" cy="210" rx="120" ry="30" fill="#5d625d" opacity=".28"/>
+        <rect x="0" y="68" width="132" height="160" fill="#444842" stroke="#181310" stroke-width="5"/>
+        <rect x="18" y="92" width="96" height="42" fill="#3d413c" stroke="#181310" stroke-width="4"/>
+        <rect x="18" y="154" width="96" height="42" fill="#3d413c" stroke="#181310" stroke-width="4"/>
+        <circle cx="68" cy="113" r="5" fill="#caa6a0" stroke="#181310" stroke-width="3"/>
+        <circle cx="68" cy="175" r="5" fill="#caa6a0" stroke="#181310" stroke-width="3"/>
+      </g>
+    
+<ellipse cx="514" cy="1325" rx="285" ry="58" fill="#5f625e" opacity=".34"/>
+
+          <path d="M350 620 C414 560 555 546 660 596 C734 632 775 720 766 830 L734 1128 L326 1128 L300 824 C292 736 306 665 350 620 Z" class="chair"/>
+          <path d="M354 610 C444 661 607 656 692 616 L707 852 C604 904 451 905 316 850 Z" class="chair2"/>
+        
+<path d="M348 945 L720 945 L684 1060 L378 1060 Z" fill="#e8cdd0" stroke="#181310" stroke-width="6" stroke-linejoin="round"/>
+<path d="M656 850 L772 890 L724 1290 L620 1290 Z" class="chairDark"/>
+<path d="M286 858 L394 824 L380 1290 L260 1290 Z" class="chair"/>
+<path d="M366 1198 L724 1198 L682 1356 L402 1356 Z" class="chairDark"/>
+<path d="M328 1026 C420 998 594 1000 714 1028" class="soft"/>
+
+      <g>
+        <circle class="mark" cx="520" cy="596" r="94"/>
+        <path class="skel" d="M476 730 L552 730 L522 982 Z"/>
+        <path class="skel" d="M474 986 L414 1168 L386 1308"/>
+        <path class="skel" d="M566 982 L632 1168 L664 1312"/>
+        <path class="skel" d="M476 730 L340 944 L334 1036"/>
+        <path class="skel" d="M552 730 L696 932 L718 1018"/>
+        <path class="mark" d="M448 944 L596 944"/>
+        <path class="mark" d="M474 986 C500 1010 548 1010 566 982"/>
+        <path class="skel" d="M386 1308 L342 1328 M664 1312 L718 1324"/>
+        <circle class="joint" cx="520" cy="596" r="10"/>
+<circle class="joint" cx="476" cy="730" r="10"/>
+<circle class="joint" cx="552" cy="730" r="10"/>
+<circle class="joint" cx="522" cy="982" r="10"/>
+<circle class="joint" cx="474" cy="986" r="10"/>
+<circle class="joint" cx="566" cy="982" r="10"/>
+<circle class="joint" cx="414" cy="1168" r="10"/>
+<circle class="joint" cx="632" cy="1168" r="10"/>
+<circle class="joint" cx="386" cy="1308" r="10"/>
+<circle class="joint" cx="664" cy="1312" r="10"/>
+      </g>
+    
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1180" viewBox="0 0 1800 1180">
+  <defs>
+    <style>
+      .line { fill:none; stroke:#181310; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .limb { fill:none; stroke:#181310; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#181310; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; }
+      .soft { fill:none; stroke:#676b65; stroke-width:4; stroke-linecap:round; stroke-linejoin:round; opacity:.55; }
+      .chair { fill:#9b8985; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .chair2 { fill:#c5b0ad; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .chairDark { fill:#675753; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .skin { fill:#d9ddd4; stroke:#181310; stroke-width:7; stroke-linejoin:round; }
+      .shirt { fill:#f7efe3; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .eye { fill:#fbfff8; stroke:#181310; stroke-width:5; }
+      .skel { fill:none; stroke:#0d63c7; stroke-width:6; stroke-linecap:round; stroke-linejoin:round; opacity:.9; }
+      .joint { fill:#0d63c7; stroke:#ffffff; stroke-width:3; opacity:.95; }
+      .mark { fill:none; stroke:#d64b3f; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; opacity:.9; }
+    </style>
+  </defs>
+  
+      <rect width="1800" height="1180" fill="#eee9df"/>
+      <text x="56" y="66" font-family="Arial" font-size="34" fill="#181310">Reference frame 62 / 2.48s</text>
+      <text x="640" y="66" font-family="Arial" font-size="34" fill="#181310">Chair + skeleton construction</text>
+      <text x="1220" y="66" font-family="Arial" font-size="34" fill="#181310">Corrected original still</text>
+      <image href="file:///D:/Animate/Projects/HonestInterview/ReferenceStudy/frames/ref_2p48_yes_cut.png" x="72" y="112" width="360" height="638"/>
+      <image href="file:///D:/Animate/Projects/HonestInterview/DesignV5_ConstructionFix/exports/chair_skeleton_construction.png" x="602" y="112" width="360" height="640"/>
+      <image href="file:///D:/Animate/Projects/HonestInterview/DesignV5_ConstructionFix/exports/seated_character_scene_corrected.png" x="1210" y="112" width="360" height="640"/>
+      <text x="56" y="820" font-family="Arial" font-size="25" fill="#181310">Observed remaining differences: original is more front-facing; head still a little larger and cleaner than the rough source.</text>
+      <text x="56" y="862" font-family="Arial" font-size="25" fill="#181310">Corrected: horizontal cushion, pelvis on cushion, visible thighs to knees, feet on floor, forearms on armrests.</text>
+    
+</svg>

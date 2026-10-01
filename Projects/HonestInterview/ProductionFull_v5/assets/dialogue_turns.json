@@ -1,0 +1,1383 @@
+{
+ "audio": "D:\\Animate\\Sounds\\Bro was so honest.mp3",
+ "duration": 70.889,
+ "analysis_sample_rate": 16000,
+ "reference_video": "D:\\Animate\\Goal\\Bro was so honest.mp4",
+ "reference_offset_s": 0.001,
+ "speakers": {
+  "CAP": "respondent (cap)",
+  "NOCAP": "interviewer (glasses, no cap)"
+ },
+ "turns": [
+  {
+   "speaker": "NOCAP",
+   "text": "Okay,",
+   "start": 0.25,
+   "end": 0.47,
+   "duration": 0.22,
+   "words": [
+    {
+     "w": "Okay",
+     "start": 0.25,
+     "end": 0.47
+    }
+   ],
+   "word_timing_source": "single word = phrase bounds",
+   "voice": {
+    "yin_f0_median_hz": 231.72869885327032,
+    "pyin_f0_median_hz": null,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "Two-shot 0.00-0.52: NOCAP mouth goes from smile to 'O' at f7-f9 (0.28-0.36) then open grin f10-f14; CAP mouth static flat. Whisper 'Okay'."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "for ten billion dollars, would you—",
+   "start": 0.7,
+   "end": 2.45,
+   "duration": 1.75,
+   "words": [
+    {
+     "w": "for",
+     "start": 0.7,
+     "end": 0.76
+    },
+    {
+     "w": "ten",
+     "start": 0.76,
+     "end": 0.88
+    },
+    {
+     "w": "billion",
+     "start": 0.88,
+     "end": 1.16
+    },
+    {
+     "w": "dollars",
+     "start": 1.16,
+     "end": 1.46
+    },
+    {
+     "w": "would",
+     "start": 1.66,
+     "end": 2.04
+    },
+    {
+     "w": "you",
+     "start": 2.04,
+     "end": 2.45
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 142.77580939229554,
+    "pyin_f0_median_hz": 143.82863912505343,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "NOCAP close-up from ~0.5 s; NOCAP mouth active until f61 (2.44). pyin median 144 Hz (NOCAP range)."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Yes.",
+   "start": 2.56,
+   "end": 2.87,
+   "duration": 0.31,
+   "words": [
+    {
+     "w": "Yes",
+     "start": 2.56,
+     "end": 2.87
+    }
+   ],
+   "word_timing_source": "single word = phrase bounds",
+   "voice": {
+    "yin_f0_median_hz": null,
+    "pyin_f0_median_hz": null,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Cut to CAP at f62 (2.48); CAP mouth opens f64-f68 (2.56-2.72). Audio: 'you' decays by 2.44, new burst 2.57-2.63 + /s/ hiss to 2.86."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "Um, no, I didn't finish the question, I—",
+   "start": 4.84,
+   "end": 7.06,
+   "duration": 2.22,
+   "words": [
+    {
+     "w": "Um",
+     "start": 4.84,
+     "end": 4.96
+    },
+    {
+     "w": "no",
+     "start": 5.02,
+     "end": 5.3
+    },
+    {
+     "w": "I",
+     "start": 5.38,
+     "end": 5.46
+    },
+    {
+     "w": "didn't",
+     "start": 5.46,
+     "end": 5.86
+    },
+    {
+     "w": "finish",
+     "start": 5.86,
+     "end": 6.08
+    },
+    {
+     "w": "the",
+     "start": 6.08,
+     "end": 6.34
+    },
+    {
+     "w": "question",
+     "start": 6.34,
+     "end": 6.7
+    },
+    {
+     "w": "I",
+     "start": 6.82,
+     "end": 7.06
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 109.28943575988441,
+    "pyin_f0_median_hz": 110.58673092361124,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "NOCAP close-up f114-f179; mouth static until f123 (4.92) then active through f176 (7.04). large-v3 hears 'Um, no, I didn't finish the question, I-' (earlier transcript lacked 'no')."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Listen here.",
+   "start": 7.2,
+   "end": 7.47,
+   "duration": 0.27,
+   "words": [
+    {
+     "w": "Listen",
+     "start": 7.2,
+     "end": 7.34
+    },
+    {
+     "w": "here",
+     "start": 7.34,
+     "end": 7.47
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 135.52285725535808,
+    "pyin_f0_median_hz": 131.51052723924994,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Energy gap 7.07-7.19 (-36..-44 dB). Cut to CAP at f180 (7.20); CAP mouth open f181 (7.24), f184 (7.36), f188 (7.52 'O'). NOCAP's last open mouth is f174-f176 (6.96-7.04). large-v3 separates 'I-' / 'Listen here.' So 'Listen here' is CAP interrupting (v4 had it as NOCAP 'I'd listen here'). Voice evidence weak (only 25 voiced frames, 132 Hz)."
+  },
+  {
+   "speaker": "CAP",
+   "text": "There is nothing,",
+   "start": 8.86,
+   "end": 9.41,
+   "duration": 0.55,
+   "words": [
+    {
+     "w": "There",
+     "start": 8.86,
+     "end": 8.92
+    },
+    {
+     "w": "is",
+     "start": 8.92,
+     "end": 9.04
+    },
+    {
+     "w": "nothing",
+     "start": 9.04,
+     "end": 9.41
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 91.58570014028031,
+    "pyin_f0_median_hz": 95.16715783063816,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "CAP",
+   "text": "and I mean nothing,",
+   "start": 10.17,
+   "end": 11.9,
+   "duration": 1.73,
+   "words": [
+    {
+     "w": "and",
+     "start": 10.17,
+     "end": 10.42
+    },
+    {
+     "w": "I",
+     "start": 10.42,
+     "end": 10.54
+    },
+    {
+     "w": "mean",
+     "start": 10.54,
+     "end": 10.74
+    },
+    {
+     "w": "nothing",
+     "start": 10.74,
+     "end": 11.9
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 117.4488911821051,
+    "pyin_f0_median_hz": 117.84127594565435,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "CAP",
+   "text": "that could come out of that little pie hole of yours",
+   "start": 12.54,
+   "end": 14.42,
+   "duration": 1.88,
+   "words": [
+    {
+     "w": "that",
+     "start": 12.54,
+     "end": 12.6
+    },
+    {
+     "w": "could",
+     "start": 12.6,
+     "end": 12.66
+    },
+    {
+     "w": "come",
+     "start": 12.66,
+     "end": 12.88
+    },
+    {
+     "w": "out",
+     "start": 12.88,
+     "end": 13.06
+    },
+    {
+     "w": "of",
+     "start": 13.06,
+     "end": 13.16
+    },
+    {
+     "w": "that",
+     "start": 13.16,
+     "end": 13.24
+    },
+    {
+     "w": "little",
+     "start": 13.24,
+     "end": 13.46
+    },
+    {
+     "w": "pie",
+     "start": 13.46,
+     "end": 13.72
+    },
+    {
+     "w": "hole",
+     "start": 13.72,
+     "end": 14.08
+    },
+    {
+     "w": "of",
+     "start": 14.08,
+     "end": 14.3
+    },
+    {
+     "w": "yours",
+     "start": 14.3,
+     "end": 14.42
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 86.30909065613739,
+    "pyin_f0_median_hz": 87.26721268071712,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "CAP",
+   "text": "to make me turn down ten billion dollars.",
+   "start": 15.05,
+   "end": 18.48,
+   "duration": 3.43,
+   "words": [
+    {
+     "w": "to",
+     "start": 15.05,
+     "end": 15.11
+    },
+    {
+     "w": "make",
+     "start": 15.11,
+     "end": 15.2
+    },
+    {
+     "w": "me",
+     "start": 15.2,
+     "end": 15.32
+    },
+    {
+     "w": "turn",
+     "start": 15.32,
+     "end": 15.56
+    },
+    {
+     "w": "down",
+     "start": 15.56,
+     "end": 16.02
+    },
+    {
+     "w": "ten",
+     "start": 16.5,
+     "end": 16.97
+    },
+    {
+     "w": "billion",
+     "start": 17.3,
+     "end": 17.75
+    },
+    {
+     "w": "dollars",
+     "start": 18.2,
+     "end": 18.48
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 84.9471383848618,
+    "pyin_f0_median_hz": 89.3069870847758,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "CAP mouth: pursed B/M closure at f434 (17.36) = 'b' of billion; wide 'dol-' f456-f461 (18.24-18.44); O shapes to f467 (18.68). Spelled-number prompt clip returns 'ten billion dollars'. After 18.48 CAP holds an open mouth f474-f479 (18.96-19.16) over weak audio (-31 dB at 18.8-19.06) = breath/hold, not a word."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "Even if one random person had to die?",
+   "start": 20.62,
+   "end": 23.35,
+   "duration": 2.73,
+   "words": [
+    {
+     "w": "Even",
+     "start": 20.62,
+     "end": 20.68
+    },
+    {
+     "w": "if",
+     "start": 20.68,
+     "end": 20.94
+    },
+    {
+     "w": "one",
+     "start": 20.94,
+     "end": 21.36
+    },
+    {
+     "w": "random",
+     "start": 21.36,
+     "end": 21.86
+    },
+    {
+     "w": "person",
+     "start": 21.86,
+     "end": 22.34
+    },
+    {
+     "w": "had",
+     "start": 22.34,
+     "end": 22.8
+    },
+    {
+     "w": "to",
+     "start": 22.8,
+     "end": 23.0
+    },
+    {
+     "w": "die",
+     "start": 23.0,
+     "end": 23.35
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 106.2769142329831,
+    "pyin_f0_median_hz": 106.81974089615274,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "NOCAP close-up from f485 (19.40) holds a static open reaction mouth until ~f515 (20.60); speech onset 20.62 matches. Blips at 20.0-20.1 / 20.3 are below speech level."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Yes.",
+   "start": 23.44,
+   "end": 23.84,
+   "duration": 0.4,
+   "words": [
+    {
+     "w": "Yes",
+     "start": 23.44,
+     "end": 23.84
+    }
+   ],
+   "word_timing_source": "single word = phrase bounds",
+   "voice": {
+    "yin_f0_median_hz": 119.40593880514584,
+    "pyin_f0_median_hz": 119.9011051661721,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "'die?' ends 23.35; CAP shot cut at f585 (23.40), CAP mouth active f589-f593 (23.56-23.72)."
+  },
+  {
+   "speaker": "CAP",
+   "text": "The answer is yes.",
+   "start": 24.04,
+   "end": 25.66,
+   "duration": 1.62,
+   "words": [
+    {
+     "w": "The",
+     "start": 24.04,
+     "end": 24.48
+    },
+    {
+     "w": "answer",
+     "start": 24.48,
+     "end": 24.7
+    },
+    {
+     "w": "is",
+     "start": 24.7,
+     "end": 24.84
+    },
+    {
+     "w": "yes",
+     "start": 24.84,
+     "end": 25.66
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 116.91108722153743,
+    "pyin_f0_median_hz": 116.48775344855382,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "Okay, what if it was someone you knew?",
+   "start": 25.94,
+   "end": 27.56,
+   "duration": 1.62,
+   "words": [
+    {
+     "w": "Okay",
+     "start": 25.94,
+     "end": 26.02
+    },
+    {
+     "w": "what",
+     "start": 26.16,
+     "end": 26.26
+    },
+    {
+     "w": "if",
+     "start": 26.26,
+     "end": 26.92
+    },
+    {
+     "w": "it",
+     "start": 26.92,
+     "end": 26.98
+    },
+    {
+     "w": "was",
+     "start": 26.98,
+     "end": 27.06
+    },
+    {
+     "w": "someone",
+     "start": 27.06,
+     "end": 27.22
+    },
+    {
+     "w": "you",
+     "start": 27.22,
+     "end": 27.38
+    },
+    {
+     "w": "knew",
+     "start": 27.38,
+     "end": 27.56
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 87.9041181036659,
+    "pyin_f0_median_hz": 95.16557023646565,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Yes. Take my aunt. Take my grandma.",
+   "start": 27.74,
+   "end": 30.38,
+   "duration": 2.64,
+   "words": [
+    {
+     "w": "Yes",
+     "start": 27.74,
+     "end": 27.82
+    },
+    {
+     "w": "Take",
+     "start": 27.9,
+     "end": 28.14
+    },
+    {
+     "w": "my",
+     "start": 28.14,
+     "end": 28.34
+    },
+    {
+     "w": "aunt",
+     "start": 28.34,
+     "end": 28.64
+    },
+    {
+     "w": "Take",
+     "start": 28.84,
+     "end": 29.26
+    },
+    {
+     "w": "my",
+     "start": 29.26,
+     "end": 29.42
+    },
+    {
+     "w": "grandma",
+     "start": 29.42,
+     "end": 30.38
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 84.66919608093863,
+    "pyin_f0_median_hz": 89.3069870847758,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Hell, you could blow the block up.",
+   "start": 30.64,
+   "end": 31.78,
+   "duration": 1.14,
+   "words": [
+    {
+     "w": "Hell",
+     "start": 30.64,
+     "end": 30.7
+    },
+    {
+     "w": "you",
+     "start": 30.74,
+     "end": 30.92
+    },
+    {
+     "w": "could",
+     "start": 30.92,
+     "end": 31.04
+    },
+    {
+     "w": "blow",
+     "start": 31.04,
+     "end": 31.3
+    },
+    {
+     "w": "the",
+     "start": 31.3,
+     "end": 31.5
+    },
+    {
+     "w": "block",
+     "start": 31.5,
+     "end": 31.72
+    },
+    {
+     "w": "up",
+     "start": 31.72,
+     "end": 31.78
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 93.25695105831076,
+    "pyin_f0_median_hz": 84.78288453476168,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Can you even fathom how much money ten billion dollars is?",
+   "start": 31.9,
+   "end": 37.45,
+   "duration": 5.55,
+   "words": [
+    {
+     "w": "Can",
+     "start": 31.9,
+     "end": 32.34
+    },
+    {
+     "w": "you",
+     "start": 32.34,
+     "end": 32.52
+    },
+    {
+     "w": "even",
+     "start": 32.52,
+     "end": 32.72
+    },
+    {
+     "w": "fathom",
+     "start": 32.72,
+     "end": 33.56
+    },
+    {
+     "w": "how",
+     "start": 33.56,
+     "end": 34.3
+    },
+    {
+     "w": "much",
+     "start": 34.3,
+     "end": 34.6
+    },
+    {
+     "w": "money",
+     "start": 34.6,
+     "end": 35.0
+    },
+    {
+     "w": "ten",
+     "start": 35.0,
+     "end": 35.62
+    },
+    {
+     "w": "billion",
+     "start": 35.62,
+     "end": 36.18
+    },
+    {
+     "w": "dollars",
+     "start": 36.18,
+     "end": 36.76
+    },
+    {
+     "w": "is",
+     "start": 36.76,
+     "end": 37.45
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 86.18961762761882,
+    "pyin_f0_median_hz": 80.95422545332349,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "Oh, it's just a hypothetical.",
+   "start": 37.92,
+   "end": 39.3,
+   "duration": 1.38,
+   "words": [
+    {
+     "w": "Oh",
+     "start": 37.92,
+     "end": 38.18
+    },
+    {
+     "w": "it's",
+     "start": 38.24,
+     "end": 38.38
+    },
+    {
+     "w": "just",
+     "start": 38.38,
+     "end": 38.54
+    },
+    {
+     "w": "a",
+     "start": 38.54,
+     "end": 38.68
+    },
+    {
+     "w": "hypothetical",
+     "start": 38.68,
+     "end": 39.3
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 123.44383688034051,
+    "pyin_f0_median_hz": 65.0,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "NOCAP shot f948-f990; NOCAP mouth closes by ~39.44. Short voiced bit 39.42-39.49 assigned to CAP onset ('And')."
+  },
+  {
+   "speaker": "CAP",
+   "text": "And if it was a reality,",
+   "start": 39.42,
+   "end": 40.93,
+   "duration": 1.51,
+   "words": [
+    {
+     "w": "And",
+     "start": 39.42,
+     "end": 39.6
+    },
+    {
+     "w": "if",
+     "start": 39.6,
+     "end": 39.78
+    },
+    {
+     "w": "it",
+     "start": 39.78,
+     "end": 39.88
+    },
+    {
+     "w": "was",
+     "start": 39.88,
+     "end": 40.02
+    },
+    {
+     "w": "a",
+     "start": 40.02,
+     "end": 40.14
+    },
+    {
+     "w": "reality",
+     "start": 40.14,
+     "end": 40.93
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 118.6762220858692,
+    "pyin_f0_median_hz": 117.16256013940793,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "CAP",
+   "text": "I'd be first in line.",
+   "start": 41.32,
+   "end": 43.49,
+   "duration": 2.17,
+   "words": [
+    {
+     "w": "I'd",
+     "start": 41.32,
+     "end": 41.64
+    },
+    {
+     "w": "be",
+     "start": 41.64,
+     "end": 41.78
+    },
+    {
+     "w": "first",
+     "start": 41.78,
+     "end": 42.22
+    },
+    {
+     "w": "in",
+     "start": 42.22,
+     "end": 43.04
+    },
+    {
+     "w": "line",
+     "start": 43.04,
+     "end": 43.49
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 81.82906513064238,
+    "pyin_f0_median_hz": 65.0,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "You're talking about human lives for ten billion dollars. What would—",
+   "start": 43.92,
+   "end": 47.42,
+   "duration": 3.5,
+   "words": [
+    {
+     "w": "You're",
+     "start": 43.92,
+     "end": 44.0
+    },
+    {
+     "w": "talking",
+     "start": 44.0,
+     "end": 44.26
+    },
+    {
+     "w": "about",
+     "start": 44.26,
+     "end": 44.54
+    },
+    {
+     "w": "human",
+     "start": 44.54,
+     "end": 44.84
+    },
+    {
+     "w": "lives",
+     "start": 44.84,
+     "end": 45.28
+    },
+    {
+     "w": "for",
+     "start": 45.28,
+     "end": 45.54
+    },
+    {
+     "w": "ten",
+     "start": 45.54,
+     "end": 45.94
+    },
+    {
+     "w": "billion",
+     "start": 45.94,
+     "end": 46.48
+    },
+    {
+     "w": "dollars",
+     "start": 46.48,
+     "end": 46.78
+    },
+    {
+     "w": "What",
+     "start": 47.12,
+     "end": 47.26
+    },
+    {
+     "w": "would",
+     "start": 47.26,
+     "end": 47.42
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 186.4171202332753,
+    "pyin_f0_median_hz": 183.84776310850236,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "NOCAP mouth active to f1177 (47.08) then O shapes f1178-f1184 (47.12-47.36) = 'What would-'. beam-5 large-v3 hears 'dollars. What would-' before 'Hey'. Cut to CAP at f1187 (47.48) with CAP mouth already open. The NOCAP cut-off and CAP 'Hey' abut (possible <0.05 s overlap at 47.42-47.46)."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Hey, hey, hey, hey.",
+   "start": 47.46,
+   "end": 48.71,
+   "duration": 1.25,
+   "words": [
+    {
+     "w": "Hey",
+     "start": 47.46,
+     "end": 47.62
+    },
+    {
+     "w": "hey",
+     "start": 47.62,
+     "end": 47.9
+    },
+    {
+     "w": "hey",
+     "start": 47.98,
+     "end": 48.22
+    },
+    {
+     "w": "hey",
+     "start": 48.28,
+     "end": 48.71
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 187.49044643611543,
+    "pyin_f0_median_hz": 177.09154987862257,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "CAP close-up from f1187; 4 open/close cycles 47.48-48.8 match four 'hey' bursts. Pitch is high for both voices here (NOCAP 184 Hz, CAP 177 Hz median) so pitch does not separate them; video and turn structure do."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Guess what?",
+   "start": 49.48,
+   "end": 49.82,
+   "duration": 0.34,
+   "words": [
+    {
+     "w": "Guess",
+     "start": 49.48,
+     "end": 49.64
+    },
+    {
+     "w": "what",
+     "start": 49.7,
+     "end": 49.82
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 127.48434049269959,
+    "pyin_f0_median_hz": 67.68203991476243,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "CAP mouth closed from 48.80, reopens f1239-f1245 (49.56-49.80). Audio bursts 49.51-49.56 and 49.72-49.80 over music floor (~-30 dB)."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "I don't want to guess. Don't make me guess.",
+   "start": 50.32,
+   "end": 52.08,
+   "duration": 1.76,
+   "words": [
+    {
+     "w": "I",
+     "start": 50.32,
+     "end": 50.4
+    },
+    {
+     "w": "don't",
+     "start": 50.4,
+     "end": 50.7
+    },
+    {
+     "w": "want",
+     "start": 50.7,
+     "end": 50.82
+    },
+    {
+     "w": "to",
+     "start": 50.82,
+     "end": 50.92
+    },
+    {
+     "w": "guess",
+     "start": 50.92,
+     "end": 51.2
+    },
+    {
+     "w": "Don't",
+     "start": 51.26,
+     "end": 51.5
+    },
+    {
+     "w": "make",
+     "start": 51.5,
+     "end": 51.62
+    },
+    {
+     "w": "me",
+     "start": 51.62,
+     "end": 51.74
+    },
+    {
+     "w": "guess",
+     "start": 51.74,
+     "end": 52.08
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 110.91277536055901,
+    "pyin_f0_median_hz": 65.0,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Background music from ~48.8 s raises floor to about -30 dB; MFCC classifier misfires here (music-dominated). NOCAP shot f1255-f1309, NOCAP mouth starts f1262 (50.48)."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Oh, come on. You gotta be curious about what I'm going to tell you.",
+   "start": 52.33,
+   "end": 55.1,
+   "duration": 2.77,
+   "words": [
+    {
+     "w": "Oh",
+     "start": 52.33,
+     "end": 52.39
+    },
+    {
+     "w": "come",
+     "start": 52.4,
+     "end": 52.6
+    },
+    {
+     "w": "on",
+     "start": 52.6,
+     "end": 52.9
+    },
+    {
+     "w": "You",
+     "start": 52.9,
+     "end": 53.04
+    },
+    {
+     "w": "gotta",
+     "start": 53.04,
+     "end": 53.2
+    },
+    {
+     "w": "be",
+     "start": 53.2,
+     "end": 53.34
+    },
+    {
+     "w": "curious",
+     "start": 53.34,
+     "end": 53.76
+    },
+    {
+     "w": "about",
+     "start": 53.76,
+     "end": 54.0
+    },
+    {
+     "w": "what",
+     "start": 54.0,
+     "end": 54.14
+    },
+    {
+     "w": "I'm",
+     "start": 54.14,
+     "end": 54.26
+    },
+    {
+     "w": "going",
+     "start": 54.26,
+     "end": 54.4
+    },
+    {
+     "w": "to",
+     "start": 54.4,
+     "end": 54.56
+    },
+    {
+     "w": "tell",
+     "start": 54.56,
+     "end": 54.78
+    },
+    {
+     "w": "you",
+     "start": 54.78,
+     "end": 55.1
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 122.37951054200151,
+    "pyin_f0_median_hz": 105.9021912900791,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Speaker matches the reference shot/mouth activity and turn structure; see voice fields."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "What?",
+   "start": 56.94,
+   "end": 57.12,
+   "duration": 0.18,
+   "words": [
+    {
+     "w": "What",
+     "start": 56.94,
+     "end": 57.12
+    }
+   ],
+   "word_timing_source": "single word = phrase bounds",
+   "voice": {
+    "yin_f0_median_hz": null,
+    "pyin_f0_median_hz": null,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "CAP mouth last moves at ~55.20 ('you' O-shape f1376-f1380). Cut to NOCAP f1406 (56.24); NOCAP mouth still until f1420, open/wide/O f1420-f1432 (56.80-57.28). Loud burst 57.00-57.08; whisper puts 'What?' ending 57.00-57.04. Earlier v4 window 55.12-57.12 was far too wide."
+  },
+  {
+   "speaker": "CAP",
+   "text": "I would have did it for five.",
+   "start": 58.55,
+   "end": 59.78,
+   "duration": 1.23,
+   "words": [
+    {
+     "w": "I",
+     "start": 58.55,
+     "end": 58.62
+    },
+    {
+     "w": "would",
+     "start": 58.62,
+     "end": 58.78
+    },
+    {
+     "w": "have",
+     "start": 58.78,
+     "end": 58.86
+    },
+    {
+     "w": "did",
+     "start": 58.86,
+     "end": 59.02
+    },
+    {
+     "w": "it",
+     "start": 59.02,
+     "end": 59.12
+    },
+    {
+     "w": "for",
+     "start": 59.12,
+     "end": 59.28
+    },
+    {
+     "w": "five",
+     "start": 59.28,
+     "end": 59.78
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 93.86593790223404,
+    "pyin_f0_median_hz": 74.66539307480728,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "CAP shot f1459-f1518; CAP mouth active from f1459 to ~f1502 (60.08; tail is a hold). large-v3 on both full file and isolated clip: 'I would have did it for five.' - the '$5 billion' in the old transcript is wrong: 'billion' belongs to NOCAP's next line."
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "Five billion?",
+   "start": 61.1,
+   "end": 62.08,
+   "duration": 0.98,
+   "words": [
+    {
+     "w": "Five",
+     "start": 61.1,
+     "end": 61.36
+    },
+    {
+     "w": "billion",
+     "start": 61.36,
+     "end": 62.08
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 228.865145290852,
+    "pyin_f0_median_hz": 226.34314645699226,
+    "mfcc_nearest_centroid": "NOCAP"
+   },
+   "evidence": "NOCAP shot f1519-f1561; mouth still until f1527 (61.08), then teeth -> open -> closure -> open -> O until f1551 (62.04). Loud high-pitched (up to ~400 Hz) outburst; large-v3: 'Five billion?'. Old v4 gave this audio to CAP (inside CAP's '$5 billion' line)."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Thousand.",
+   "start": 62.51,
+   "end": 63.1,
+   "duration": 0.59,
+   "words": [
+    {
+     "w": "Thousand",
+     "start": 62.51,
+     "end": 63.1
+    }
+   ],
+   "word_timing_source": "single word = phrase bounds",
+   "voice": {
+    "yin_f0_median_hz": null,
+    "pyin_f0_median_hz": 92.9919856082918,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Cut to CAP f1562 (62.48); CAP mouth teeth f1562-63 then open f1564-f1575 (62.56-63.00), again f1581-f1584 (63.24-63.36). Onset burst -8 dB at 62.52. large-v3 isolated clip: 'Thousand.' (full-file pass wrote '$1,000.'). Old v4 gave this to NOCAP as '$1,000.'"
+  },
+  {
+   "speaker": "NOCAP",
+   "text": "What are you?",
+   "start": 63.4,
+   "end": 64.0,
+   "duration": 0.6,
+   "words": [
+    {
+     "w": "What",
+     "start": 63.4,
+     "end": 63.6
+    },
+    {
+     "w": "are",
+     "start": 63.6,
+     "end": 63.84
+    },
+    {
+     "w": "you",
+     "start": 63.84,
+     "end": 64.0
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 199.5127374049598,
+    "pyin_f0_median_hz": 92.9919856082918,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Audio 'What' onset 63.40-63.50 precedes the cut to NOCAP at f1588 (63.52) by ~0.1 s; NOCAP mouth O at f1588, open f1589-f1594, O f1597-f1599 and f1603-f1606. large-v3: 'What are you?'."
+  },
+  {
+   "speaker": "CAP",
+   "text": "Oh, that's a good question.",
+   "start": 64.66,
+   "end": 65.55,
+   "duration": 0.89,
+   "words": [
+    {
+     "w": "Oh",
+     "start": 64.66,
+     "end": 64.78
+    },
+    {
+     "w": "that's",
+     "start": 64.8,
+     "end": 64.94
+    },
+    {
+     "w": "a",
+     "start": 64.94,
+     "end": 65.0
+    },
+    {
+     "w": "good",
+     "start": 65.0,
+     "end": 65.14
+    },
+    {
+     "w": "question",
+     "start": 65.14,
+     "end": 65.55
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 131.17174401040668,
+    "pyin_f0_median_hz": 65.0,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "Cut to CAP f1617 (64.68) with mouth open immediately; audio rise 64.67. Music floor makes the end (65.55) +-0.05."
+  },
+  {
+   "speaker": "CAP",
+   "text": "I guess you can call me an entrepreneur.",
+   "start": 66.68,
+   "end": 70.46,
+   "duration": 3.78,
+   "words": [
+    {
+     "w": "I",
+     "start": 66.68,
+     "end": 66.86
+    },
+    {
+     "w": "guess",
+     "start": 66.86,
+     "end": 67.2
+    },
+    {
+     "w": "you",
+     "start": 67.3,
+     "end": 67.5
+    },
+    {
+     "w": "can",
+     "start": 67.5,
+     "end": 67.75
+    },
+    {
+     "w": "call",
+     "start": 67.85,
+     "end": 68.15
+    },
+    {
+     "w": "me",
+     "start": 68.15,
+     "end": 68.4
+    },
+    {
+     "w": "an",
+     "start": 68.85,
+     "end": 69.2
+    },
+    {
+     "w": "entrepreneur",
+     "start": 69.25,
+     "end": 70.46
+    }
+   ],
+   "word_timing_source": "faster-whisper large-v3 word timestamps aligned to transcript, clipped to energy-based phrase bounds; +-0.1 s typical; some hand-set from energy/mouth frames",
+   "voice": {
+    "yin_f0_median_hz": 86.48584262527044,
+    "pyin_f0_median_hz": 78.64961579925402,
+    "mfcc_nearest_centroid": "CAP"
+   },
+   "evidence": "CAP mouth rest 66.28-66.64, speaking from ~66.68 (ink metric). Ends with 'entrepreneur' burst 70.40-70.46; the video's last frames (69.2-70.9) are a closing zoom/iris on CAP."
+  }
+ ],
+ "notes": [
+  "Times are MP3 time in seconds (decoded to 16 kHz mono; identical sample-for-sample to ProductionFull_v4/assets/full_audio_mono_16k.wav). Goal MP4 offset vs MP3 ~+0.001 s, so reference frame n = n/25 s.",
+  "start/end come from a 10 ms RMS envelope (threshold max(-38 dB, local 10th percentile + 8 dB)), hand-checked on 10 ms dumps and mouth frames. Expected accuracy +-0.02 s before 48.8 s; +-0.03-0.05 s after 48.8 s where background music raises the floor to about -30 dB.",
+  "Speaker labels: CAP = cap-wearing respondent (left chair); NOCAP = interviewer with glasses. Determined from reference-video mouth activity (Hough head detection + lower-face ink metric on every frame, plus visual inspection of crop sheets), turn structure, faster-whisper large-v3 re-transcription, and voice features (YIN and librosa pyin F0, MFCC nearest-centroid).",
+  "Corrections vs machine transcript / v4 split: 'Um, no, I didn't finish the question, I-' (NOCAP) + 'Listen here.' (CAP, interrupting) instead of NOCAP 'I'd listen here'; 'There is nothing' not 'There was nothing'; the numbers are spoken 'ten billion dollars'; 'What?' is 56.94-57.12 not 55.12-57.12; the 58.4-64.6 block is CAP 'I would have did it for five.' / NOCAP 'Five billion?' / CAP 'Thousand.' / NOCAP 'What are you?'; NOCAP line 43.92-47.42 ends with a cut-off 'What would-'.",
+  "'Thousand.' could be 'A thousand.': the large-v3 full-file pass wrote '$1,000' but isolated-clip passes only return 'thousand'. Not verified by listening.",
+  "Non-speech: 18.77-19.06 weak sound with a CAP open-mouth hold (breath); background music ~48.8 s to end; the video's last ~1.7 s is a closing zoom/iris on CAP.",
+  "No direct listening was performed. All speaker/text calls come from signal analysis, ASR and reference-frame inspection."
+ ]
+}

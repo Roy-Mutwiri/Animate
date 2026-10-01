@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RemoteExportApp>
+  <App name="0" id="0">
+    <path/>
+    <K id="0">
+      <Set name="General" id="0" enable="1">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|Redo|Shift+Ctrl+z|16:42+17:29+90:44</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Shift|Shift|160:42</K5>
+        <K6 id="2" Actid="2">2|Control|Ctrl|162:29</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+      <Set name="FBF" id="1" enable="1">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|Redo|Ctrl+Shift+z|17:29+16:42+90:44</K2>
+        <K3 id="2" Actid="2">2|New Frame|f5|116:63</K3>
+        <K4 id="2" Actid="2">2|Dup Frame|f6|117:64</K4>
+        <K5 id="2" Actid="2">2|Shift|Shift|160:42</K5>
+        <K6 id="2" Actid="2">2|Control|Ctrl|162:29</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+      <Set name="" id="2" enable="0">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Shift|Shift|160:42</K5>
+        <K6 id="2" Actid="2">2|Control|Ctrl|162:29</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+      <Set name="" id="3" enable="0">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Shift|Shift|160:42</K5>
+        <K6 id="2" Actid="2">2|Enter|Enter|13:284</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+      <Set name="" id="4" enable="0">
+        <K1 id="2" Actid="2">2|*#Undo|Ctrl+Z|17:29+90:44</K1>
+        <K2 id="2" Actid="2">2|*#Redo|Ctrl+Y|17:29+89:21</K2>
+        <K3 id="2" Actid="2">2|*#Copy|Ctrl+C|17:29+67:46</K3>
+        <K4 id="2" Actid="2">2|*#Paste|Ctrl+V|17:29+86:47</K4>
+        <K5 id="2" Actid="2">2|Shift|Shift|160:42</K5>
+        <K6 id="2" Actid="2">2|Control|Ctrl|162:29</K6>
+        <K7 id="2" Actid="2">2|Alt|Alt|18:56</K7>
+        <K8 id="2" Actid="2">2|*#Space|Space|32:57</K8>
+      </Set>
+    </K>
+    <R wid="1" id="0">
+      <W1 color="6" speed="3" colorbright="2" orderid="1" name="Time" id="4" enable="1">4|Time|Left|Right|37:331|39:333</W1>
+      <W2 color="7" speed="3" colorbright="2" orderid="3" name="Zoom" id="4" enable="1">4||MouseWheelUp|MouseWheelDown|4368:1|4369:1</W2>
+      <W3 color="5" speed="3" colorbright="2" orderid="4" name="Rotate" id="4" enable="1">4||Alt+Shift+{|Shift+Alt+}|18:56+16:42+219:26|16:42+18:56+221:27</W3>
+      <W4 color="4" speed="3" colorbright="2" orderid="2" name="Drawing" id="4" enable="1">4|*#Brush Size|[|]|219:26|221:27</W4>
+    </R>
+  </App>
+  <FileNotes>
+    <DataCreated>2025-06-16</DataCreated>
+    <OS>Win</OS>
+    <LanguageSource>English</LanguageSource>
+    <KeyboardSource>0</KeyboardSource>
+    <DriverVersion>1.3.0-33</DriverVersion>
+    <AppRename/>
+    <AppTureName>Moho.exe</AppTureName>
+    <Notes/>
+  </FileNotes>
+</RemoteExportApp>

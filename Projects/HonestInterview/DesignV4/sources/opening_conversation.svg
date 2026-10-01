@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .line { fill:none; stroke:#211915; stroke-width:10; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#211915; stroke-width:7; stroke-linecap:round; stroke-linejoin:round; }
+      .softline { fill:none; stroke:#6f6f67; stroke-width:4; stroke-linecap:round; stroke-linejoin:round; opacity:.55; }
+      .skinI { fill:#d9ded6; stroke:#211915; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .skinR { fill:#efb77f; stroke:#211915; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .shirt { fill:#f7eddf; stroke:#211915; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .chair { fill:#8f7a78; stroke:#211915; stroke-width:7; stroke-linejoin:round; }
+      .chairDark { fill:#655452; stroke:#211915; stroke-width:7; stroke-linejoin:round; }
+      .dark { fill:#211915; }
+      .eye { fill:#fbfff8; stroke:#211915; stroke-width:7; }
+      .mouth { fill:#120c14; stroke:#211915; stroke-width:6; stroke-linejoin:round; }
+    </style>
+  </defs>
+  
+      <rect width="1080" height="1920" fill="#d7d4ce"/>
+      
+      <rect x="420" y="110" width="260" height="300" fill="#fbfaf3" stroke="#5b5550" stroke-width="8"/>
+      <path d="M550 112 L550 408 M422 260 L678 260" class="softline" opacity=".8"/>
+    
+      <path d="M0 1260 C300 1230 735 1230 1080 1260" fill="#858b86"/>
+      
+      <path d="M0 1490 C260 1460 740 1460 1080 1490" class="softline"/>
+      <path d="M0 1700 C250 1665 780 1665 1080 1705" class="softline"/>
+      <path d="M210 1260 L40 1920 M520 1260 L440 1920 M850 1260 L940 1920" class="softline"/>
+    
+    
+
+      <g transform="translate(286 1092) scale(1.02 1.02)">
+        <path d="M-150 15 C-168 -105 -125 -206 -18 -222 C96 -239 158 -172 163 -60 L156 132 L-158 132 Z" class="chair"/>
+        <path d="M-170 92 L172 92 L142 205 L-144 205 Z" class="chairDark"/>
+        <path d="M-136 -42 C-86 -72 -4 -80 92 -59" class="thin" opacity=".35"/>
+      </g>
+    
+
+      <g transform="translate(805 1115) scale(-0.98 0.98)">
+        <path d="M-150 15 C-168 -105 -125 -206 -18 -222 C96 -239 158 -172 163 -60 L156 132 L-158 132 Z" class="chair"/>
+        <path d="M-170 92 L172 92 L142 205 L-144 205 Z" class="chairDark"/>
+        <path d="M-136 -42 C-86 -72 -4 -80 92 -59" class="thin" opacity=".35"/>
+      </g>
+    
+
+      <path d="M260 861 C230 965 225 1132 268 1258 C316 1306 425 1308 470 1250 C450 1118 420 970 377 858 C343 838 295 836 260 861 Z" class="shirt"/>
+      <path d="M279 1246 C244 1305 238 1395 288 1484 L388 1480 C373 1391 372 1303 401 1242 Z" fill="#f4dfe0" stroke="#211915" stroke-width="8"/>
+      <path d="M397 1239 C458 1283 489 1370 503 1468 L601 1463 C581 1342 542 1260 475 1217 Z" fill="#6d5b58" stroke="#211915" stroke-width="8"/>
+      <path d="M265 904 C226 974 207 1067 218 1160" class="line"/>
+      <path d="M380 906 C448 954 502 1018 548 1092" class="line"/>
+    
+
+      <g transform="translate(318 650) scale(0.86)">
+        <path d="M-120 -165 C-60 -210 58 -205 108 -136 C158 -65 144 70 92 136 C42 199 -69 186 -112 122 C-155 58 -154 -95 -120 -165 Z" class="skinI"/>
+        <path d="M-132 -170 C-68 -216 54 -219 126 -155 C142 -142 150 -127 143 -122 C65 -130 -13 -120 -144 -94 C-150 -123 -148 -148 -132 -170 Z" fill="#090908" stroke="#211915" stroke-width="8" stroke-linejoin="round"/>
+        <circle cx="91" cy="-159" r="9" fill="#eee05a"/>
+        
+          <ellipse class="eye" cx="-38" cy="-18" rx="31" ry="45"/>
+          <ellipse class="eye" cx="40" cy="-18" rx="31" ry="45"/>
+          <ellipse class="dark" cx="-27" cy="-12" rx="8" ry="15"/>
+          <ellipse class="dark" cx="27" cy="-12" rx="8" ry="15"/>
+          <path d="M-78 -70 C-52 -84 -22 -82 0 -66" class="thin"/>
+          <path d="M20 -66 C50 -80 82 -72 96 -54" class="thin"/>
+          <path d="M-78 76 C-44 58 6 62 40 86" class="mouth"/>
+          <path d="M-56 75 C-25 69 7 73 25 84" fill="none" stroke="#f5eee4" stroke-width="5" stroke-linecap="round"/>
+        
+        <path d="M-38 149 L-35 196 L35 193 L32 145" class="skinI"/>
+      </g>
+    
+
+      <g transform="translate(219 1175) rotate(8) scale(0.72)">
+        <path d="M-31 -20 C-12 -48 37 -43 53 -12 C68 19 42 52 4 50 C-36 49 -52 10 -31 -20 Z" fill="#d9ded6" stroke="#211915" stroke-width="7" stroke-linejoin="round"/>
+        
+      <path d="M-10 -33 C-20 -65 -5 -73 6 -41" class="thin"/>
+      <path d="M10 -37 C8 -73 25 -72 25 -38" class="thin"/>
+      <path d="M29 -31 C41 -62 55 -52 43 -24" class="thin"/>
+    
+        <path d="M-32 8 C-61 20 -62 46 -28 38" class="thin"/>
+      </g>
+    
+
+      <g transform="translate(546 1088) rotate(-24) scale(0.92)">
+        <rect x="-12" y="-12" width="132" height="25" rx="12" fill="#2b2d3b" stroke="#211915" stroke-width="7"/>
+        <rect x="96" y="-38" width="74" height="74" rx="16" fill="#45485e" stroke="#211915" stroke-width="7"/>
+        <rect x="112" y="-22" width="40" height="42" rx="8" fill="#565a72" opacity=".85"/>
+      </g>
+    
+
+      <g transform="translate(552 1090) rotate(-18) scale(0.78)">
+        <path d="M-31 -20 C-12 -48 37 -43 53 -12 C68 19 42 52 4 50 C-36 49 -52 10 -31 -20 Z" fill="#d9ded6" stroke="#211915" stroke-width="7" stroke-linejoin="round"/>
+        
+      <path d="M-28 -11 C-54 -17 -54 -39 -27 -36" class="thin"/>
+      <path d="M-20 -26 C-46 -43 -35 -62 -10 -41" class="thin"/>
+      <path d="M4 -34 C-12 -62 8 -71 19 -41" class="thin"/>
+      <path d="M26 -23 C36 -52 55 -43 45 -15" class="thin"/>
+    
+        <path d="M-32 8 C-61 20 -62 46 -28 38" class="thin"/>
+      </g>
+    
+
+      <path d="M713 865 C664 975 652 1134 699 1260 C750 1311 861 1326 918 1257 C900 1117 870 974 829 866 C793 842 748 842 713 865 Z" class="shirt"/>
+      <path d="M702 1242 C647 1312 635 1407 691 1500 L792 1494 C775 1396 781 1325 812 1251 Z" fill="#f4dfe0" stroke="#211915" stroke-width="8"/>
+      <path d="M831 1251 C905 1302 945 1387 966 1496 L1067 1495 C1044 1366 995 1273 919 1219 Z" fill="#6d5b58" stroke="#211915" stroke-width="8"/>
+      <path d="M710 914 C674 984 657 1052 657 1135" class="line"/>
+      <path d="M828 914 C906 973 960 1032 1004 1122" class="line"/>
+    
+
+      <g transform="translate(768 642) scale(0.9)">
+        <path d="M-118 -134 C-55 -203 70 -184 123 -101 C171 -27 151 94 75 149 C5 200 -99 162 -136 82 C-173 2 -164 -83 -118 -134 Z" class="skinR"/>
+        <path d="M-42 -151 C-34 -191 -20 -193 -13 -151 M-2 -162 C5 -204 20 -204 23 -159 M36 -152 C51 -191 66 -188 64 -141" class="thin"/>
+        <ellipse class="eye" cx="-44" cy="-38" rx="39" ry="52"/>
+        <ellipse class="eye" cx="48" cy="-34" rx="39" ry="52"/>
+        <ellipse class="dark" cx="-30" cy="-28" rx="10" ry="15"/>
+        <ellipse class="dark" cx="63" cy="-24" rx="10" ry="15"/>
+        <path d="M-83 -105 C-51 -124 -17 -121 8 -104" class="thin"/>
+        <path d="M34 -105 C72 -117 103 -102 124 -80" class="thin"/>
+        <path d="M-42 74 C-5 83 38 82 78 67" class="thin"/>
+        <path d="M-35 147 L-30 194 L34 190 L30 144" class="skinR"/>
+      </g>
+    
+
+      <g transform="translate(653 1147) rotate(-12) scale(0.7)">
+        <path d="M-31 -20 C-12 -48 37 -43 53 -12 C68 19 42 52 4 50 C-36 49 -52 10 -31 -20 Z" fill="#efb77f" stroke="#211915" stroke-width="7" stroke-linejoin="round"/>
+        
+      <path d="M-10 -33 C-20 -65 -5 -73 6 -41" class="thin"/>
+      <path d="M10 -37 C8 -73 25 -72 25 -38" class="thin"/>
+      <path d="M29 -31 C41 -62 55 -52 43 -24" class="thin"/>
+    
+        <path d="M-32 8 C-61 20 -62 46 -28 38" class="thin"/>
+      </g>
+    
+
+      <g transform="translate(1002 1126) rotate(-25) scale(0.72)">
+        <path d="M-31 -20 C-12 -48 37 -43 53 -12 C68 19 42 52 4 50 C-36 49 -52 10 -31 -20 Z" fill="#efb77f" stroke="#211915" stroke-width="7" stroke-linejoin="round"/>
+        
+      <path d="M-10 -33 C-20 -65 -5 -73 6 -41" class="thin"/>
+      <path d="M10 -37 C8 -73 25 -72 25 -38" class="thin"/>
+      <path d="M29 -31 C41 -62 55 -52 43 -24" class="thin"/>
+    
+        <path d="M-32 8 C-61 20 -62 46 -28 38" class="thin"/>
+      </g>
+    
+</svg>

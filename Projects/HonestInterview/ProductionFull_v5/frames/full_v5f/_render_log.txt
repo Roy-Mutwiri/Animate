@@ -1,0 +1,5 @@
+opened frames=1702 layers=16 lib=15
+sound attached Bro was so honest.mp3 layer 16 span 1702 of 1702
+exported 1702 frames in 403.336s
+saved fla true
+DONE

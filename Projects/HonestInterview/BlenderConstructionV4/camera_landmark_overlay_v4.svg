@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#eee9dd"/>
+<circle cx="496.05" cy="524.14" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="506.05" y="517.14" font-family="Arial" font-size="22" fill="#f43b2f">head_center</text>
+<circle cx="540.0" cy="395.09" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="550.0" y="388.09" font-family="Arial" font-size="22" fill="#f43b2f">head_top</text>
+<circle cx="540.0" cy="654.01" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="550.0" y="647.01" font-family="Arial" font-size="22" fill="#f43b2f">head_bottom</text>
+<circle cx="411.45" cy="678.71" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="421.45" y="671.71" font-family="Arial" font-size="22" fill="#f43b2f">l_shoulder</text>
+<circle cx="603.77" cy="682.58" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="613.77" y="675.58" font-family="Arial" font-size="22" fill="#f43b2f">r_shoulder</text>
+<circle cx="500.67" cy="713.43" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="510.67" y="706.43" font-family="Arial" font-size="22" fill="#f43b2f">spine</text>
+<circle cx="489.11" cy="903.7" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="499.11" y="896.7" font-family="Arial" font-size="22" fill="#f43b2f">pelvis</text>
+<circle cx="190.14" cy="848.31" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="200.14" y="841.31" font-family="Arial" font-size="22" fill="#f43b2f">l_elbow</text>
+<circle cx="751.07" cy="859.61" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="761.07" y="852.61" font-family="Arial" font-size="22" fill="#f43b2f">r_elbow</text>
+<circle cx="172.29" cy="918.2" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="182.29" y="911.2" font-family="Arial" font-size="22" fill="#f43b2f">l_wrist</text>
+<circle cx="861.44" cy="932.09" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="871.44" y="925.09" font-family="Arial" font-size="22" fill="#f43b2f">r_wrist</text>
+<circle cx="392.33" cy="906.75" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="402.33" y="899.75" font-family="Arial" font-size="22" fill="#f43b2f">l_hip</text>
+<circle cx="576.64" cy="910.46" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="586.64" y="903.46" font-family="Arial" font-size="22" fill="#f43b2f">r_hip</text>
+<circle cx="202.07" cy="1066.31" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="212.07" y="1059.31" font-family="Arial" font-size="22" fill="#f43b2f">l_knee</text>
+<circle cx="498.56" cy="1072.28" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="508.56" y="1065.28" font-family="Arial" font-size="22" fill="#f43b2f">r_knee</text>
+<circle cx="169.23" cy="1367.87" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="179.23" y="1360.87" font-family="Arial" font-size="22" fill="#f43b2f">l_ankle</text>
+<circle cx="489.76" cy="1374.32" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="499.76" y="1367.32" font-family="Arial" font-size="22" fill="#f43b2f">r_ankle</text>
+<circle cx="40.52" cy="1389.99" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="50.52" y="1382.99" font-family="Arial" font-size="22" fill="#f43b2f">l_foot</text>
+<circle cx="521.32" cy="1399.68" r="7" fill="#f43b2f" stroke="white" stroke-width="2"/>
+<text x="531.32" y="1392.68" font-family="Arial" font-size="22" fill="#f43b2f">r_foot</text>
+<circle cx="100.48" cy="949.24" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="110.48" y="942.24" font-family="Arial" font-size="22" fill="#009a5b">seat_front_left</text>
+<circle cx="979.52" cy="949.24" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="989.52" y="942.24" font-family="Arial" font-size="22" fill="#009a5b">seat_front_right</text>
+<circle cx="100.48" cy="930.83" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="110.48" y="923.83" font-family="Arial" font-size="22" fill="#009a5b">seat_back_left</text>
+<circle cx="979.52" cy="930.83" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="989.52" y="923.83" font-family="Arial" font-size="22" fill="#009a5b">seat_back_right</text>
+<circle cx="100.48" cy="600.29" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="110.48" y="593.29" font-family="Arial" font-size="22" fill="#009a5b">back_top_left</text>
+<circle cx="979.52" cy="600.29" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="989.52" y="593.29" font-family="Arial" font-size="22" fill="#009a5b">back_top_right</text>
+<circle cx="100.48" cy="936.43" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="110.48" y="929.43" font-family="Arial" font-size="22" fill="#009a5b">back_bottom_left</text>
+<circle cx="979.52" cy="936.43" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="989.52" y="929.43" font-family="Arial" font-size="22" fill="#009a5b">back_bottom_right</text>
+<circle cx="105.11" cy="826.75" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="115.11" y="819.75" font-family="Arial" font-size="22" fill="#009a5b">near_arm_back_top</text>
+<circle cx="105.11" cy="898.38" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="115.11" y="891.38" font-family="Arial" font-size="22" fill="#009a5b">near_arm_front_top</text>
+<circle cx="974.89" cy="826.75" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="984.89" y="819.75" font-family="Arial" font-size="22" fill="#009a5b">far_arm_back_top</text>
+<circle cx="974.89" cy="898.38" r="7" fill="#009a5b" stroke="white" stroke-width="2"/>
+<text x="984.89" y="891.38" font-family="Arial" font-size="22" fill="#009a5b">far_arm_front_top</text>
+</svg>

@@ -1,0 +1,54 @@
+var doc = fl.createDocument('timeline');
+doc.width=1080; doc.height=1920; doc.frameRate=24; doc.backgroundColor='#d0ceca';
+var tl=doc.getTimeline(); while(tl.layers.length>1){tl.deleteLayer(0);} tl.layers[0].name='Vector_Keyed_Performance';
+tl.insertFrames(1701, true);
+function L(x1,y1,x2,y2,w){doc.setStrokeColor('#181310'); doc.setStrokeSize(w); doc.addNewLine({x:x1,y:y1},{x:x2,y:y2});}
+function O(l,t,r,b,fill,stroke,w){doc.setFillColor(fill); doc.setStrokeColor(stroke); doc.setStrokeSize(w); doc.addNewOval({left:l,top:t,right:r,bottom:b},false,false);}
+function R(l,t,r,b,fill,stroke,w){doc.setFillColor(fill); doc.setStrokeColor(stroke); doc.setStrokeSize(w); doc.addNewRectangle({left:l,top:t,right:r,bottom:b},0,false,false);}
+function scene(frame, mode){tl.currentLayer=0; tl.currentFrame=frame; tl.setSelectedLayers(0); tl.setSelectedFrames(frame,frame+1,true); if(frame>0) tl.insertKeyframe(frame); R(0,0,1080,1920,'#d0ceca','#d0ceca',1); R(0,1328,1080,1920,'#858e84','#858e84',1); R(690,150,920,430,'#faf9f2','#4a4642',7);
+if(mode=='two'){O(250,500,390,640,'#d9ddd4','#181310',7); O(700,500,840,640,'#d9ddd4','#181310',7); L(320,640,320,980,8); L(770,640,770,980,8); R(185,780,445,1080,'#a39390','#181310',7); R(640,780,900,1080,'#efd4d0','#181310',7);} else if(mode=='respondent'){O(410,470,610,670,'#d9ddd4','#181310',8); L(510,670,510,1030,9); R(335,805,695,1200,'#efd4d0','#181310',7);} else {O(470,470,670,670,'#d9ddd4','#181310',8); L(570,670,570,1030,9); R(395,805,755,1200,'#a39390','#181310',7);} }
+scene(0,'two');
+scene(56,'two');
+scene(59,'respondent');
+scene(61,'respondent');
+scene(64,'respondent');
+scene(68,'respondent');
+scene(73,'respondent');
+scene(107,'interviewer');
+scene(118,'interviewer');
+scene(184,'interviewer');
+scene(185,'interviewer');
+scene(193,'interviewer');
+scene(207,'respondent');
+scene(449,'respondent');
+scene(455,'two');
+scene(492,'interviewer');
+scene(563,'respondent');
+scene(566,'respondent');
+scene(603,'respondent');
+scene(614,'respondent');
+scene(620,'interviewer');
+scene(662,'interviewer');
+scene(897,'respondent');
+scene(902,'respondent');
+scene(907,'interviewer');
+scene(912,'interviewer');
+scene(947,'respondent');
+scene(1050,'respondent');
+scene(1131,'respondent');
+scene(1196,'respondent');
+scene(1210,'interviewer');
+scene(1252,'respondent');
+scene(1323,'interviewer');
+scene(1371,'interviewer');
+scene(1402,'respondent');
+scene(1411,'respondent');
+scene(1490,'interviewer');
+scene(1495,'interviewer');
+scene(1549,'interviewer');
+scene(1574,'respondent');
+scene(1597,'respondent');
+scene(1603,'respondent');
+scene(1688,'respondent');
+scene(1701,'respondent');
+fl.saveDocument(doc,'file:///D:/Animate/Projects/HonestInterview/ProductionFull_v3/editable/honest_interview_full_v2_keyed_timeline.fla');

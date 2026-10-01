@@ -1,0 +1,472 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MOUTH/Mouth_Cap" symbolType="graphic"><timeline><DOMTimeline name="Mouth_Cap"><layers><DOMLayer name="mouth" color="#4F80FF"><frames><DOMFrame index="0" name="neutral_X" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-405 45[0 -22 405 112"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="1" name="neutral_A" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="6.21" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-472 34[-236 -54 -118 -13[0 27 118 -9[236 -45 472 34"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="2" name="neutral_B" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="2.93" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#555555"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-460 82[-540 40 -473 -20|-391 -93[-324 -153 -234 -153|234 -153[324 -153 391 -93|473 -20[540 40 460 82|404 111[324 153 234 153|-234 153[-324 153 -404 111|-460 82"/>
+<Edge strokeStyle="1" edges="!-472 20|472 20"/>
+<Edge strokeStyle="2" edges="!-243 -126|-243 126"/>
+<Edge strokeStyle="2" edges="!0 -126|0 126"/>
+<Edge strokeStyle="2" edges="!243 -126|243 126"/>
+<Edge strokeStyle="3" edges="!-460 82[-540 40 -473 -20|-391 -93[-324 -153 -234 -153|234 -153[324 -153 391 -93|473 -20[540 40 460 82|404 111[324 153 234 153|-234 153[-324 153 -404 111|-460 82"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="3" name="neutral_C" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-460 110[-518 40 -470 -36|-358 -216[-310 -292 -220 -292|220 -292[310 -292 358 -216|470 -36[518 40 460 110|368 223[310 292 220 292|-220 292[-310 292 -368 223|-460 110"/>
+<Edge fillStyle1="2" edges="!285 146[285 197 201 233[118 269 0 269[-118 269 -201 233[-285 197 -285 146[-285 95 -201 59[-118 23 0 23[118 23 201 59[285 95 285 146"/>
+<Edge fillStyle1="3" edges="!-373 -279|373 -279|362 -167|-362 -167|-373 -279"/>
+<Edge strokeStyle="1" edges="!-460 110[-518 40 -470 -36|-358 -216[-310 -292 -220 -292|220 -292[310 -292 358 -216|470 -36[518 40 460 110|368 223[310 292 220 292|-220 292[-310 292 -368 223|-460 110"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="4" name="neutral_D" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-540 119[-585 40 -546 -41|-390 -369[-351 -450 -261 -450|261 -450[351 -450 390 -369|546 -41[585 40 540 119|396 372[351 450 261 450|-261 450[-351 450 -396 372|-540 119"/>
+<Edge fillStyle1="2" edges="!322 225[322 303 228 359[133 414 0 414[-133 414 -228 359[-322 303 -322 225[-322 147 -228 91[-133 36 0 36[133 36 228 91[322 147 322 225"/>
+<Edge fillStyle1="3" edges="!-421 -436|421 -436|409 -306|-409 -306|-421 -436"/>
+<Edge strokeStyle="1" edges="!-540 119[-585 40 -546 -41|-390 -369[-351 -450 -261 -450|261 -450[351 -450 390 -369|546 -41[585 40 540 119|396 372[351 450 261 450|-261 450[-351 450 -396 372|-540 119"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="5" name="neutral_E" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+<Edge fillStyle1="2" edges="!148 173[149 212 105 240[62 268 0 268[-62 268 -105 240[-149 212 -148 173[-149 134 -105 106[-62 79 0 79[62 79 105 106[148 134 148 173"/>
+<Edge strokeStyle="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="6" name="neutral_F" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!-270 -5[-270 -112 -202 -191|-202 -191[-135 -270 -27 -270|27 -270[135 -270 211 -194|216 -189[292 -112 292 -5|292 5[292 112 216 189|211 194[135 270 27 270|-27 270[-135 270 -202 191|-202 191[-270 112 -270 5|-270 -5"/>
+<Edge fillStyle1="2" edges="!112 9[112 57 84 92[55 126 14 126[-28 126 -57 92[-86 57 -86 9[-86 -39 -57 -74[-28 -108 13 -108[55 -108 84 -74[112 -39 112 9"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="7" name="neutral_G" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="4.32" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-425 97[-495 40 -438 -29|-354 -133[-297 -202 -207 -202|207 -202[297 -202 354 -133|438 -29[495 40 425 97|367 146[297 202 207 202|-207 202[-297 202 -367 146|-425 97"/>
+<Edge fillStyle1="2" edges="!-356 -189|356 -189|346 -13|-346 -13|-356 -189"/>
+<Edge strokeStyle="1" edges="!-360 -13[-270 86 -180 -13"/>
+<Edge strokeStyle="1" edges="!-180 -13[-90 86 0 -13"/>
+<Edge strokeStyle="1" edges="!0 -13[90 86 180 -13"/>
+<Edge strokeStyle="1" edges="!180 -13[270 86 360 -13"/>
+<Edge strokeStyle="2" edges="!-396 61[0 243 396 61"/>
+<Edge strokeStyle="3" edges="!-425 97[-495 40 -438 -29|-354 -133[-297 -202 -207 -202|207 -202[297 -202 354 -133|438 -29[495 40 425 97|367 146[297 202 207 202|-207 202[-297 202 -367 146|-425 97"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="8" name="neutral_H" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-445 115[-495 40 -453 -39|-339 -258[-297 -338 -207 -338|207 -338[297 -338 339 -258|453 -39[495 40 445 115|347 263[297 338 207 338|-207 338[-297 338 -347 263|-445 115"/>
+<Edge fillStyle1="2" edges="!272 -34[272 25 193 66[113 108 0 108[-113 108 -193 66[-272 25 -272 -34[-272 -92 -193 -134[-113 -175 0 -175[113 -175 193 -134[272 -92 272 -34"/>
+<Edge fillStyle1="3" edges="!-356 -324|356 -324|346 -212|-346 -212|-356 -324"/>
+<Edge strokeStyle="1" edges="!-445 115[-495 40 -453 -39|-339 -258[-297 -338 -207 -338|207 -338[297 -338 339 -258|453 -39[495 40 445 115|347 263[297 338 207 338|-207 338[-297 338 -347 263|-445 115"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="9" name="angry_X" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-450 135[0 -68 450 158"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="10" name="angry_A" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="6.21" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-472 79[-236 -54 -118 -13[0 27 118 -9[236 -45 472 79"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="11" name="angry_B" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="2.93" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#555555"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-486 124[-540 95 -504 12|-468 -71[-432 -153 -342 -153|342 -153[432 -153 468 -71|504 12[540 95 486 124|486 124[432 153 342 153|-342 153[-432 153 -486 124|-486 124"/>
+<Edge strokeStyle="1" edges="!-472 47|472 47"/>
+<Edge strokeStyle="2" edges="!-243 -126|-243 126"/>
+<Edge strokeStyle="2" edges="!0 -126|0 126"/>
+<Edge strokeStyle="2" edges="!243 -126|243 126"/>
+<Edge strokeStyle="3" edges="!-486 124[-540 95 -504 12|-468 -71[-432 -153 -342 -153|342 -153[432 -153 468 -71|504 12[540 95 486 124|486 124[432 153 342 153|-342 153[-432 153 -486 124|-486 124"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="12" name="angry_C" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-476 174[-518 95 -494 8|-437 -206[-414 -292 -324 -292|324 -292[414 -292 437 -206|494 8[518 95 476 174|456 213[414 292 324 292|-324 292[-414 292 -456 213|-476 174"/>
+<Edge fillStyle1="2" edges="!285 146[285 197 201 233[118 269 0 269[-118 269 -201 233[-285 197 -285 146[-285 95 -201 59[-118 23 0 23[118 23 201 59[285 95 285 146"/>
+<Edge fillStyle1="3" edges="!-373 -279|373 -279|362 -167|-362 -167|-373 -279"/>
+<Edge strokeStyle="1" edges="!-476 174[-518 95 -494 8|-437 -206[-414 -292 -324 -292|324 -292[414 -292 437 -206|494 8[518 95 476 174|456 213[414 292 324 292|-324 292[-414 292 -456 213|-476 174"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="13" name="angry_D" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-557 180[-585 95 -566 7|-487 -362[-468 -450 -378 -450|378 -450[468 -450 487 -362|566 7[585 95 557 180|496 365[468 450 378 450|-378 450[-468 450 -496 365|-557 180"/>
+<Edge fillStyle1="2" edges="!322 225[322 303 228 359[133 414 0 414[-133 414 -228 359[-322 303 -322 225[-322 147 -228 91[-133 36 0 36[133 36 228 91[322 147 322 225"/>
+<Edge fillStyle1="3" edges="!-421 -436|421 -436|409 -306|-409 -306|-421 -436"/>
+<Edge strokeStyle="1" edges="!-557 180[-585 95 -566 7|-487 -362[-468 -450 -378 -450|378 -450[468 -450 487 -362|566 7[585 95 557 180|496 365[468 450 378 450|-378 450[-468 450 -496 365|-557 180"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="14" name="angry_E" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+<Edge fillStyle1="2" edges="!148 173[149 212 105 240[62 268 0 268[-62 268 -105 240[-149 212 -148 173[-149 134 -105 106[-62 79 0 79[62 79 105 106[148 134 148 173"/>
+<Edge strokeStyle="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="15" name="angry_F" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!-270 -5[-270 -112 -202 -191|-202 -191[-135 -270 -27 -270|27 -270[135 -270 211 -194|216 -189[292 -112 292 -5|292 5[292 112 216 189|211 194[135 270 27 270|-27 270[-135 270 -202 191|-202 191[-270 112 -270 5|-270 -5"/>
+<Edge fillStyle1="2" edges="!112 9[112 57 84 92[55 126 14 126[-28 126 -57 92[-86 57 -86 9[-86 -39 -57 -74[-28 -108 13 -108[55 -108 84 -74[112 -39 112 9"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="16" name="angry_G" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="4.32" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-446 148[-495 95 -467 9|-424 -117[-396 -202 -306 -202|306 -202[396 -202 424 -117|467 9[495 95 446 148|446 148[396 202 306 202|-306 202[-396 202 -446 148|-446 148"/>
+<Edge fillStyle1="2" edges="!-356 -189|356 -189|346 -13|-346 -13|-356 -189"/>
+<Edge strokeStyle="1" edges="!-360 -13[-270 86 -180 -13"/>
+<Edge strokeStyle="1" edges="!-180 -13[-90 86 0 -13"/>
+<Edge strokeStyle="1" edges="!0 -13[90 86 180 -13"/>
+<Edge strokeStyle="1" edges="!180 -13[270 86 360 -13"/>
+<Edge strokeStyle="2" edges="!-396 61[0 243 396 61"/>
+<Edge strokeStyle="3" edges="!-446 148[-495 95 -467 9|-424 -117[-396 -202 -306 -202|306 -202[396 -202 424 -117|467 9[495 95 446 148|446 148[396 202 306 202|-306 202[-396 202 -446 148|-446 148"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="17" name="angry_H" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-461 178[-495 95 -475 7|-416 -250[-396 -338 -306 -338|306 -338[396 -338 416 -250|475 7[495 95 461 178|430 254[396 338 306 338|-306 338[-396 338 -430 254|-461 178"/>
+<Edge fillStyle1="2" edges="!272 -34[272 25 193 66[113 108 0 108[-113 108 -193 66[-272 25 -272 -34[-272 -92 -193 -134[-113 -175 0 -175[113 -175 193 -134[272 -92 272 -34"/>
+<Edge fillStyle1="3" edges="!-356 -324|356 -324|346 -212|-346 -212|-356 -324"/>
+<Edge strokeStyle="1" edges="!-461 178[-495 95 -475 7|-416 -250[-396 -338 -306 -338|306 -338[396 -338 416 -250|475 7[495 95 461 178|430 254[396 338 306 338|-306 338[-396 338 -430 254|-461 178"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="18" name="smug_X" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-495 -45[-45 225 495 -225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="19" name="smug_A" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="6.21" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-472 -22[-236 -54 -118 -13[0 27 118 -9[236 -45 472 -112"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="20" name="smug_B" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="2.93" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#555555"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-512 28[-583 -27 -499 -60|-404 -97[-321 -130 -232 -146|232 -227[321 -243 410 -231|494 -219[583 -207 532 -133|342 146[292 220 202 217|-202 201[-292 198 -363 143|-512 28"/>
+<Edge strokeStyle="1" edges="!-516 -58|516 -112"/>
+<Edge strokeStyle="2" edges="!-262 -126|-262 126"/>
+<Edge strokeStyle="2" edges="!0 -126|0 126"/>
+<Edge strokeStyle="2" edges="!262 -126|262 126"/>
+<Edge strokeStyle="3" edges="!-512 28[-583 -27 -499 -60|-404 -97[-321 -130 -232 -146|232 -227[321 -243 410 -231|494 -219[583 -207 532 -133|342 146[292 220 202 217|-202 201[-292 198 -363 143|-512 28"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="21" name="smug_C" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#B8404E"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-504 44[-559 -27 -494 -90|-372 -207[-307 -270 -219 -286|219 -366[307 -382 381 -331|485 -259[559 -207 519 -126|319 279[279 360 190 356|-190 341[-279 338 -334 266|-504 44"/>
+<Edge fillStyle1="2" edges="!307 146[307 197 217 233[127 269 0 269[-127 269 -217 233[-307 197 -307 146[-307 95 -217 59[-127 23 0 23[127 23 217 59[307 95 307 146"/>
+<Edge fillStyle1="3" edges="!-402 -279|402 -342|391 -230|-391 -167|-402 -279"/>
+<Edge strokeStyle="1" edges="!-504 44[-559 -27 -494 -90|-372 -207[-307 -270 -219 -286|219 -366[307 -382 381 -331|485 -259[559 -207 519 -126|319 279[279 360 190 356|-190 341[-279 338 -334 266|-504 44"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="22" name="smug_D" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#B8404E"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-585 50[-632 -27 -580 -100|-400 -354[-347 -428 -259 -442|259 -526[347 -540 406 -472|573 -275[632 -207 596 -125|352 435[316 518 226 514|-226 498[-316 495 -362 418|-585 50"/>
+<Edge fillStyle1="2" edges="!347 225[347 303 246 359[144 414 0 414[-144 414 -246 359[-347 303 -347 225[-347 147 -246 91[-144 36 0 36[144 36 246 91[347 147 347 225"/>
+<Edge fillStyle1="3" edges="!-455 -436|455 -499|442 -369|-442 -306|-455 -436"/>
+<Edge strokeStyle="1" edges="!-585 50[-632 -27 -580 -100|-400 -354[-347 -428 -259 -442|259 -526[347 -540 406 -472|573 -275[632 -207 596 -125|352 435[316 518 226 514|-226 498[-316 495 -362 418|-585 50"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="23" name="smug_E" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+<Edge fillStyle1="2" edges="!148 173[149 212 105 240[62 268 0 268[-62 268 -105 240[-149 212 -148 173[-149 134 -105 106[-62 79 0 79[62 79 105 106[148 134 148 173"/>
+<Edge strokeStyle="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="24" name="smug_F" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!-270 -5[-270 -112 -202 -191|-202 -191[-135 -270 -27 -270|27 -270[135 -270 214 -218|214 -218[292 -167 292 -59|292 5[292 112 216 189|211 194[135 270 27 270|-27 270[-135 270 -202 191|-202 191[-270 112 -270 5|-270 -5"/>
+<Edge fillStyle1="2" edges="!112 9[112 57 84 92[55 126 14 126[-28 126 -57 92[-86 57 -86 9[-86 -39 -57 -74[-28 -108 13 -108[55 -108 84 -74[112 -39 112 9"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="25" name="smug_G" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="4.32" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-472 37[-535 -27 -459 -75|-370 -132[-294 -180 -206 -197|206 -276[294 -292 379 -262|450 -237[535 -207 491 -128|311 191[267 270 177 266|-177 251[-267 248 -330 183|-472 37"/>
+<Edge fillStyle1="2" edges="!-385 -189|385 -252|374 -76|-374 -13|-385 -189"/>
+<Edge strokeStyle="1" edges="!-360 -13[-270 86 -180 -13"/>
+<Edge strokeStyle="1" edges="!-180 -13[-90 86 0 -13"/>
+<Edge strokeStyle="1" edges="!0 -13[90 86 180 -13"/>
+<Edge strokeStyle="1" edges="!180 -13[270 86 360 -13"/>
+<Edge strokeStyle="2" edges="!-428 61[0 243 428 7"/>
+<Edge strokeStyle="3" edges="!-472 37[-535 -27 -459 -75|-370 -132[-294 -180 -206 -197|206 -276[294 -292 379 -262|450 -237[535 -207 491 -128|311 191[267 270 177 266|-177 251[-267 248 -330 183|-472 37"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="26" name="smug_H" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#B8404E"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-485 48[-535 -27 -477 -96|-352 -246[-294 -315 -206 -332|206 -411[294 -428 360 -367|468 -268[535 -207 499 -125|303 323[267 405 177 401|-177 386[-267 382 -316 307|-485 48"/>
+<Edge fillStyle1="2" edges="!294 -34[294 25 208 66[122 108 0 108[-122 108 -208 66[-294 25 -294 -34[-294 -92 -208 -134[-122 -175 0 -175[122 -175 208 -134[294 -92 294 -34"/>
+<Edge fillStyle1="3" edges="!-385 -324|385 -387|374 -274|-374 -212|-385 -324"/>
+<Edge strokeStyle="1" edges="!-485 48[-535 -27 -477 -96|-352 -246[-294 -315 -206 -332|206 -411[294 -428 360 -367|468 -268[535 -207 499 -125|303 323[267 405 177 401|-177 386[-267 382 -316 307|-485 48"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="27" name="sad_X" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-405 158[0 -135 405 158"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="28" name="sad_A" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="6.21" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-472 90[-236 -54 -118 -13[0 27 118 -9[236 -45 472 90"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="29" name="sad_B" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="2.93" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#555555"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-385 115[-475 108 -415 41|-298 -86[-238 -153 -148 -153|148 -153[238 -153 298 -86|415 41[475 108 385 115|375 116[285 122 195 127|90 133[0 138 -90 133|-195 127[-285 122 -375 116|-385 115"/>
+<Edge strokeStyle="1" edges="!-408 54|408 54"/>
+<Edge strokeStyle="2" edges="!-214 -126|-214 126"/>
+<Edge strokeStyle="2" edges="!0 -126|0 126"/>
+<Edge strokeStyle="2" edges="!214 -126|214 126"/>
+<Edge strokeStyle="3" edges="!-385 115[-475 108 -415 41|-298 -86[-238 -153 -148 -153|148 -153[238 -153 298 -86|415 41[475 108 385 115|375 116[285 122 195 127|90 133[0 138 -90 133|-195 127[-285 122 -375 116|-385 115"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="30" name="sad_C" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-381 159[-455 108 -411 30|-272 -214[-228 -292 -138 -292|138 -292[228 -292 272 -214|411 30[455 108 381 159|347 183[273 234 184 244|89 254[0 263 -89 254|-184 244[-273 234 -347 183|-381 159"/>
+<Edge fillStyle1="2" edges="!250 146[250 197 177 233[104 269 0 269[-104 269 -177 233[-250 197 -250 146[-250 95 -177 59[-104 23 0 23[104 23 177 59[250 95 250 146"/>
+<Edge fillStyle1="3" edges="!-328 -279|328 -279|319 -167|-319 -167|-328 -279"/>
+<Edge strokeStyle="1" edges="!-381 159[-455 108 -411 30|-272 -214[-228 -292 -138 -292|138 -292[228 -292 272 -214|411 30[455 108 381 159|347 183[273 234 184 244|89 254[0 263 -89 254|-184 244[-273 234 -347 183|-381 159"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="31" name="sad_D" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-458 178[-515 108 -477 26|-295 -368[-257 -450 -167 -450|167 -450[257 -450 295 -368|477 26[515 108 458 178|366 290[309 360 220 373|89 392[0 405 -89 392|-220 373[-309 360 -366 290|-458 178"/>
+<Edge fillStyle1="2" edges="!283 225[283 303 200 359[117 414 0 414[-117 414 -200 359[-283 303 -283 225[-283 147 -200 91[-117 36 0 36[117 36 200 91[283 147 283 225"/>
+<Edge fillStyle1="3" edges="!-371 -436|371 -436|360 -306|-360 -306|-371 -436"/>
+<Edge strokeStyle="1" edges="!-458 178[-515 108 -477 26|-295 -368[-257 -450 -167 -450|167 -450[257 -450 295 -368|477 26[515 108 458 178|366 290[309 360 220 373|89 392[0 405 -89 392|-220 373[-309 360 -366 290|-458 178"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="32" name="sad_E" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+<Edge fillStyle1="2" edges="!148 173[149 212 105 240[62 268 0 268[-62 268 -105 240[-149 212 -148 173[-149 134 -105 106[-62 79 0 79[62 79 105 106[148 134 148 173"/>
+<Edge strokeStyle="1" edges="!270 0[270 130 191 223[112 315 0 315[-112 315 -191 223[-270 130 -270 0[-270 -130 -191 -223[-112 -315 0 -315[112 -315 191 -223[270 -130 270 0"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="33" name="sad_F" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!-270 -5[-270 -112 -202 -191|-202 -191[-135 -270 -27 -270|27 -270[135 -270 211 -194|216 -189[292 -112 292 -5|292 5[292 112 216 189|211 194[135 270 27 270|-27 270[-135 270 -202 191|-202 191[-270 112 -270 5|-270 -5"/>
+<Edge fillStyle1="2" edges="!112 9[112 57 84 92[55 126 14 126[-28 126 -57 92[-86 57 -86 9[-86 -39 -57 -74[-28 -108 13 -108[55 -108 84 -74[112 -39 112 9"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="34" name="sad_G" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="1.80" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="4.32" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-350 135[-436 108 -384 34|-269 -129[-218 -202 -128 -202|128 -202[218 -202 269 -129|384 34[436 108 350 135|347 135[261 162 172 169|90 175[0 182 -90 175|-172 169[-261 162 -347 135|-350 135"/>
+<Edge fillStyle1="2" edges="!-314 -189|314 -189|305 -13|-305 -13|-314 -189"/>
+<Edge strokeStyle="1" edges="!-360 -13[-270 86 -180 -13"/>
+<Edge strokeStyle="1" edges="!-180 -13[-90 86 0 -13"/>
+<Edge strokeStyle="1" edges="!0 -13[90 86 180 -13"/>
+<Edge strokeStyle="1" edges="!180 -13[270 86 360 -13"/>
+<Edge strokeStyle="2" edges="!-348 61[0 243 348 61"/>
+<Edge strokeStyle="3" edges="!-350 135[-436 108 -384 34|-269 -129[-218 -202 -128 -202|128 -202[218 -202 269 -129|384 34[436 108 350 135|347 135[261 162 172 169|90 175[0 182 -90 175|-172 169[-261 162 -347 135|-350 135"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="35" name="sad_H" labelType="name" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#050505"/></FillStyle>
+<FillStyle index="2"><SolidColor color="#8E3B52"/></FillStyle>
+<FillStyle index="3"><SolidColor color="#FFFFFF"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="5.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" edges="!-370 169[-436 108 -396 27|-257 -257[-218 -338 -128 -338|128 -338[218 -338 257 -257|396 27[436 108 370 169|327 209[261 270 172 282|89 292[0 304 -89 292|-172 282[-261 270 -327 209|-370 169"/>
+<Edge fillStyle1="2" edges="!240 -34[240 25 169 66[99 108 0 108[-99 108 -169 66[-240 25 -240 -34[-240 -92 -169 -134[-99 -175 0 -175[99 -175 169 -134[240 -92 240 -34"/>
+<Edge fillStyle1="3" edges="!-314 -324|314 -324|305 -212|-305 -212|-314 -324"/>
+<Edge strokeStyle="1" edges="!-370 169[-436 108 -396 27|-257 -257[-218 -338 -128 -338|128 -338[218 -338 257 -257|396 27[436 108 370 169|327 209[261 270 172 282|89 292[0 304 -89 292|-172 282[-261 270 -327 209|-370 169"/>
+</edges></DOMShape></elements></DOMFrame></frames></DOMLayer></layers></DOMTimeline></timeline></DOMSymbolItem>

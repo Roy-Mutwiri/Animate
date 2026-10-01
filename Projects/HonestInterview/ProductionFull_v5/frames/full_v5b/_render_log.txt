@@ -1,0 +1,4 @@
+opened frames=1702 layers=16 lib=15
+exported 1702 frames in 436.451s
+saved fla true
+DONE

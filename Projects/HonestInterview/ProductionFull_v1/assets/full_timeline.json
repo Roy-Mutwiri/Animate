@@ -1,0 +1,312 @@
+{
+  "fps": 24,
+  "width": 1080,
+  "height": 1920,
+  "audio_duration": 70.88907,
+  "frame_count": 1702,
+  "lines": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "speaker": "interviewer",
+      "text": "Okay, for $10 billion, would you",
+      "mood": "question"
+    },
+    {
+      "start": 2.56,
+      "end": 2.82,
+      "speaker": "respondent",
+      "text": "Yes.",
+      "mood": "snap"
+    },
+    {
+      "start": 4.44,
+      "end": 7.7,
+      "speaker": "interviewer",
+      "text": "Um, I didn't finish the question. I'd listen here.",
+      "mood": "object"
+    },
+    {
+      "start": 8.64,
+      "end": 18.72,
+      "speaker": "respondent",
+      "text": "There was nothing. And I mean nothing that could come out of that little pie hole of yours to make me turn down $10 billion.",
+      "mood": "confident"
+    },
+    {
+      "start": 20.48,
+      "end": 23.44,
+      "speaker": "interviewer",
+      "text": "Even if one random person had to die?",
+      "mood": "question"
+    },
+    {
+      "start": 23.44,
+      "end": 25.12,
+      "speaker": "respondent",
+      "text": "Yes. The answer is yes.",
+      "mood": "flat_yes"
+    },
+    {
+      "start": 25.84,
+      "end": 27.6,
+      "speaker": "interviewer",
+      "text": "Okay, what if it was someone you knew?",
+      "mood": "press"
+    },
+    {
+      "start": 27.6,
+      "end": 37.36,
+      "speaker": "respondent",
+      "text": "Yes, take my aunt, take my grandma, hell, you could blow the block up. Can you even fathom how much money $10 billion is?",
+      "mood": "rant"
+    },
+    {
+      "start": 38.0,
+      "end": 39.44,
+      "speaker": "interviewer",
+      "text": "Oh, it's just a hypothetical.",
+      "mood": "uneasy"
+    },
+    {
+      "start": 39.44,
+      "end": 43.76,
+      "speaker": "respondent",
+      "text": "And if it was a reality, I'd be first in line.",
+      "mood": "smug"
+    },
+    {
+      "start": 43.76,
+      "end": 47.12,
+      "speaker": "interviewer",
+      "text": "You're talking about human lives for $10 billion.",
+      "mood": "moral"
+    },
+    {
+      "start": 47.12,
+      "end": 49.84,
+      "speaker": "respondent",
+      "text": "Hey, hey, hey, hey. Guess what?",
+      "mood": "tease"
+    },
+    {
+      "start": 50.4,
+      "end": 52.16,
+      "speaker": "interviewer",
+      "text": "I don't want to guess. Don't make me guess.",
+      "mood": "annoyed"
+    },
+    {
+      "start": 52.16,
+      "end": 55.12,
+      "speaker": "respondent",
+      "text": "Oh, come on. You got to be curious about what I'm going to tell you.",
+      "mood": "tease"
+    },
+    {
+      "start": 55.12,
+      "end": 57.12,
+      "speaker": "interviewer",
+      "text": "What?",
+      "mood": "short"
+    },
+    {
+      "start": 58.4,
+      "end": 62.08,
+      "speaker": "respondent",
+      "text": "I would have did it for $5 billion?",
+      "mood": "reveal"
+    },
+    {
+      "start": 62.08,
+      "end": 64.56,
+      "speaker": "interviewer",
+      "text": "$1,000. What are you?",
+      "mood": "shocked"
+    },
+    {
+      "start": 64.56,
+      "end": 65.6,
+      "speaker": "respondent",
+      "text": "Oh, that's a good question.",
+      "mood": "consider"
+    },
+    {
+      "start": 66.56,
+      "end": 70.32,
+      "speaker": "respondent",
+      "text": "I guess you can call me an entrepreneur.",
+      "mood": "punchline"
+    }
+  ],
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "name": "S01_setup_twoshot",
+      "framing": "two",
+      "note": "Interviewer sets up; respondent listens."
+    },
+    {
+      "start": 2.44,
+      "end": 4.44,
+      "name": "S02_yes_reaction",
+      "framing": "respondent_close",
+      "note": "Abrupt Yes and held silence."
+    },
+    {
+      "start": 4.44,
+      "end": 8.05,
+      "name": "S03_object_close",
+      "framing": "interviewer_close",
+      "note": "Interviewer objects; respondent holds offscreen confidence."
+    },
+    {
+      "start": 8.05,
+      "end": 18.95,
+      "name": "S04_respondent_rant",
+      "framing": "respondent_close",
+      "note": "Respondent monologue, restrained confidence with a few accents."
+    },
+    {
+      "start": 18.95,
+      "end": 20.48,
+      "name": "S05_breath_twoshot",
+      "framing": "two",
+      "note": "Pause before interviewer escalates question."
+    },
+    {
+      "start": 20.48,
+      "end": 23.44,
+      "name": "S06_random_person",
+      "framing": "interviewer_close",
+      "note": "Interviewer presses the morality question."
+    },
+    {
+      "start": 23.44,
+      "end": 25.6,
+      "name": "S07_answer_yes",
+      "framing": "respondent_close",
+      "note": "Respondent says yes again without hesitation."
+    },
+    {
+      "start": 25.6,
+      "end": 27.6,
+      "name": "S08_someone_known",
+      "framing": "interviewer_close",
+      "note": "Interviewer tries making it personal."
+    },
+    {
+      "start": 27.6,
+      "end": 37.6,
+      "name": "S09_take_family",
+      "framing": "respondent_close",
+      "note": "Respondent escalates into the darkest confidence."
+    },
+    {
+      "start": 37.6,
+      "end": 39.44,
+      "name": "S10_hypothetical",
+      "framing": "interviewer_close",
+      "note": "Interviewer weakly reframes as hypothetical."
+    },
+    {
+      "start": 39.44,
+      "end": 43.76,
+      "name": "S11_first_in_line",
+      "framing": "respondent_close",
+      "note": "Respondent doubles down."
+    },
+    {
+      "start": 43.76,
+      "end": 47.12,
+      "name": "S12_human_lives",
+      "framing": "interviewer_close",
+      "note": "Interviewer states the moral cost."
+    },
+    {
+      "start": 47.12,
+      "end": 49.84,
+      "name": "S13_guess_what",
+      "framing": "respondent_close",
+      "note": "Respondent interrupts with tease."
+    },
+    {
+      "start": 49.84,
+      "end": 52.16,
+      "name": "S14_dont_guess",
+      "framing": "interviewer_close",
+      "note": "Interviewer tries to stop the bit."
+    },
+    {
+      "start": 52.16,
+      "end": 55.12,
+      "name": "S15_curiosity",
+      "framing": "respondent_close",
+      "note": "Respondent keeps baiting."
+    },
+    {
+      "start": 55.12,
+      "end": 58.4,
+      "name": "S16_what_hold",
+      "framing": "interviewer_close",
+      "note": "Interviewer relents, then hold."
+    },
+    {
+      "start": 58.4,
+      "end": 62.08,
+      "name": "S17_five_billion",
+      "framing": "respondent_close",
+      "note": "Respondent reveals lower number."
+    },
+    {
+      "start": 62.08,
+      "end": 64.56,
+      "name": "S18_one_thousand",
+      "framing": "interviewer_close",
+      "note": "Interviewer tops the confusion."
+    },
+    {
+      "start": 64.56,
+      "end": 70.889,
+      "name": "S19_entrepreneur",
+      "framing": "respondent_close",
+      "note": "Final punchline and smug hold."
+    }
+  ],
+  "silences": [
+    [
+      2.854,
+      4.848
+    ],
+    [
+      7.352,
+      8.612
+    ],
+    [
+      18.892,
+      20.627
+    ],
+    [
+      37.584,
+      37.933
+    ],
+    [
+      43.57,
+      43.934
+    ],
+    [
+      55.601,
+      55.932
+    ],
+    [
+      57.436,
+      57.828
+    ]
+  ],
+  "notes": [
+    "Speaker-specific approximate lip sync based on available machine transcript and silence detection.",
+    "No local Whisper/Rhubarb was available; no phoneme-perfect lip sync is claimed.",
+    "Visual direction follows reference study: sparse seated line-body comedy, held reactions, shot changes."
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "fps": 24,
+  "frame_count": 1702,
+  "audio_duration": 70.88907,
+  "shots": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "name": "setup_two",
+      "framing": "two",
+      "purpose": "question setup"
+    },
+    {
+      "start": 2.44,
+      "end": 4.44,
+      "name": "yes_close",
+      "framing": "respondent",
+      "purpose": "interruption and silent hold"
+    },
+    {
+      "start": 4.44,
+      "end": 8.05,
+      "name": "object_close",
+      "framing": "interviewer",
+      "purpose": "objecting reaction"
+    },
+    {
+      "start": 8.05,
+      "end": 18.95,
+      "name": "nothing_close",
+      "framing": "respondent",
+      "purpose": "respondent explains absolute certainty"
+    },
+    {
+      "start": 18.95,
+      "end": 20.48,
+      "name": "pause_two",
+      "framing": "two",
+      "purpose": "breath before moral escalation"
+    },
+    {
+      "start": 20.48,
+      "end": 23.44,
+      "name": "random_person",
+      "framing": "interviewer",
+      "purpose": "question close"
+    },
+    {
+      "start": 23.44,
+      "end": 25.6,
+      "name": "yes_again",
+      "framing": "respondent",
+      "purpose": "flat immediate yes"
+    },
+    {
+      "start": 25.6,
+      "end": 27.6,
+      "name": "someone_known",
+      "framing": "interviewer",
+      "purpose": "more personal challenge"
+    },
+    {
+      "start": 27.6,
+      "end": 37.6,
+      "name": "family_block",
+      "framing": "respondent",
+      "purpose": "respondent escalates with gestures"
+    },
+    {
+      "start": 37.6,
+      "end": 39.44,
+      "name": "hypothetical",
+      "framing": "interviewer",
+      "purpose": "weak correction"
+    },
+    {
+      "start": 39.44,
+      "end": 43.76,
+      "name": "first_line",
+      "framing": "respondent",
+      "purpose": "smug doubling down"
+    },
+    {
+      "start": 43.76,
+      "end": 47.12,
+      "name": "human_lives",
+      "framing": "interviewer",
+      "purpose": "moral objection"
+    },
+    {
+      "start": 47.12,
+      "end": 49.84,
+      "name": "guess_what",
+      "framing": "respondent",
+      "purpose": "teasing setup"
+    },
+    {
+      "start": 49.84,
+      "end": 52.16,
+      "name": "dont_guess",
+      "framing": "interviewer",
+      "purpose": "annoyed refusal"
+    },
+    {
+      "start": 52.16,
+      "end": 55.12,
+      "name": "curious",
+      "framing": "respondent",
+      "purpose": "baiting"
+    },
+    {
+      "start": 55.12,
+      "end": 58.4,
+      "name": "what_hold",
+      "framing": "interviewer",
+      "purpose": "reluctant what and pause"
+    },
+    {
+      "start": 58.4,
+      "end": 62.08,
+      "name": "five_billion",
+      "framing": "respondent",
+      "purpose": "almost punchline"
+    },
+    {
+      "start": 62.08,
+      "end": 64.56,
+      "name": "one_thousand",
+      "framing": "interviewer",
+      "purpose": "shocked interruption"
+    },
+    {
+      "start": 64.56,
+      "end": 70.889,
+      "name": "entrepreneur",
+      "framing": "respondent",
+      "purpose": "final punchline"
+    }
+  ],
+  "lines": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "speaker": "interviewer",
+      "text": "Okay, for $10 billion, would you",
+      "intent": "asking"
+    },
+    {
+      "start": 2.56,
+      "end": 2.82,
+      "speaker": "respondent",
+      "text": "Yes.",
+      "intent": "interrupting"
+    },
+    {
+      "start": 4.44,
+      "end": 7.7,
+      "speaker": "interviewer",
+      "text": "Um, I didn't finish the question. I'd listen here.",
+      "intent": "objecting"
+    },
+    {
+      "start": 8.64,
+      "end": 18.72,
+      "speaker": "respondent",
+      "text": "There was nothing. And I mean nothing that could come out of that little pie hole of yours to make me turn down $10 billion.",
+      "intent": "insisting"
+    },
+    {
+      "start": 20.48,
+      "end": 23.44,
+      "speaker": "interviewer",
+      "text": "Even if one random person had to die?",
+      "intent": "testing"
+    },
+    {
+      "start": 23.44,
+      "end": 25.12,
+      "speaker": "respondent",
+      "text": "Yes. The answer is yes.",
+      "intent": "flat_yes"
+    },
+    {
+      "start": 25.84,
+      "end": 27.6,
+      "speaker": "interviewer",
+      "text": "Okay, what if it was someone you knew?",
+      "intent": "pressing"
+    },
+    {
+      "start": 27.6,
+      "end": 37.36,
+      "speaker": "respondent",
+      "text": "Yes, take my aunt, take my grandma, hell, you could blow the block up. Can you even fathom how much money $10 billion is?",
+      "intent": "escalating"
+    },
+    {
+      "start": 38.0,
+      "end": 39.44,
+      "speaker": "interviewer",
+      "text": "Oh, it's just a hypothetical.",
+      "intent": "uneasy"
+    },
+    {
+      "start": 39.44,
+      "end": 43.76,
+      "speaker": "respondent",
+      "text": "And if it was a reality, I'd be first in line.",
+      "intent": "doubling_down"
+    },
+    {
+      "start": 43.76,
+      "end": 47.12,
+      "speaker": "interviewer",
+      "text": "You're talking about human lives for $10 billion.",
+      "intent": "moral"
+    },
+    {
+      "start": 47.12,
+      "end": 49.84,
+      "speaker": "respondent",
+      "text": "Hey, hey, hey, hey. Guess what?",
+      "intent": "baiting"
+    },
+    {
+      "start": 50.4,
+      "end": 52.16,
+      "speaker": "interviewer",
+      "text": "I don't want to guess. Don't make me guess.",
+      "intent": "refusing"
+    },
+    {
+      "start": 52.16,
+      "end": 55.12,
+      "speaker": "respondent",
+      "text": "Oh, come on. You got to be curious about what I'm going to tell you.",
+      "intent": "baiting"
+    },
+    {
+      "start": 55.12,
+      "end": 57.12,
+      "speaker": "interviewer",
+      "text": "What?",
+      "intent": "relenting"
+    },
+    {
+      "start": 58.4,
+      "end": 62.08,
+      "speaker": "respondent",
+      "text": "I would have did it for $5 billion?",
+      "intent": "reveal"
+    },
+    {
+      "start": 62.08,
+      "end": 64.56,
+      "speaker": "interviewer",
+      "text": "$1,000. What are you?",
+      "intent": "shocked"
+    },
+    {
+      "start": 64.56,
+      "end": 65.6,
+      "speaker": "respondent",
+      "text": "Oh, that's a good question.",
+      "intent": "thinking"
+    },
+    {
+      "start": 66.56,
+      "end": 70.32,
+      "speaker": "respondent",
+      "text": "I guess you can call me an entrepreneur.",
+      "intent": "punchline"
+    }
+  ],
+  "rhubarb": {
+    "interviewer_cues": 121,
+    "respondent_cues": 205,
+    "note": "Speaker-specific full-length analysis WAVs preserve original duration with the other speaker silenced."
+  }
+}

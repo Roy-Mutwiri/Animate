@@ -1,0 +1,843 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#FFFFFF" width="1080" height="1920" frameRate="24" currentTimeline="1" xflVersion="22.02" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 15" majorVersion="24" buildNumber="15" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false"><folders><DOMFolderItem name="FACE" isExpanded="false"/><DOMFolderItem name="HEAD" isExpanded="false"/><DOMFolderItem name="MOUTH" isExpanded="false"/><DOMFolderItem name="SET" isExpanded="false"/></folders><symbols><Include href="SET/Room.xml" loadImmediate="false"/><Include href="SET/Nightstand.xml" loadImmediate="false"/><Include href="SET/Armchair.xml" loadImmediate="false"/><Include href="HEAD/Head_Cap.xml" loadImmediate="false"/><Include href="HEAD/Head_Glasses.xml" loadImmediate="false"/><Include href="FACE/Glasses.xml" loadImmediate="false"/><Include href="FACE/Eyes_Cap.xml" loadImmediate="false"/><Include href="FACE/Eyes_Glasses.xml" loadImmediate="false"/><Include href="FACE/Brows.xml" loadImmediate="false"/><Include href="MOUTH/Mouth_Cap.xml" loadImmediate="false"/><Include href="MOUTH/Mouth_Glasses.xml" loadImmediate="false"/></symbols><timelines><DOMTimeline name="Scene 1"><layers><DOMLayer name="FX_Iris" color="#000000"><frames><DOMFrame index="0" duration="36" keyMode="9728"><elements></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!29600 14000|29600 46400|-8000 46400|-8000 -8000|29600 -8000|29600 14000|20040 14000|20005 13195|19900 12395|19725 11609|19483 10840|19174 10095|18802 9380|18369 8700|17878 8061|17334 7466|16739 6922|16100 6431|15420 5998|14705 5626|13960 5317|13191 5075|12405 4900|11605 4795|10800 4760|9995 4795|9195 4900|8409 5075|7640 5317|6895 5626|6180 5998|5500 6431|4861 6922|4266 7466|3722 8061|3231 8700|2798 9380|2426 10095|2117 10840|1875 11609|1700 12395|1595 13195|1560 14000|1595 14805|1700 15605|1875 16391|2117 17160|2426 17905|2798 18620|3231 19300|3722 19939|4266 20534|4861 21078|5500 21569|6180 22002|6895 22374|7640 22683|8409 22925|9195 23100|9995 23205|10800 23240|11605 23205|12405 23100|13191 22925|13960 22683|14705 22374|15420 22002|16100 21569|16739 21078|17334 20534|17878 19939|18369 19300|18802 18620|19174 17905|19483 17160|19725 16391|19900 15605|20005 14805|20040 14000|29600 14000"/>
+</edges></DOMShape>
+<DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000" alpha="0.550"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!20040 14000|20005 14805|19900 15605|19725 16391|19483 17160|19174 17905|18802 18620|18369 19300|17878 19939|17334 20534|16739 21078|16100 21569|15420 22002|14705 22374|13960 22683|13191 22925|12405 23100|11605 23205|10800 23240|9995 23205|9195 23100|8409 22925|7640 22683|6895 22374|6180 22002|5500 21569|4861 21078|4266 20534|3722 19939|3231 19300|2798 18620|2426 17905|2117 17160|1875 16391|1700 15605|1595 14805|1560 14000|1595 13195|1700 12395|1875 11609|2117 10840|2426 10095|2798 9380|3231 8700|3722 8061|4266 7466|4861 6922|5500 6431|6180 5998|6895 5626|7640 5317|8409 5075|9195 4900|9995 4795|10800 4760|11605 4795|12405 4900|13191 5075|13960 5317|14705 5626|15420 5998|16100 6431|16739 6922|17334 7466|17878 8061|18369 8700|18802 9380|19174 10095|19483 10840|19725 11609|19900 12395|20005 13195|20040 14000|19200 14000|19168 13268|19072 12541|18914 11826|18693 11127|18413 10450|18075 9800|17681 9182|17235 8601|16740 8060|16199 7565|15618 7119|15000 6725|14350 6387|13673 6107|12974 5886|12259 5728|11532 5632|10800 5600|10068 5632|9341 5728|8626 5886|7927 6107|7250 6387|6600 6725|5982 7119|5401 7565|4860 8060|4365 8601|3919 9182|3525 9800|3187 10450|2907 11127|2686 11826|2528 12541|2432 13268|2400 14000|2432 14732|2528 15459|2686 16174|2907 16873|3187 17550|3525 18200|3919 18818|4365 19399|4860 19940|5401 20435|5982 20881|6600 21275|7250 21613|7927 21893|8626 22114|9341 22272|10068 22368|10800 22400|11532 22368|12259 22272|12974 22114|13673 21893|14350 21613|15000 21275|15618 20881|16199 20435|16740 19940|17235 19399|17681 18818|18075 18200|18413 17550|18693 16873|18914 16174|19072 15459|19168 14732|19200 14000|20040 14000"/>
+</edges></DOMShape>
+<DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000" alpha="0.250"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!19200 14000|19168 14732|19072 15459|18914 16174|18693 16873|18413 17550|18075 18200|17681 18818|17235 19399|16740 19940|16199 20435|15618 20881|15000 21275|14350 21613|13673 21893|12974 22114|12259 22272|11532 22368|10800 22400|10068 22368|9341 22272|8626 22114|7927 21893|7250 21613|6600 21275|5982 20881|5401 20435|4860 19940|4365 19399|3919 18818|3525 18200|3187 17550|2907 16873|2686 16174|2528 15459|2432 14732|2400 14000|2432 13268|2528 12541|2686 11826|2907 11127|3187 10450|3525 9800|3919 9182|4365 8601|4860 8060|5401 7565|5982 7119|6600 6725|7250 6387|7927 6107|8626 5886|9341 5728|10068 5632|10800 5600|11532 5632|12259 5728|12974 5886|13673 6107|14350 6387|15000 6725|15618 7119|16199 7565|16740 8060|17235 8601|17681 9182|18075 9800|18413 10450|18693 11127|18914 11826|19072 12541|19168 13268|19200 14000|18612 14000|18582 13319|18493 12643|18346 11978|18141 11328|17880 10699|17565 10094|17199 9519|16784 8979|16324 8476|15821 8016|15281 7601|14706 7235|14101 6920|13472 6659|12822 6454|12157 6307|11481 6218|10800 6188|10119 6218|9443 6307|8778 6454|8128 6659|7499 6920|6894 7235|6319 7601|5779 8016|5276 8476|4816 8979|4401 9519|4035 10094|3720 10699|3459 11328|3254 11978|3107 12643|3018 13319|2988 14000|3018 14681|3107 15357|3254 16022|3459 16672|3720 17301|4035 17906|4401 18481|4816 19021|5276 19524|5779 19984|6319 20399|6894 20765|7499 21080|8128 21341|8778 21546|9443 21693|10119 21782|10800 21812|11481 21782|12157 21693|12822 21546|13472 21341|14101 21080|14706 20765|15281 20399|15821 19984|16324 19524|16784 19021|17199 18481|17565 17906|17880 17301|18141 16672|18346 16022|18493 15357|18582 14681|18612 14000|19200 14000"/>
+</edges></DOMShape></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="GL_mouth" color="#FF4040"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="1352.25" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="19" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="22" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="591.64" ty="856.68"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="20" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="20" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="511.35" ty="854.90"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="21" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="13" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="475.52" ty="862.58"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="22" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="11" loop="single frame"><matrix><Matrix a="-0.984808" b="-0.173648" c="-0.173648" d="0.984808" tx="577.09" ty="844.62"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="23" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="31" loop="single frame"><matrix><Matrix a="-0.992546" b="0.121869" c="0.121869" d="0.992546" tx="566.46" ty="865.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="24" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="29" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="25" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="533.26" ty="853.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="26" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="29" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="504.06" ty="855.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="27" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="31" loop="single frame"><matrix><Matrix a="-0.997564" b="-0.069756" c="-0.069756" d="0.997564" tx="573.95" ty="850.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="28" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="29" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="22" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="533.26" ty="853.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="30" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="20" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="31" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="13" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="598.90" ty="857.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="32" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="11" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="33" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="31" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="34" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="29" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="518.64" ty="854.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="35" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="547.88" ty="853.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.600000" b="0.000000" c="0.000000" d="1.600000" tx="1796.40" ty="1024.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="GL_glasses" color="#40A0FF"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="1413.00" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="19" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="652.39" ty="809.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="20" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="572.10" ty="807.65"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="21" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="536.27" ty="815.33"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="22" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.984808" b="-0.173648" c="-0.173648" d="0.984808" tx="645.12" ty="808.63"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="23" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.992546" b="0.121869" c="0.121869" d="0.992546" tx="621.00" ty="811.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="24" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="25" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="594.01" ty="806.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="26" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="564.81" ty="808.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="27" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.997564" b="-0.069756" c="-0.069756" d="0.997564" tx="637.84" ty="807.96"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="28" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="29" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="594.01" ty="806.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="30" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="31" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="659.65" ty="810.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="32" duration="2" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="34" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="579.39" ty="807.18"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="35" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="608.63" ty="806.55"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.600000" b="0.000000" c="0.000000" d="1.600000" tx="1893.60" ty="949.20"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="GL_brows" color="#FF40FF"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements></elements></DOMFrame>
+<DOMFrame index="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="591.75" ty="739.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="531.00" ty="737.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="19" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="7" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="620.89" ty="741.93"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="7" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="560.14" ty="739.68"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="20" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="540.60" ty="740.15"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="479.85" ty="737.90"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="21" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="504.77" ty="747.83"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="444.02" ty="745.58"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="22" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="-0.984808" b="-0.173648" c="-0.173648" d="0.984808" tx="625.82" ty="736.69"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="0.984808" b="0.173648" c="-0.173648" d="0.984808" tx="566.39" ty="723.92"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="23" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="-0.992546" b="0.121869" c="0.121869" d="0.992546" tx="581.51" ty="748.34"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="0.992546" b="-0.121869" c="0.121869" d="0.992546" tx="520.94" ty="753.51"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="24" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="6" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="591.75" ty="739.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="6" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="531.00" ty="737.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="25" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.51" ty="739.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="501.76" ty="736.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="26" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="533.31" ty="740.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="472.56" ty="738.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="27" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="6" loop="single frame"><matrix><Matrix a="-0.997564" b="-0.069756" c="-0.069756" d="0.997564" tx="611.13" ty="738.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="6" loop="single frame"><matrix><Matrix a="0.997564" b="0.069756" c="-0.069756" d="0.997564" tx="550.68" ty="731.95"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="28" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="591.75" ty="739.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="531.00" ty="737.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="29" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="7" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="562.51" ty="739.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="7" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="501.76" ty="736.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="30" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="591.75" ty="739.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="531.00" ty="737.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="31" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="628.15" ty="742.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="567.40" ty="740.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="32" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="591.75" ty="739.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="4" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="531.00" ty="737.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="33" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="591.75" ty="739.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="531.00" ty="737.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="34" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="6" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="547.89" ty="739.68"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="6" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="487.14" ty="737.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="35" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="577.13" ty="739.05"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="-0.000000" c="0.000000" d="1.000000" tx="516.38" ty="736.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="GL_eyes" color="#40FFFF"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="1379.25" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="1320.75" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="589.50" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="531.00" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="19" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="618.64" ty="786.93"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="560.14" ty="786.93"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="20" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="538.35" ty="785.15"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="479.85" ty="785.15"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="21" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="502.52" ty="792.83"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="444.02" ty="792.83"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="22" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-0.984808" b="-0.173648" c="-0.173648" d="0.984808" tx="615.79" ty="780.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-0.984808" b="-0.173648" c="-0.173648" d="0.984808" tx="558.18" ty="770.46"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="23" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-0.992546" b="0.121869" c="0.121869" d="0.992546" tx="584.76" ty="793.28"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-0.992546" b="0.121869" c="0.121869" d="0.992546" tx="526.70" ty="800.41"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="24" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="589.50" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="531.00" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="25" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="560.26" ty="784.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="501.76" ty="784.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="26" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="8" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="531.06" ty="785.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="8" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="472.56" ty="785.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="27" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-0.997564" b="-0.069756" c="-0.069756" d="0.997564" tx="605.74" ty="783.16"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-0.997564" b="-0.069756" c="-0.069756" d="0.997564" tx="547.39" ty="779.08"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="28" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="589.50" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="531.00" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="29" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="560.26" ty="784.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="501.76" ty="784.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="30" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="589.50" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="531.00" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="31" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="625.90" ty="787.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="567.40" ty="787.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="32" duration="2" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="589.50" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="531.00" ty="784.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="34" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="545.64" ty="784.68"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="487.14" ty="784.68"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="35" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="574.88" ty="784.05"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="516.38" ty="784.05"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.600000" b="0.000000" c="0.000000" d="1.600000" tx="1839.60" ty="913.20"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.600000" b="0.000000" c="0.000000" d="1.600000" tx="1746.00" ty="913.20"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="GL_head" color="#FFFF40"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="1413.00" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="19" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="652.39" ty="809.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="20" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="572.10" ty="807.65"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="21" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="536.27" ty="815.33"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="22" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.984808" b="-0.173648" c="-0.173648" d="0.984808" tx="645.12" ty="808.63"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="23" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.992546" b="0.121869" c="0.121869" d="0.992546" tx="621.00" ty="811.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="24" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="25" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="594.01" ty="806.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="26" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="564.81" ty="808.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="27" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.997564" b="-0.069756" c="-0.069756" d="0.997564" tx="637.84" ty="807.96"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="28" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="29" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="594.01" ty="806.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="30" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="31" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="659.65" ty="810.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="32" duration="2" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="623.25" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="34" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="579.39" ty="807.18"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="35" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="608.63" ty="806.55"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Glasses" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.600000" b="0.000000" c="0.000000" d="1.600000" tx="1893.60" ty="949.20"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="GL_body" color="#40FF40"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!27855 24510|28149 18432"/>
+<Edge strokeStyle="1" edges="!27855 24555|25715 24776[25245 24825 25185 25293|24647 29483[24615 29730 24372 29787|23265 30045"/>
+<Edge strokeStyle="1" edges="!27630 24465|24789 24576[24165 24600 24068 25217|23480 28965[23445 29190 23218 29214|22185 29325"/>
+<Edge strokeStyle="1" edges="!28128 18858|27297 20953[27135 21360 26698 21344|24705 21270"/>
+<Edge strokeStyle="1" edges="!28128 18858|30296 21095[30465 21270 30222 21262|29115 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="18" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12354 18432"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12333 18858|11502 20953[11340 21360 10903 21344|8910 21270"/>
+<Edge strokeStyle="1" edges="!12333 18858|14501 21095[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="19" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12777 18468"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9433 25297|9279 29526[9270 29775 9027 29832|7920 30090"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8322 25222|8028 29052[8010 29280 7783 29312|6750 29460"/>
+<Edge strokeStyle="1" edges="!12727 18891|11554 20978[11340 21360 10903 21344|8910 21270"/>
+<Edge strokeStyle="1" edges="!12727 18891|14516 21082[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="20" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|11611 18442"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!11643 18867|11393 20925[11340 21360 10903 21344|8910 21270"/>
+<Edge strokeStyle="1" edges="!11643 18867|14480 21119[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="21" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|11094 18572"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!11162 18987|11308 20933[11340 21360 10912 21344|8910 21270"/>
+<Edge strokeStyle="1" edges="!11162 18987|14466 21137[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="22" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12672 18456"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12629 18880|11542 20972[11340 21360 10903 21344|8910 21270"/>
+<Edge strokeStyle="1" edges="!12629 18880|14512 21085[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="23" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12320 18523"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12302 18942|11502 20953[11340 21360 10903 21344|8910 21270"/>
+<Edge strokeStyle="1" edges="!12302 18942|14497 21100[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="24" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12354 18432"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12333 18858|11279 20720[11070 21090 10940 20685|10350 18840"/>
+<Edge fillStyle1="1" edges="!10165 18489[10253 18460 10337 18505[10421 18549 10451 18642[10481 18734 10440 18819[10398 18905 10309 18934[10221 18962 10137 18918[10053 18873 10023 18781[9993 18688 10035 18603[10076 18517 10165 18489"/>
+<Edge strokeStyle="2" edges="!10366 18598[10581 18386 10867 18246"/>
+<Edge strokeStyle="1" edges="!12333 18858|14501 21095[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="25" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|11929 18427"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!11939 18852|10562 19654[10260 19830 9914 19777|7920 19470"/>
+<Edge fillStyle1="1" edges="!7443 19488[7452 19402 7537 19350[7622 19298 7733 19310[7844 19322 7917 19390[7989 19459 7980 19544[7971 19629 7886 19681[7801 19734 7690 19722[7579 19710 7506 19642[7434 19573 7443 19488"/>
+<Edge strokeStyle="2" edges="!7659 19375|7171 19278"/>
+<Edge strokeStyle="2" edges="!7713 19290|7593 19141"/>
+<Edge strokeStyle="1" edges="!11939 18852|14488 21109[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="26" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|11505 18451"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!11544 18875|10048 19400[9720 19515 9374 19479|7110 19245"/>
+<Edge fillStyle1="1" edges="!6634 19279[6640 19194 6723 19139[6806 19084 6918 19092[7029 19100 7104 19166[7179 19232 7173 19317[7167 19403 7084 19458[7000 19513 6889 19505[6777 19497 6703 19431[6628 19365 6634 19279"/>
+<Edge strokeStyle="2" edges="!6845 19159|6355 19079"/>
+<Edge strokeStyle="2" edges="!6897 19072|6771 18928"/>
+<Edge strokeStyle="1" edges="!11544 18875|14477 21122[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="27" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12566 18446"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12531 18871|10931 20583[10710 20820 10516 20561|9630 19380"/>
+<Edge strokeStyle="2" edges="!9630 19380[9328 19388 9225 19290[9122 19193 9094 18932"/>
+<Edge strokeStyle="2" edges="!9237 19371|9160 19111"/>
+<Edge strokeStyle="1" edges="!12531 18871|13692 20574[13860 20820 14006 20561|14670 19380"/>
+<Edge strokeStyle="2" edges="!14670 19380[14972 19388 15075 19290[15178 19193 15206 18932"/>
+<Edge strokeStyle="2" edges="!15063 19371|15140 19111"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="28" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12354 18432"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12333 18858|11083 20791[10890 21090 10582 20912|9180 20100"/>
+<Edge strokeStyle="2" edges="!9180 20100[8880 20135 8769 20046[8657 19958 8607 19700"/>
+<Edge strokeStyle="2" edges="!8788 20125|8688 19873"/>
+<Edge strokeStyle="1" edges="!12333 18858|14501 21095[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="29" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|11929 18427"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!11939 18852|10784 20318[10530 20640 10128 20560|8280 20190"/>
+<Edge strokeStyle="2" edges="!8280 20190[7991 20276 7866 20208[7740 20141 7647 19896"/>
+<Edge strokeStyle="2" edges="!7898 20283|7756 20052"/>
+<Edge strokeStyle="1" edges="!11939 18852|14488 21109[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="30" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12354 18432"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12333 18858|11343 20817[11160 21180 10787 21018|9090 20280"/>
+<Edge fillStyle1="1" edges="!9099 20716[9024 20723 8966 20662[8908 20601 8900 20508[8891 20415 8938 20345[8985 20274 9059 20268[9134 20261 9192 20322[9250 20383 9258 20476[9266 20569 9220 20639[9173 20710 9099 20716"/>
+<Edge strokeStyle="2" edges="!9046 20579|9189 20844"/>
+<Edge strokeStyle="1" edges="!12333 18858|14501 21095[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="31" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12883 18481"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9433 25297|9279 29526[9270 29775 9027 29832|7920 30090"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8322 25222|8028 29052[8010 29280 7783 29312|6750 29460"/>
+<Edge strokeStyle="1" edges="!12825 18903|11566 20985[11340 21360 10903 21344|8910 21270"/>
+<Edge strokeStyle="1" edges="!12825 18903|13895 18113[14130 17940 14421 17917|16380 17760"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="32" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12354 18432"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12333 18858|11189 20669[10980 21000 10818 20644|10080 19020"/>
+<Edge fillStyle1="1" edges="!9883 18675[9970 18643 10056 18685[10141 18727 10174 18818[10207 18909 10169 18996[10130 19083 10043 19115[9955 19147 9870 19105[9784 19063 9751 18972[9718 18881 9757 18794[9795 18707 9883 18675"/>
+<Edge strokeStyle="2" edges="!10088 18778[10295 18559 10576 18409"/>
+<Edge strokeStyle="1" edges="!12333 18858|14501 21095[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="33" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12354 18432"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12333 18858|11136 20560[10890 20910 10679 20537|9720 18840"/>
+<Edge fillStyle1="1" edges="!9518 18489[9589 18448 9672 18476[9755 18504 9801 18585[9848 18666 9831 18752[9814 18838 9742 18879[9671 18920 9588 18892[9505 18864 9459 18783[9412 18702 9429 18616[9446 18530 9518 18489"/>
+<Edge strokeStyle="2" edges="!9585 18606|9616 18248"/>
+<Edge strokeStyle="2" edges="!9585 18606|9474 18264"/>
+<Edge strokeStyle="2" edges="!9585 18606|9354 18330"/>
+<Edge strokeStyle="2" edges="!9585 18606|9267 18437"/>
+<Edge strokeStyle="1" edges="!12333 18858|14501 21095[14670 21270 14427 21262|13320 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="34" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|11717 18435"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!11741 18860|10896 20246[10710 20550 10482 20276|9360 18930"/>
+<Edge fillStyle1="1" edges="!9128 18598[9195 18551 9280 18572[9365 18593 9419 18669[9472 18745 9463 18833[9453 18920 9386 18967[9319 19014 9233 18993[9148 18972 9095 18896[9041 18820 9051 18733[9061 18645 9128 18598"/>
+<Edge strokeStyle="2" edges="!9205 18709|9205 18349"/>
+<Edge strokeStyle="2" edges="!9205 18709|9064 18377"/>
+<Edge strokeStyle="2" edges="!9205 18709|8951 18454"/>
+<Edge strokeStyle="2" edges="!9205 18709|8874 18568"/>
+<Edge strokeStyle="1" edges="!11741 18860|13016 20384[13230 20640 13068 20348|12330 19020"/>
+<Edge fillStyle1="1" edges="!12191 18639[12269 18611 12346 18653[12423 18696 12454 18783[12486 18871 12454 18952[12422 19034 12345 19062[12268 19090 12191 19048[12114 19006 12082 18919[12051 18831 12082 18749[12114 18667 12191 18639"/>
+<Edge strokeStyle="2" edges="!12238 18766|12331 18419"/>
+<Edge strokeStyle="2" edges="!12238 18766|12188 18410"/>
+<Edge strokeStyle="2" edges="!12238 18766|12058 18455"/>
+<Edge strokeStyle="2" edges="!12238 18766|11954 18545"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="35" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!12060 24510|12142 18426"/>
+<Edge strokeStyle="1" edges="!12060 24555|9920 24776[9450 24825 9390 25293|8852 29483[8820 29730 8577 29787|7470 30045"/>
+<Edge strokeStyle="1" edges="!11835 24465|8994 24576[8370 24600 8273 25217|7685 28965[7650 29190 7423 29214|6390 29325"/>
+<Edge strokeStyle="1" edges="!12136 18852|11209 21345[11070 21720 10924 22093|10260 23790"/>
+<Edge strokeStyle="1" edges="!12136 18852|12993 21376[13140 21810 12832 22150|11430 23700"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="23.04" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!37224 32376|37695 22652"/>
+<Edge strokeStyle="1" edges="!37224 32448|33800 32802[33048 32880 32952 33630|32091 40332[32040 40728 31651 40819|29880 41232"/>
+<Edge strokeStyle="1" edges="!36864 32304|32318 32481[31320 32520 31165 33507|30225 39503[30168 39864 29805 39903|28152 40080"/>
+<Edge strokeStyle="1" edges="!37662 23332|36330 26685[36072 27336 35372 27310|32184 27192"/>
+<Edge strokeStyle="1" edges="!37662 23332|41129 26913[41400 27192 41011 27179|39240 27120"/>
+</edges></DOMShape></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="CAP_mouth" color="#FF4040"><frames><DOMFrame index="0" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="1" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="12" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="533.36" ty="856.68"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="2" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="30" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="613.65" ty="854.90"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="3" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="21" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="649.48" ty="862.58"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="4" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="0.984808" b="-0.173648" c="0.173648" d="0.984808" tx="547.91" ty="844.62"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="5" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="12" loop="single frame"><matrix><Matrix a="0.992546" b="0.121869" c="-0.121869" d="0.992546" tx="558.54" ty="865.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="6" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="21" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="7" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="591.74" ty="853.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="8" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="620.94" ty="855.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="9" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="12" loop="single frame"><matrix><Matrix a="0.997564" b="-0.069756" c="0.069756" d="0.997564" tx="551.05" ty="850.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="10" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="30" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="11" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="21" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="591.74" ty="853.86"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="12" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="13" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="12" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="526.10" ty="857.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="14" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="21" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="15" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.50" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="16" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="606.36" ty="854.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="17" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="12" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="577.12" ty="853.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="-227.25" ty="854.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="MOUTH/Mouth_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.600000" b="0.000000" c="-0.000000" d="1.600000" tx="532.80" ty="1024.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="CAP_brows" color="#FF40FF"><frames><DOMFrame index="0" keyMode="9728"><elements></elements></DOMFrame>
+<DOMFrame index="1" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="499.61" ty="755.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="-0.000000" c="-0.000000" d="1.000000" tx="560.36" ty="755.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="2" duration="2" keyMode="9728"><elements></elements></DOMFrame>
+<DOMFrame index="4" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="0.984808" b="-0.173648" c="0.173648" d="0.984808" tx="497.09" ty="750.77"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-0.984808" b="0.173648" c="0.173648" d="0.984808" tx="556.92" ty="740.22"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="5" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="0.992546" b="0.121869" c="-0.121869" d="0.992546" tx="537.38" ty="761.19"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.992546" b="-0.121869" c="-0.121869" d="0.992546" tx="597.68" ty="768.60"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="6" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="528.75" ty="753.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-1.000000" b="-0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="753.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="7" duration="2" keyMode="9728"><elements></elements></DOMFrame>
+<DOMFrame index="9" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="0.997564" b="-0.069756" c="0.069756" d="0.997564" tx="510.32" ty="752.21"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-0.997564" b="0.069756" c="0.069756" d="0.997564" tx="570.93" ty="747.97"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="10" duration="2" keyMode="9728"><elements></elements></DOMFrame>
+<DOMFrame index="12" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="528.75" ty="753.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-1.000000" b="-0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="753.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="13" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="492.35" ty="756.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="-0.000000" c="-0.000000" d="1.000000" tx="553.10" ty="756.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="14" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="528.75" ty="753.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="-1.000000" b="-0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="753.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="15" duration="2" keyMode="9728"><elements></elements></DOMFrame>
+<DOMFrame index="17" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="543.37" ty="752.55"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Brows" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="-0.000000" c="-0.000000" d="1.000000" tx="604.12" ty="752.55"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="19" keyMode="9728"><elements></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="CAP_eyes" color="#40FFFF"><frames><DOMFrame index="0" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="533.25" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="1" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="504.11" ty="780.18"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="560.36" ty="780.18"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="2" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="584.40" ty="778.40"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="640.65" ty="778.40"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="3" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="620.23" ty="786.08"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="676.48" ty="786.08"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="4" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="0.984808" b="-0.173648" c="0.173648" d="0.984808" tx="505.82" ty="774.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="0.984808" b="-0.173648" c="0.173648" d="0.984808" tx="561.21" ty="764.59"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="5" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="0.992546" b="0.121869" c="-0.121869" d="0.992546" tx="538.83" ty="786.31"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="0.992546" b="0.121869" c="-0.121869" d="0.992546" tx="594.66" ty="793.16"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="6" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="533.25" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="7" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.49" ty="777.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="618.74" ty="777.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="8" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="591.69" ty="779.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="647.94" ty="779.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="9" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="0.997564" b="-0.069756" c="0.069756" d="0.997564" tx="516.54" ty="776.59"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="0.997564" b="-0.069756" c="0.069756" d="0.997564" tx="572.65" ty="772.66"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="10" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="533.25" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="11" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="562.49" ty="777.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="618.74" ty="777.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="12" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="533.25" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="1" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="13" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="496.85" ty="781.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="2" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="553.10" ty="781.11"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="14" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="533.25" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="5" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="15" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="533.25" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="3" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="589.50" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="16" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="577.11" ty="777.93"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="633.36" ty="777.93"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="17" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="547.87" ty="777.30"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="604.12" ty="777.30"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="-256.50" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="-200.25" ty="777.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.600000" b="0.000000" c="-0.000000" d="1.600000" tx="486.00" ty="902.40"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance>
+<DOMSymbolInstance libraryItemName="FACE/Eyes_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.600000" b="0.000000" c="-0.000000" d="1.600000" tx="576.00" ty="902.40"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="CAP_head" color="#FFFF40"><frames><DOMFrame index="0" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="501.75" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="1" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="472.61" ty="809.43"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="2" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="552.90" ty="807.65"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="3" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="588.73" ty="815.33"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="4" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="0.984808" b="-0.173648" c="0.173648" d="0.984808" tx="479.88" ty="808.63"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="5" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="0.992546" b="0.121869" c="-0.121869" d="0.992546" tx="504.00" ty="811.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="6" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="501.75" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="7" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="530.99" ty="806.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="8" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="560.19" ty="808.25"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="9" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="0.997564" b="-0.069756" c="0.069756" d="0.997564" tx="487.16" ty="807.96"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="10" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="501.75" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="11" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="530.99" ty="806.61"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="12" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="501.75" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="13" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="465.35" ty="810.36"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="14" duration="2" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="501.75" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="16" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="545.61" ty="807.18"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="17" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="516.37" ty="806.55"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="-0.000000" d="1.000000" tx="-288.00" ty="807.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="HEAD/Head_Cap" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.600000" b="0.000000" c="-0.000000" d="1.600000" tx="435.60" ty="949.20"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="CAP_body" color="#40FF40"><frames><DOMFrame index="0" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10146 18432"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10167 18858|10998 20953[11160 21360 11597 21344|13590 21270"/>
+<Edge strokeStyle="1" edges="!10167 18858|7999 21095[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="1" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|9723 18468"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13067 25297|13221 29526[13230 29775 13473 29832|14580 30090"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14178 25222|14472 29052[14490 29280 14717 29312|15750 29460"/>
+<Edge strokeStyle="1" edges="!9773 18891|10946 20978[11160 21360 11597 21344|13590 21270"/>
+<Edge strokeStyle="1" edges="!9773 18891|7984 21082[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="2" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10889 18442"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10857 18867|11107 20925[11160 21360 11597 21344|13590 21270"/>
+<Edge strokeStyle="1" edges="!10857 18867|8020 21119[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="3" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|11406 18572"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!11338 18987|11192 20933[11160 21360 11588 21344|13590 21270"/>
+<Edge strokeStyle="1" edges="!11338 18987|8034 21137[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="4" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|9828 18456"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!9871 18880|10958 20972[11160 21360 11597 21344|13590 21270"/>
+<Edge strokeStyle="1" edges="!9871 18880|7988 21085[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="5" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10180 18523"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10198 18942|10998 20953[11160 21360 11597 21344|13590 21270"/>
+<Edge strokeStyle="1" edges="!10198 18942|8003 21100[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="6" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10146 18432"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10167 18858|11221 20720[11430 21090 11560 20685|12150 18840"/>
+<Edge fillStyle1="1" edges="!12335 18489[12424 18517 12465 18603[12507 18688 12477 18781[12447 18873 12363 18918[12279 18962 12191 18934[12102 18905 12060 18819[12019 18734 12049 18642[12079 18549 12163 18505[12247 18460 12335 18489"/>
+<Edge strokeStyle="2" edges="!12134 18598[11919 18386 11633 18246"/>
+<Edge strokeStyle="1" edges="!10167 18858|7999 21095[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="7" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10571 18427"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10561 18852|11938 19654[12240 19830 12586 19777|14580 19470"/>
+<Edge fillStyle1="1" edges="!15057 19488[15066 19573 14994 19642[14921 19710 14810 19722[14699 19734 14614 19681[14529 19629 14520 19544[14511 19459 14583 19390[14656 19322 14767 19310[14878 19298 14963 19350[15048 19402 15057 19488"/>
+<Edge strokeStyle="2" edges="!14841 19375|15329 19278"/>
+<Edge strokeStyle="2" edges="!14787 19290|14907 19141"/>
+<Edge strokeStyle="1" edges="!10561 18852|8012 21109[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="8" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10995 18451"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10956 18875|12452 19400[12780 19515 13126 19479|15390 19245"/>
+<Edge fillStyle1="1" edges="!15866 19279[15872 19365 15797 19431[15723 19497 15611 19505[15500 19513 15416 19458[15333 19403 15327 19317[15321 19232 15396 19166[15471 19100 15582 19092[15694 19084 15777 19139[15860 19194 15866 19279"/>
+<Edge strokeStyle="2" edges="!15655 19159|16145 19079"/>
+<Edge strokeStyle="2" edges="!15603 19072|15729 18928"/>
+<Edge strokeStyle="1" edges="!10956 18875|8023 21122[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="9" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|9934 18446"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!9969 18871|11569 20583[11790 20820 11984 20561|12870 19380"/>
+<Edge strokeStyle="2" edges="!12870 19380[13172 19388 13275 19290[13378 19193 13406 18932"/>
+<Edge strokeStyle="2" edges="!13263 19371|13340 19111"/>
+<Edge strokeStyle="1" edges="!9969 18871|8808 20574[8640 20820 8494 20561|7830 19380"/>
+<Edge strokeStyle="2" edges="!7830 19380[7528 19388 7425 19290[7322 19193 7294 18932"/>
+<Edge strokeStyle="2" edges="!7437 19371|7360 19111"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="10" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10146 18432"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10167 18858|11417 20791[11610 21090 11918 20912|13320 20100"/>
+<Edge strokeStyle="2" edges="!13320 20100[13620 20135 13731 20046[13843 19958 13893 19700"/>
+<Edge strokeStyle="2" edges="!13712 20125|13812 19873"/>
+<Edge strokeStyle="1" edges="!10167 18858|7999 21095[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="11" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10571 18427"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10561 18852|11716 20318[11970 20640 12372 20560|14220 20190"/>
+<Edge strokeStyle="2" edges="!14220 20190[14509 20276 14634 20208[14760 20141 14853 19896"/>
+<Edge strokeStyle="2" edges="!14602 20283|14744 20052"/>
+<Edge strokeStyle="1" edges="!10561 18852|8012 21109[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="12" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10146 18432"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10167 18858|11157 20817[11340 21180 11713 21018|13410 20280"/>
+<Edge fillStyle1="1" edges="!13401 20716[13327 20710 13280 20639[13234 20569 13242 20476[13250 20383 13308 20322[13366 20261 13441 20268[13515 20274 13562 20345[13609 20415 13600 20508[13592 20601 13534 20662[13476 20723 13401 20716"/>
+<Edge strokeStyle="2" edges="!13454 20579|13311 20844"/>
+<Edge strokeStyle="1" edges="!10167 18858|7999 21095[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="13" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|9617 18481"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13067 25297|13221 29526[13230 29775 13473 29832|14580 30090"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14178 25222|14472 29052[14490 29280 14717 29312|15750 29460"/>
+<Edge strokeStyle="1" edges="!9675 18903|10934 20985[11160 21360 11597 21344|13590 21270"/>
+<Edge strokeStyle="1" edges="!9675 18903|8605 18113[8370 17940 8079 17917|6120 17760"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="14" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10146 18432"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10167 18858|11311 20669[11520 21000 11682 20644|12420 19020"/>
+<Edge fillStyle1="1" edges="!12617 18675[12705 18707 12743 18794[12782 18881 12749 18972[12716 19063 12630 19105[12545 19147 12457 19115[12370 19083 12331 18996[12293 18909 12326 18818[12359 18727 12444 18685[12530 18643 12617 18675"/>
+<Edge strokeStyle="2" edges="!12412 18778[12205 18559 11924 18409"/>
+<Edge strokeStyle="1" edges="!10167 18858|7999 21095[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="15" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10146 18432"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10167 18858|11364 20560[11610 20910 11821 20537|12780 18840"/>
+<Edge fillStyle1="1" edges="!12982 18489[13054 18530 13071 18616[13088 18702 13041 18783[12995 18864 12912 18892[12829 18920 12758 18879[12686 18838 12669 18752[12652 18666 12699 18585[12745 18504 12828 18476[12911 18448 12982 18489"/>
+<Edge strokeStyle="2" edges="!12915 18606|12884 18248"/>
+<Edge strokeStyle="2" edges="!12915 18606|13026 18264"/>
+<Edge strokeStyle="2" edges="!12915 18606|13146 18330"/>
+<Edge strokeStyle="2" edges="!12915 18606|13233 18437"/>
+<Edge strokeStyle="1" edges="!10167 18858|7999 21095[7830 21270 8073 21262|9180 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="16" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#000000"/></FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="10.37" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10783 18435"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10759 18860|11604 20246[11790 20550 12018 20276|13140 18930"/>
+<Edge fillStyle1="1" edges="!13372 18598[13439 18645 13449 18733[13459 18820 13405 18896[13352 18972 13267 18993[13181 19014 13114 18967[13047 18920 13037 18833[13028 18745 13081 18669[13135 18593 13220 18572[13305 18551 13372 18598"/>
+<Edge strokeStyle="2" edges="!13295 18709|13295 18349"/>
+<Edge strokeStyle="2" edges="!13295 18709|13436 18377"/>
+<Edge strokeStyle="2" edges="!13295 18709|13549 18454"/>
+<Edge strokeStyle="2" edges="!13295 18709|13626 18568"/>
+<Edge strokeStyle="1" edges="!10759 18860|9484 20384[9270 20640 9432 20348|10170 19020"/>
+<Edge fillStyle1="1" edges="!10309 18639[10386 18667 10418 18749[10449 18831 10418 18919[10386 19006 10309 19048[10232 19090 10155 19062[10078 19034 10046 18952[10014 18871 10046 18783[10077 18696 10154 18653[10231 18611 10309 18639"/>
+<Edge strokeStyle="2" edges="!10262 18766|10169 18419"/>
+<Edge strokeStyle="2" edges="!10262 18766|10312 18410"/>
+<Edge strokeStyle="2" edges="!10262 18766|10442 18455"/>
+<Edge strokeStyle="2" edges="!10262 18766|10546 18545"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="17" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!10440 24510|10358 18426"/>
+<Edge strokeStyle="1" edges="!10440 24555|12580 24776[13050 24825 13110 25293|13648 29483[13680 29730 13923 29787|15030 30045"/>
+<Edge strokeStyle="1" edges="!10665 24465|13506 24576[14130 24600 14227 25217|14815 28965[14850 29190 15077 29214|16110 29325"/>
+<Edge strokeStyle="1" edges="!10364 18852|11291 21345[11430 21720 11576 22093|12240 23790"/>
+<Edge strokeStyle="1" edges="!10364 18852|9507 21376[9360 21810 9668 22150|11070 23700"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="14.40" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!-5355 24510|-5649 18432"/>
+<Edge strokeStyle="1" edges="!-5355 24555|-3215 24776[-2745 24825 -2685 25293|-2147 29483[-2115 29730 -1872 29787|-765 30045"/>
+<Edge strokeStyle="1" edges="!-5130 24465|-2289 24576[-1665 24600 -1568 25217|-980 28965[-945 29190 -718 29214|315 29325"/>
+<Edge strokeStyle="1" edges="!-5628 18858|-4797 20953[-4635 21360 -4198 21344|-2205 21270"/>
+<Edge strokeStyle="1" edges="!-5628 18858|-7796 21095[-7965 21270 -7722 21262|-6615 21225"/>
+</edges></DOMShape></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="23.04" joints="round"><fill><SolidColor color="#000000"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!9360 32376|8889 22652"/>
+<Edge strokeStyle="1" edges="!9360 32448|12784 32802[13536 32880 13632 33630|14493 40332[14544 40728 14933 40819|16704 41232"/>
+<Edge strokeStyle="1" edges="!9720 32304|14266 32481[15264 32520 15419 33507|16359 39503[16416 39864 16779 39903|18432 40080"/>
+<Edge strokeStyle="1" edges="!8922 23332|10254 26685[10512 27336 11212 27310|14400 27192"/>
+<Edge strokeStyle="1" edges="!8922 23332|5455 26913[5184 27192 5573 27179|7344 27120"/>
+</edges></DOMShape></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="SET_Chair_GL" color="#9933CC"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Armchair" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="1392.75" ty="1225.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Armchair" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.000000" b="0.000000" c="0.000000" d="1.000000" tx="603.00" ty="1225.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Armchair" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="-1.600000" b="0.000000" c="0.000000" d="1.600000" tx="1861.20" ty="1618.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="SET_Chair_CAP" color="#9933CC"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Armchair" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="522.00" ty="1225.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Armchair" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="-267.75" ty="1225.50"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Armchair" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.600000" b="0.000000" c="0.000000" d="1.600000" tx="468.00" ty="1618.80"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="SET_Nightstand" color="#996633"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Nightstand" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="792.00" ty="3.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Nightstand" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="2.25" ty="3.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Nightstand" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.600000" b="0.000000" c="0.000000" d="1.600000" tx="900.00" ty="-336.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer>
+<DOMLayer name="SET_Room" color="#808080"><frames><DOMFrame index="0" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Room" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="792.00" ty="3.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="18" duration="18" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Room" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.000000" b="0.000000" c="0.000000" d="1.000000" tx="2.25" ty="3.75"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame>
+<DOMFrame index="36" keyMode="9728"><elements><DOMSymbolInstance libraryItemName="SET/Room" symbolType="graphic" firstFrame="0" loop="single frame"><matrix><Matrix a="1.600000" b="0.000000" c="0.000000" d="1.600000" tx="900.00" ty="-336.00"/></matrix><transformationPoint><Point/></transformationPoint></DOMSymbolInstance></elements></DOMFrame></frames></DOMLayer></layers></DOMTimeline></timelines></DOMDocument>

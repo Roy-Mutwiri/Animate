@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "Goal/GPU-Link-Setup (1).exe",
+      "size": 119630817,
+      "parts": [
+        {
+          "path": "parts/d5b7ef9fa393d027/000.chunk",
+          "size": 47185920,
+          "sha256": "6e53e1fd63cbeb4ee9ec9b5e101e9a06da8fc3e07d80cd9592c519f640420178"
+        },
+        {
+          "path": "parts/d5b7ef9fa393d027/001.chunk",
+          "size": 47185920,
+          "sha256": "cc4238bb203b54dbb645a17f8d2638cd09420ef1a2edc25434dc3949cbc84adc"
+        },
+        {
+          "path": "parts/d5b7ef9fa393d027/002.chunk",
+          "size": 25258977,
+          "sha256": "185fc0c2a49549dd14f7b494d8419f93acb15324882bf88eedb1c7dd1540b0fd"
+        }
+      ],
+      "sha256": "82c35d193614ee1f776d23cf689842d9c204cd5d913e00964a17cbe5d448cacf"
+    },
+    {
+      "path": "Goal/GPU-Link-Setup.exe",
+      "size": 119510172,
+      "parts": [
+        {
+          "path": "parts/39b209ac5b867666/000.chunk",
+          "size": 47185920,
+          "sha256": "463cf6507eb7e97a4e15022a1f3e565e0e365b11e25fe9679a36df512f4bb38a"
+        },
+        {
+          "path": "parts/39b209ac5b867666/001.chunk",
+          "size": 47185920,
+          "sha256": "ccef4ddd42ad940e09a9e7bee87169a7994335371719b071578dafcb1f09285a"
+        },
+        {
+          "path": "parts/39b209ac5b867666/002.chunk",
+          "size": 25138332,
+          "sha256": "8be9f3749c49952dec54470a60489ec7e57c1cae9c9c185aa1695eb95072cf3a"
+        }
+      ],
+      "sha256": "b8d2d868a89e2e5eb138d287034c722f65305d42a3759157ab19ef29f90df516"
+    },
+    {
+      "path": "Goal/TikTokStreamClipper-v1.0.2-win64.zip",
+      "size": 72246533,
+      "parts": [
+        {
+          "path": "parts/e886c2d7c97e18ad/000.chunk",
+          "size": 47185920,
+          "sha256": "05eb8da02593ea337e937965388c830dff6313de886d0f729c40885c6d57c058"
+        },
+        {
+          "path": "parts/e886c2d7c97e18ad/001.chunk",
+          "size": 25060613,
+          "sha256": "a3a98c4af01e39556eeed91340215330271f64a966572f34fa6941484c2f3e5e"
+        }
+      ],
+      "sha256": "45656a55cd0a57b7b5e3e192db63b2ae0af2b6d3f88c3a50c054426f69181c79"
+    },
+    {
+      "path": "Goal/TikTokStreamClipper-v1.0.2-win64/TikTokStreamClipper/TikTokStreamClipper.exe",
+      "size": 72411676,
+      "parts": [
+        {
+          "path": "parts/91978a180770c2c4/000.chunk",
+          "size": 47185920,
+          "sha256": "48e2f9db2a201de8cea0d4d82ea7f3187842b5d583199d05e55ea3fc8106f2cb"
+        },
+        {
+          "path": "parts/91978a180770c2c4/001.chunk",
+          "size": 25225756,
+          "sha256": "272808ccb125f0439d4f5d37fd1a0dcc0b6aa866ae2555e075dc03d718491912"
+        }
+      ],
+      "sha256": "962be869b45524bd8041f23ef31828a15e566e1451e8908261ba8f10e5232454"
+    },
+    {
+      "path": "Projects/HonestInterview/tools/Rhubarb-Lip-Sync-1.14.0-Windows.zip",
+      "size": 87374842,
+      "parts": [
+        {
+          "path": "parts/464e2185217e19d0/000.chunk",
+          "size": 47185920,
+          "sha256": "b6d75578fb7aa7cc30e8216750c527e5c381778d52b89207e1d2ced1f52c13f1"
+        },
+        {
+          "path": "parts/464e2185217e19d0/001.chunk",
+          "size": 40188922,
+          "sha256": "05b09722f06e586285188c1b9df45acd3feef594d3847eca3a34b1d90e04676e"
+        }
+      ],
+      "sha256": "62fa416a8d5e382a3828ee4bef358ce520d0b4cabdeaea75a7ac266d098d1fe3"
+    }
+  ]
+}

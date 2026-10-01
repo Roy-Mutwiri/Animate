@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .line { fill:none; stroke:#211915; stroke-width:10; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#211915; stroke-width:7; stroke-linecap:round; stroke-linejoin:round; }
+      .softline { fill:none; stroke:#6f6f67; stroke-width:4; stroke-linecap:round; stroke-linejoin:round; opacity:.55; }
+      .skinI { fill:#d9ded6; stroke:#211915; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .skinR { fill:#efb77f; stroke:#211915; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .shirt { fill:#f7eddf; stroke:#211915; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .chair { fill:#8f7a78; stroke:#211915; stroke-width:7; stroke-linejoin:round; }
+      .chairDark { fill:#655452; stroke:#211915; stroke-width:7; stroke-linejoin:round; }
+      .dark { fill:#211915; }
+      .eye { fill:#fbfff8; stroke:#211915; stroke-width:7; }
+      .mouth { fill:#120c14; stroke:#211915; stroke-width:6; stroke-linejoin:round; }
+    </style>
+  </defs>
+  
+      <rect width="1080" height="1920" fill="#d7d4ce"/>
+      
+      <path d="M0 1340 C300 1310 735 1310 1080 1340" fill="#858b86"/>
+      
+    
+
+      <g transform="translate(130 1010)">
+        <path d="M70 182 C40 39 93 -82 222 -96 C367 -114 449 -20 438 146 L418 368 L84 368 Z" class="chair"/>
+        <path d="M62 298 L438 298 L396 443 L104 443 Z" class="chairDark"/>
+      </g>
+      <path d="M285 1015 C220 1140 205 1324 278 1488 C360 1575 551 1582 651 1490 C637 1326 594 1142 520 1017 C452 970 344 972 285 1015 Z" class="shirt"/>
+      <path d="M286 1080 C225 1180 195 1286 211 1400" class="line"/>
+      <path d="M526 1075 C628 1138 707 1216 760 1310" class="line"/>
+    
+
+      <g transform="translate(420 665) scale(1.55)">
+        <path d="M-120 -165 C-60 -210 58 -205 108 -136 C158 -65 144 70 92 136 C42 199 -69 186 -112 122 C-155 58 -154 -95 -120 -165 Z" class="skinI"/>
+        <path d="M-132 -170 C-68 -216 54 -219 126 -155 C142 -142 150 -127 143 -122 C65 -130 -13 -120 -144 -94 C-150 -123 -148 -148 -132 -170 Z" fill="#090908" stroke="#211915" stroke-width="8" stroke-linejoin="round"/>
+        <circle cx="91" cy="-159" r="9" fill="#eee05a"/>
+        
+          <ellipse class="eye" cx="-38" cy="-20" rx="34" ry="43"/>
+          <ellipse class="eye" cx="42" cy="-12" rx="32" ry="38"/>
+          <ellipse class="dark" cx="-17" cy="-14" rx="8" ry="14"/>
+          <ellipse class="dark" cx="63" cy="-7" rx="8" ry="13"/>
+          <path d="M-92 -86 C-58 -118 -20 -112 6 -88" class="thin"/>
+          <path d="M24 -65 C62 -83 92 -75 112 -43" class="thin"/>
+          <path d="M-76 76 C-28 59 30 63 75 79" class="thin"/>
+          <path d="M-61 80 C-20 89 25 90 60 82" class="thin"/>
+        
+        <path d="M-38 149 L-35 196 L35 193 L32 145" class="skinI"/>
+      </g>
+    
+<path d="M760 1310 C799 1340 835 1370 866 1404" class="line"/>
+
+      <g transform="translate(835 1397) rotate(25) scale(0.86)">
+        <rect x="-12" y="-12" width="132" height="25" rx="12" fill="#2b2d3b" stroke="#211915" stroke-width="7"/>
+        <rect x="96" y="-38" width="74" height="74" rx="16" fill="#45485e" stroke="#211915" stroke-width="7"/>
+        <rect x="112" y="-22" width="40" height="42" rx="8" fill="#565a72" opacity=".85"/>
+      </g>
+    
+
+      <g transform="translate(861 1414) rotate(14) scale(1.0)">
+        <path d="M-31 -20 C-12 -48 37 -43 53 -12 C68 19 42 52 4 50 C-36 49 -52 10 -31 -20 Z" fill="#d9ded6" stroke="#211915" stroke-width="7" stroke-linejoin="round"/>
+        
+      <path d="M-28 -11 C-54 -17 -54 -39 -27 -36" class="thin"/>
+      <path d="M-20 -26 C-46 -43 -35 -62 -10 -41" class="thin"/>
+      <path d="M4 -34 C-12 -62 8 -71 19 -41" class="thin"/>
+      <path d="M26 -23 C36 -52 55 -43 45 -15" class="thin"/>
+    
+        <path d="M-32 8 C-61 20 -62 46 -28 38" class="thin"/>
+      </g>
+    
+<path d="M270 520 C236 547 223 588 232 629" class="softline"/>
+</svg>

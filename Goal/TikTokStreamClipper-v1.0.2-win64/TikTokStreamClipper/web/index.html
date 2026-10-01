@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TikTok Stream Clipper</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="mark">TP</div>
+          <div>
+            <h1>TikTok Poster</h1>
+            <p>Stream clips, captions, queue</p>
+          </div>
+        </div>
+        <nav>
+          <button class="nav-item active" data-view="generate">Generate</button>
+          <button class="nav-item" data-view="review">Review</button>
+          <button class="nav-item" data-view="upload">Upload</button>
+        </nav>
+      </aside>
+
+      <section class="content">
+        <header class="topbar">
+          <div>
+            <h2 id="viewTitle">Generate Clips</h2>
+            <p id="viewSub">Create vertical 30-50 second clips from a YouTube stream.</p>
+          </div>
+          <div class="top-actions">
+            <button id="stopAllBtn" class="danger-btn" title="Stop all running jobs">Stop all</button>
+            <button id="refreshBtn" class="icon-btn" title="Refresh">R</button>
+          </div>
+        </header>
+        <section id="accountLimitBar" class="limit-bar" aria-live="polite"></section>
+
+        <section class="jobs">
+          <div class="section-head">
+            <h3>Current Jobs</h3>
+            <span id="jobCount">0</span>
+          </div>
+          <div id="jobsList" class="job-list"></div>
+        </section>
+
+        <section id="generate" class="view active">
+          <div class="panel">
+            <form id="generateForm" class="form-grid">
+              <label class="wide">
+                <span>YouTube link</span>
+                <input name="youtube" type="url" placeholder="https://www.youtube.com/watch?v=..." required>
+              </label>
+              <label>
+                <span>Clips</span>
+                <input name="count" type="number" min="1" max="500" value="100">
+              </label>
+              <label>
+                <span>Min seconds</span>
+                <input name="minSeconds" type="number" min="5" max="120" value="30">
+              </label>
+              <label>
+                <span>Max seconds</span>
+                <input name="maxSeconds" type="number" min="5" max="180" value="50">
+              </label>
+              <label>
+                <span>Hashtags</span>
+                <input name="maxHashtags" type="number" min="1" max="4" value="4">
+              </label>
+              <label>
+                <span>Layout</span>
+                <select name="renderMode">
+                  <option value="chart_face" selected>Face + charts</option>
+                  <option value="face_only">Face only</option>
+                </select>
+              </label>
+              <label>
+                <span>Seed</span>
+                <input name="seed" type="number" value="42">
+              </label>
+              <label class="check wide">
+                <input name="forceRegenerate" type="checkbox">
+                <span>Regenerate even if this link already has a manifest</span>
+              </label>
+              <button class="primary wide" type="submit">Generate batch</button>
+            </form>
+            <div id="analysisBox" class="analysis">
+              <strong>Paste a YouTube link to analyze duration and estimate clip count.</strong>
+              <span></span>
+            </div>
+          </div>
+        </section>
+
+        <section id="review" class="view">
+          <div class="toolbar">
+            <select id="manifestSelect"></select>
+            <button id="loadManifestBtn">Load manifest</button>
+          </div>
+          <div class="stats" id="manifestStats"></div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Status</th>
+                  <th>Duration</th>
+                  <th>Caption</th>
+                  <th>Clip</th>
+                </tr>
+              </thead>
+              <tbody id="manifestRows"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section id="upload" class="view">
+          <div class="panel login-panel">
+            <div>
+              <h3>TikTok Accounts</h3>
+              <p>Add every TikTok account once, save its login session, then switch the active account before posting.</p>
+            </div>
+            <div class="account-manager">
+              <label>
+                <span>Active account</span>
+                <select id="activeAccountSelect" name="account"></select>
+              </label>
+              <button id="openAccountBtn" type="button">Open TikTok</button>
+              <button id="detectAccountBtn" class="secondary-btn" type="button">Detect username</button>
+              <button id="forgetAccountBtn" class="ghost-btn" type="button">Forget label</button>
+              <form id="addAccountForm" class="add-account-form" novalidate>
+                <label>
+                  <span>New account label</span>
+                  <input name="account" placeholder="second_account">
+                </label>
+                <button id="addAccountBtn" type="button">Add account</button>
+              </form>
+            </div>
+            <div id="accountStatus" class="account-status">Checking account status...</div>
+          </div>
+          <div class="panel">
+            <form id="uploadForm" class="form-grid">
+              <label class="wide">
+                <span>Manifest</span>
+                <select name="manifest" id="uploadManifestSelect" required></select>
+              </label>
+              <div id="uploadQueueSummary" class="mode-note wide">Loading queue summary...</div>
+              <div id="uploadBudgetSummary" class="mode-note wide">Loading TikTok posting budget...</div>
+              <label>
+                <span>Account</span>
+                <select name="account" id="uploadAccountSelect" required></select>
+              </label>
+              <input name="starterCount" type="hidden" value="0">
+              <label>
+                <span>Min delay (seconds)</span>
+                <input name="delayMinSeconds" type="number" min="0" value="60">
+              </label>
+              <label>
+                <span>Max delay (seconds)</span>
+                <input name="delayMaxSeconds" type="number" min="0" value="900">
+              </label>
+              <div class="mode-note wide">Each post waits a random time within this range. Default is 60-900 seconds (1-15 minutes). There is no limit on how many posts a run makes.</div>
+              <label class="check">
+                <input name="dryRun" type="checkbox" checked>
+                <span>Preview only</span>
+              </label>
+              <div id="uploadModeNote" class="mode-note wide">Preview only is on. This will check every ready clip and will not post to TikTok.</div>
+              <button id="uploadSubmitBtn" class="primary wide" type="submit">Preview selected clips</button>
+            </form>
+          </div>
+          <div class="panel">
+            <div class="section-head">
+              <h3>Account Posts</h3>
+              <span id="postCount">0</span>
+            </div>
+            <div id="postsList" class="post-list"></div>
+          </div>
+        </section>
+
+      </section>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>

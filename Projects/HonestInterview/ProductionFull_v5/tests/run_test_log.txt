@@ -1,0 +1,2 @@
+opened xfl_test.xfl frames=24 layers=2 lib=2
+saved fla true

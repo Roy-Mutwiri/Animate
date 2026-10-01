@@ -1,0 +1,5 @@
+opened frames=6 layers=16 lib=15
+sound attached Bro was so honest.mp3 layer 16
+exported 1 frames in 1.296s
+saved fla true
+DONE

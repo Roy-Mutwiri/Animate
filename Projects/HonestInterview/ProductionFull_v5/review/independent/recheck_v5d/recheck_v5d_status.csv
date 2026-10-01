@@ -1,0 +1,15 @@
+id,v5a_defect,v5d_result,evidence(recheck_v5d/)
+1,Black band top f0-f8,FIXED: no alpha<255 in any v5d PNG; MP4 top rows mean 203 for f0-f9,item01_mp4_top_f0_f9.png; item01_f0_half.png
+2,Stop-go push-in,FIXED (stutter gone) with residual minor: velocity is piecewise-constant in ~5-10 frame blocks with abrupt steps (x2.2 at f1641->1642; 1.6%->2.6%/f at f1667 then back to 1.6% at f1672),work/zoom_out.txt; work/zoom2.py output
+3,Open shout mouth at end,FIXED: closed-eye teeth grin 70.12-70.71 then eyes open with grin to 70.88; minor: teeth band is head-grey not white,item03_ending_pairs.png; item03_07_f1696_fullres.png; lips/ev_68.5_70.9.png
+4,Drape arm stub,FIXED: forearm lies along chair-back top f684-f710,item04_f690_fullres.png; body/item04_drape_f678_712.png
+5,Teeth-rect overuse,PARTLY FIXED: 42.42-42.79 pause now closed mouth; more open vowels; residual rect holds 8-9 frames at 11.25-11.62 and 21.08-21.29; 10.12-10.42 7 frames,lips/item05_combined.png; lips/ev_8.8_11.0.png; lips/ev_42.0_43.6.png
+6,Stray stroke left edge,FIXED: no dark pixels at left edge in any single (only iris black f1668+),item06_f528_leftedge.png
+7,Iris banding,FIXED: ~4-5 px fine steps not visible at 1x,item07_iris_edge_v5a_left_v5d_right.png
+8,Five hand blob,FIXED (readable open hand); still smaller than reference,item08_f1433_fullres.png; lips/ev_58.3_60.8.png
+9,Crooked finger,FIXED: straight upright finger,item09_f252_fullres.png; lips/ev_8.8_11.0.png
+10,Lean snap 11.88,RETRACTED - my v5a report was wrong: head x-extent 365-611 -> 394-640 by f284 and held to f292 in both v5a and v5d,body/item10_lean_f280_292.png
+11,First smile reads as talking,FIXED: up-curve f1599 then teeth grin f1600-1601,lips/ev_66.5_68.5.png
+12,Steeple as X,FIXED: tented hands meeting at fingertip,item12_steeple_pairs.png
+13,No tremble,RETRACTED - my v5a report was wrong: 2-position jitter of 9-10 px (x 513<->522) present f1460-f1498 in both v5a and v5d,numeric trace in report
+14,Window notches,FIXED,item14_f300_window.png

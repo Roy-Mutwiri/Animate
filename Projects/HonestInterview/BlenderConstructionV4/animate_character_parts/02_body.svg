@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+<style>
+.line{fill:none;stroke:#181310;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+.thin{fill:none;stroke:#181310;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+.chairBack{fill:#9b8985;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSeat{fill:#c5b0ad;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairDark{fill:#675753;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.chairSide{fill:#766863;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.skin{fill:#d9ddd4;stroke:#181310;stroke-width:7;stroke-linejoin:round}
+.eye{fill:#fbfff8;stroke:#181310;stroke-width:5}
+</style>
+</defs>
+<path class="skin" d="M 451.1 649.0 L 554.0 651.0 L 517.1 925.7 L 463.1 920.7 Z"/>
+<path class="thin" d="M 500.7 651.0 L 489.1 903.7"/>
+<path class="line" d="M 392.3 906.8 L 202.1 1066.3"/>
+<path class="line" d="M 202.1 1066.3 L 169.2 1367.9"/>
+<path class="line" d="M 169.2 1367.9 L 40.5 1390.0"/>
+<path class="line" d="M 576.6 910.5 L 498.6 1072.3"/>
+<path class="line" d="M 498.6 1072.3 L 489.8 1374.3"/>
+<path class="line" d="M 489.8 1374.3 L 521.3 1399.7"/>
+</svg>

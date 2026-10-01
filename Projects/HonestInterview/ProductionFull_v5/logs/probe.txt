@@ -1,0 +1,22 @@
+version=WIN 24,0,15,5
+doc 0: Untitled-1 path=undefined frames=1 layers=1
+doc 1: bounce_test.fla path=file:///D|/Animate/Tests/bounce_test.fla frames=72 layers=2
+doc 2: Untitled-3 path=undefined frames=72 layers=2
+doc 3: Untitled-4 path=undefined frames=1 layers=1
+doc 4: bounce_test_corrected.fla path=file:///D|/Animate/Tests/bounce_test_corrected.fla frames=72 layers=3
+doc 5: bounce_test_corrected_1.fla path=file:///D|/Animate/Tests/bounce_test_corrected_1.fla frames=72 layers=3
+doc 6: bounce_test_corrected_2.fla path=file:///D|/Animate/Tests/bounce_test_corrected_2.fla frames=72 layers=3
+doc 7: honest_interview_opening_pilot_recovery.fla path=file:///D|/Animate/Projects/HonestInterview/honest_interview_opening_pilot_recovery.fla frames=192 layers=17
+doc 8: honest_interview_v2_expression_sheet.fla path=file:///D|/Animate/Projects/HonestInterview/honest_interview_v2_expression_sheet.fla frames=1 layers=1
+doc 9: honest_interview_v2_expression_sheet_1.fla path=file:///D|/Animate/Projects/HonestInterview/honest_interview_v2_expression_sheet_1.fla frames=1 layers=19
+doc 10: honest_interview_v2.fla path=file:///D|/Animate/Projects/HonestInterview/honest_interview_v2.fla frames=192 layers=20
+doc 11: Untitled-12 path=undefined frames=1 layers=1
+doc 12: honest_interview_clean_still_from_blender_underlay.fla path=file:///D|/Animate/Projects/HonestInterview/BlenderConstructionV1/animate_still/honest_interview_clean_still_from_blender_underlay.fla frames=1 layers=12
+doc 13: honest_interview_clean_cartoon_from_svg.fla path=file:///D|/Animate/Projects/HonestInterview/BlenderConstructionV2/animate_final_artwork/honest_interview_clean_cartoon_from_svg.fla frames=1 layers=1
+doc 14: head_eyes_editable_import_test.fla path=file:///D|/Animate/Projects/HonestInterview/BlenderConstructionV4/animate_import_test/head_eyes_editable_import_test.fla frames=1 layers=1
+doc 15: honest_interview_v4_acting_test.fla path=file:///D|/Animate/Projects/HonestInterview/BlenderConstructionV4/animate_acting_test/honest_interview_v4_acting_test.fla frames=48 layers=9
+doc 16: honest_interview_full_v1_animate_asset.fla path=file:///D|/Animate/Projects/HonestInterview/ProductionFull_v1/editable/honest_interview_full_v1_animate_asset.fla frames=48 layers=9
+doc 17: honest_interview_full_v2_keyed_timeline.fla path=file:///D|/Animate/Projects/HonestInterview/ProductionFull_v2/editable/honest_interview_full_v2_keyed_timeline.fla frames=1702 layers=1
+doc 18: honest_interview_full_v3_layered_keyed_timeline.fla path=file:///D|/Animate/Projects/HonestInterview/ProductionFull_v3/editable/honest_interview_full_v3_layered_keyed_timeline.fla frames=1702 layers=7
+doc 19: honest_interview_full_v4_keyed_timeline.fla path=file:///D|/Animate/Projects/HonestInterview/ProductionFull_v4/editable/honest_interview_full_v4_keyed_timeline.fla frames=1702 layers=1
+doc 20: honest_interview_full_v4_layered_keyed_timeline.fla path=file:///D|/Animate/Projects/HonestInterview/ProductionFull_v4/editable/honest_interview_full_v4_layered_keyed_timeline.fla frames=1703 layers=7

@@ -1,0 +1,4 @@
+# Preserve original working-file bytes (including scripts and reference media).
+* -text
+
+# Oversized files are archived as ordinary Git parts; no Git LFS is required.

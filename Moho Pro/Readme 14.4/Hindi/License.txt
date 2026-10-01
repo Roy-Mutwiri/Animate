@@ -1,0 +1,174 @@
+Moho Debut 14
+Moho Pro 14
+
+End User License Agreement and Limited Warranty
+PLEASE READ THIS END USER LICENSE AGREEMENT ("EULA") CAREFULLY BEFORE INSTALLING AND USING THE SOFTWARE. BY CLICKING THE "AGREE/ACCEPT" BUTTON WHEN INSTALLING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, CLICK ON THE "DISAGREE/I DO NOT ACCEPT" BUTTON. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, YOU MAY NOT USE OR ACCESS THE SOFTWARE. USING OR ACCESSING ANY PART OF THE SOFTWARE INDICATES THAT YOU AGREE TO THE TERMS OF THIS EULA.
+
+This EULA is between you (both the individual installing the Software and any single legal entity on behalf of which such individual is acting) ("you" or "your") and Lost Marble LLC and/or its affiliates (collectively or individually, "LOST MARBLE").
+
+
+1. General
+
+You agree to use the Software, Documentation and Content only for lawful purposes. You are not permitted to use the Software, Documentation or Content other than as expressly granted in this EULA.  LOST MARBLE maintains an ongoing EULA enforcement program. Violation of any provision of this EULA automatically terminates this EULA. LOST MARBLE reserves all other rights that it may have for violation of this EULA.
+
+
+2. Definitions
+
+"Content" means animations, characters, clothing, faces, hair, geometries, images, documentation, materials, meshes, morphs, motion files, props, scripts, textures, bump maps, transparencies, and similar files and data created or modified with the intent of being used within the Software and/or third party applications.
+
+"Documentation" means all written material in any form for installation and use of the Software provided by or made available by LOST MARBLE, or its authorized representatives or agents.
+
+"Legitimate Uses" means (a) creating tutorials, books, or other educational materials using images of the Software interface or Content for sale, distribution, public display, or public performance, provided such materials are intended to educate users  as to use of the Software; (b) creating original Content for sale, distribution, public display, or public performance; (c) creating materials for use with either Restricted Content or Other Content; (d) modification, distribution and selling of scripts; (e) creating rendered animations or rendered still images based on Restricted Content contained in the library or with the "Character Wizard" feature of the Software; or (f) creating characters or props based on Restricted Content in proprietary file formats (meaning, MOHO, ANME and any subsequent/ compressed formats), where the original (or modified) art, texture or other Restricted Content files are not distributed with such characters or props. When in doubt with respect to legitimate uses, contact Lost Marble LLC, at legal@lostmarble.com.
+
+"Other Content" means Content that is not Restricted Content or Unrestricted Content. Other Content may be subject to license terms imposed by the Other Content's original creator.
+
+"Restricted Content" means all Content included with or part of the Software that is not Unrestricted Content, including without limitation mesh objects (geometry) in any format, files in proprietary file formats (meaning, MOHO, ANME, and any subsequent/compressed formats), images, materials, texture, transparency maps, Documentation, vector-based content, and LOST MARBLE's proprietary data. Except as otherwise expressly permitted by this EULA, Restricted Content extracted or exported from the Software remains Restricted Content. Except as authorized in this EULA, Restricted Content may only be used exclusively on one (1) computer.
+
+"Software" means the LOST MARBLE computer software and associated files (e.g. Content) delivered via the accompanying physical media or electronic media. "Software" also includes any upgrades, updates, bug fixes or modified versions or backup copies of the Software supplied to you by LOST MARBLE or an LOST MARBLE authorized representative or agent (whether or not for a fee). "Software" does not include TPS (defined below).
+
+"Unrestricted Content" means Content included with or part of the Software that is specifically identified in the Documentation or listed in this EULA as Unrestricted Content. This version of the Software contains no Unrestricted Content.
+
+
+3. Software License
+
+A)	Subject to the terms and conditions of this EULA and your payment of the applicable license fee, LOST MARBLE grants personal license holders a limited, personal, nontransferable and non-exclusive license (without the right to sublicense), and institutional license holders a limited, organizational, transferable (within the institution) and non-exclusive license (without right to sublicense): (i) to use a single copy of the Software (except as expressly permitted in the Documentation) solely for your own or your institution's internal use on a single computer (as set forth in Subsection E below of this Section 3) either loaded in the temporary memory (i.e., RAM) of a computer, or installed on the permanent memory of a computer (e.g., solid-state drive and hard disk) or, on a temporary basis, on a backup system if such equipment is inoperative, consistent with the limitations specified or referenced in this EULA and the Documentation; (ii) to use the Documentation provided with the Software in support of your authorized use of the Software; and (iii) to copy the Software to make one (1) archival copy of the Software for your personal or your institution's archival or backup purposes, and to make sufficient number of copies for Legitimate Uses or the intended use described in the Documentation, provided that all titles and trademark, copyright and restricted rights notices are reproduced on all such copies. Any other uses of the Software, including without limitation the Software interface, other than those granted in this EULA must be expressly pre-approved by LOST MARBLE in writing. The terms of this EULA will govern any upgrades and updates, unless accompanied by a separate license, in which case, the terms of that separate license agreement will govern accordingly.
+
+B)	The Software is protected by copyright and other intellectual property laws and international treaties. As an express condition of this EULA, you must reproduce on the backup copy the LOST MARBLE copyright notice in the following format: "Copyright (C) 2004-2025 Lost Marble LLC All Rights Reserved." This express condition extends to any further updates, software patches, or bug fixes made available to you by LOST MARBLE, whether distributed on compact disk, or in an electronic format via download, BBS, forum, FTP, e-mail, etc.
+
+C)	The Software (not including the media on which the Software may be provided) is licensed to you, not sold. You expressly acknowledge that LOST MARBLE, Lost Marble, Inc., and/or their respective licensor(s) have a valuable proprietary interest in both the Software and the Documentation. All title, ownership, interest and rights in and to the patent, copyright, trademark, trade secret and any other intellectual property rights in the Software (and any derivative works thereof) and the Documentation (and any derivative works thereof) not expressly granted to you by this EULA remain with LOST MARBLE and/or their respective licensor(s). You do not acquire any other rights, express or implied, in the Software (and any derivative works thereof) and the Documentation (and any derivative works thereof) other than those rights expressly granted under this EULA. Without limiting the generality of the foregoing, LOST MARBLE and/or their respective licensor(s) retain all title, ownership, interest and rights in and to the patent, copyright, trademark, trade secret and any other intellectual property rights in the copy of the Software contained on your archival media, and all of the terms of this EULA apply to such archival copy as if it were the original LOST MARBLE-produced copy of the Software that was furnished to you when you paid the licensing fee.
+
+D)	Portions of the Software include third party software and other copyrighted material (collectively, "TPS"). Acknowledgements, licensing terms, restrictions and disclaimers of such TPS are contained in the "About Box" of the Software and your use of such TPS is governed by such respective terms. Any terms of this EULA that differs from the terms of any TPS are offered by LOST MARBLE alone, and not by any third party.
+
+E)	   PERSONAL SINGLE LICENSE
+Except as otherwise expressly permitted in the Documentation, you will only use the Software on a single computer at any given time. The Software may be installed and activated on up to three (3) computers that you own or control so long as no possibility exists of the Software being used at more than one (1) computer at any given time. Household members, defined as family members living under the same roof as you, may use the Software on your computer, and you may use some of the aforementioned three (3) allotted computer activations to install and activate the Software on a household member's computer, so long as no possibility exists of the Software being used at more than one (1) computer at any given time.
+
+           INSTITUTIONAL SINGLE LICENSE
+Except as otherwise expressly permitted in the Documentation, the institutional single license may only be used by a single user at a time, who will only use the Software on a single computer at any given time. The Software may be installed and activated on up to three (3) computers that the institutional single user owns or controls so long as no possibility exists of the Software being used at more than one (1) computer at any given time.
+
+           INSTITUTIONAL MULTI-SEAT LICENSE
+The Software may be installed and activated on a number of computers up to, but no more than, the number of seats licensed. These computers must be owned or controlled by the institution which holds the license. The Software may be used by any number of people on these computers.
+
+           INSTITUTIONAL FLOATING LICENSE
+The Software may be installed and activated on any number of computers owned or controlled by the institution which holds the license. The Software may be used by any persons on these computers, but with a simultaneous usage limit not to exceed the number of seats licensed.
+
+F)	   PERSONAL SINGLE LICENSE
+           INSTITUTIONAL SINGLE LICENSE
+The single licenses granted in this EULA do not allow you to use the Software on a computer that you do not own or control, and you may not distribute or make the Software available over a network where it could be used by multiple computers or devices at the same time. The multi-seat and floating licenses do not have this limitation.
+
+
+4. Restrictions
+
+A)	You will not, and will not permit any third party to, use, copy, modify, derive, or transfer the Software or Documentation, or any copy, modification, derivation, or merged portion thereof, in whole or in part via any means or for any purpose whatsoever except as expressly permitted in this EULA or the Documentation. You will not, and will not permit any third party to, modify, adapt, translate, rent, lease, loan, resell for profit, or create derivative works based upon the Software or any part thereof. The Software contains trade secrets in its human readable form and, to protect them, you will not, and will not permit any third party to, reverse engineer, decompile, disassemble, or otherwise reduce the Software to any human readable form without the express prior written consent of LOST MARBLE or except to the extent expressly permitted by applicable law. You will not relicense, sublicense, rent, lease, or lend the Software for third-party training, commercial time-sharing or service bureau use. You will not, and will not permit any third party to, debug, bypass, circumvent or defeat any security features of, or interfere with the normal functionality and operation of the Software for any reason whatsoever without the express prior written consent of LOST MARBLE or except to the extent expressly permitted by applicable law. If the Software is an upgrade to a previous version of the Software, you must possess and maintain a valid license to such previous version in order to use the upgrade.
+
+B)	You, your employees, and/or authorized agents must protect the Software's confidentiality and act to enforce your obligations under this EULA. You cannot distribute or otherwise make the Software or Documentation available to any third party via any means whatsoever, public or private, for any purpose, commercial or not, unless explicitly allowed by this EULA.
+
+C)	You assume full responsibility for your selection of the Software to achieve your intended results and for the installation, use, and results you obtain from the Software. LOST MARBLE has no obligation to provide support, maintenance, upgrades, modifications or new releases under this EULA.
+
+
+5. Content License
+
+A)	Subject to the terms and conditions of this EULA and your payment of the license fee, LOST MARBLE grants personal license holders a limited, personal, nontransferable and non-exclusive license (without the right to sublicense), and institutional license holders a limited, organizational, transferable (within the institution) and non-exclusive license (without right to sublicense):
+
+1)	To reproduce, prepare derivative works based upon, distribute, publicly display and publicly perform the Unrestricted Content for any lawful purpose other than to create a product which is intended to compete with the Software or to create new content which is intended to compete with the Restricted Content.
+
+2)	To prepare derivative works based upon the Restricted Content solely for Legitimate Uses and lawful uses.
+
+3)	To reproduce, prepare derivative works based upon, distribute, publicly display, and publicly perform content you create using Restricted Content, provided that such use of Restricted Content shall be solely for Legitimate Uses and lawful uses.
+
+B)	Notwithstanding the foregoing, nothing shall limit LOST MARBLE's right to independently create, develop, own, market, distribute, license, sublicense, import, export, sell, or otherwise exploit any content or materials similar to any derivative works based upon the Content.
+
+C)	Other Content included with the Software and Documentation is subject to third-party rights and is copyrighted and owned by the Other Content's original creator(s). You may use the Other Content in accordance with all applicable license terms imposed by the Other Content's original creator(s). LOST MARBLE makes no representations as to the quality, suitability, functionality, or legality of the Other Content and you hereby waive any claim you might have against LOST MARBLE with respect to the Other Content.
+
+D)	You will not, and will not permit any third party to, use, copy, modify, derive, sell, distribute, transfer or sublicense the Restricted Content, the Unrestricted Content,  or the Other Content or any copy, modification, derivation, or portion thereof, in  whole or in part via any means or for any purpose whatsoever, except as expressly permitted in this EULA or the Documentation.
+
+E)	You expressly acknowledge that LOST MARBLE and/or their respective licensor(s) have a valuable proprietary interest in the Restricted Content and the Unrestricted Content. All title, ownership, interest and rights in and to the patent, copyright, trademark, trade secret and any other intellectual property rights in the Restricted Content (and any derivative works thereof) and the Unrestricted Content (and any derivative works thereof) not expressly granted to you by this EULA remain with LOST MARBLE and their respective licensor(s). You do not acquire any other rights, express or implied, in the Restricted Content (and any derivative works thereof) and the Unrestricted Content (and any derivative works thereof) other than those rights expressly granted under this EULA.
+
+F)	Except as otherwise expressly permitted in the Documentation or unless otherwise provided for herein, you will only use the Content on up to one (1) computer at any given time (the same as the Software license allows). LOST MARBLE is pleased to offer site licenses (multi-seat and floating licenses) for multiple simultaneous users. Please contact LOST MARBLE at the address below for details. If you purchased a site license, you may distribute the Restricted Content between all computers containing valid copies of the Software, other LOST MARBLE products, and/or other software able to process Restricted Content.
+
+
+6. Ownership
+You retain all rights and ownership of Content that you have created in the Software or that is already your own Content that you have imported into the Software. We do not claim any ownership rights to your Content.
+
+
+7. Collection and Use of Your Information
+
+A)	Activation of the Software is REQUIRED in order to use the Software.  You must have a valid serial number in order to complete the activation process of the Software. Upon your first installation of the Software, you will be prompted to activate the Software, and the Software will attempt to automatically connect to the Internet. Please be sure you have an Internet connection when initially installing the Software in order to activate the Software. The Software includes instructions regarding activation if you are not connected to (or unable to connect to) the Internet when attempting to complete the activation process of the Software. To complete the activation process, you will need to provide your name, valid e-mail address and applicable valid serial number for activating the Software.
+
+B)	As part of the activation process you will have the option to "opt-in" to receive product announcements and offers from LOST MARBLE.  In addition, as part of the activation process, you will have the option to "opt-in" to participate in LOST MARBLE's efforts to  improve the usability, experience, functionality and performance of its products and services. Your participation to allow LOST MARBLE to collect such usage statistics is voluntary and you may "opt out" at any time. If you choose to participate, LOST MARBLE may collect and use certain information related to the Software and your use of the Software that include information about: (i) your computer, such as Operation System, screen resolution, RAM capacity, CPU frequency, number of monitors; (ii) data about the Software, such as abnormal terminations, number of runs, program version; and (iii) information about separate feature usage, such as menu options or buttons selected. If you are not comfortable sharing the foregoing described information, please choose not to participate.
+
+C)	LOST MARBLE is very concerned with the privacy and security of the information end users provide as part of the registration, activation and opt-in processes described above. Any information collected described above is done and utilized in accordance with LOST MARBLE's Privacy Policy. Your election to use the Software indicates your acceptance of the terms of the LOST MARBLE Privacy Policy, so please review the policy carefully and check our website at the following URL to review updates: https://moho.lostmarble.com/pages/privacy-policy. Further, if you are located in the European Economic Area (EEA), your use of the Software constitutes consent by you to LOST MARBLE's and/or its affiliates' to the transfer of such information to a location outside the EEA.
+
+
+8. Term; Termination
+
+A)	This EULA remains in full force and effect until terminated. You may terminate this EULA at any time by returning or destroying both the Software and Documentation, together with all copies, modifications, and merged portions of the Software and the Documentation in any form. LOST MARBLE is in no way obliged to issue refunds. LOST MARBLE may terminate this EULA at any time upon your breach of any of the provisions hereof.
+
+B)	Upon termination, you will immediately cease all use of the Software, and you must return or destroy the Software, Documentation, and all copies, modifications, and merged portions of the Software and the Documentation in any form and certify in writing your compliance of this paragraph to LOST MARBLE. Termination of this EULA for any reason in no way limits LOST MARBLE's right to continue enforcing all rights provided by law and does not entitle you to a refund of your license fees, except as provided herein. All provisions of this EULA that protect LOST MARBLE's proprietary rights continue in full force and effect after termination.
+
+
+9. Export Law Assurances
+
+Export and re-export of this Software and Documentation is governed by the laws, restrictions and regulations of the United States and applicable export and import laws, restrictions and regulations of certain other countries (collectively, "Export Laws"). You will comply with all such Export Laws. Export or re-export of this Software and/or Documentation (including any direct product thereof) to any entity on the Denied Parties List and other lists promulgated by various agencies of the United States Federal Government is strictly prohibited. In addition, if the Software is identified as an export controlled item under the Export Laws, you represent and warrant that you are not a citizen of, or located within, an embargoed or otherwise restricted nation (e.g., Iran, Syria, Sudan, Cuba and North Korea) and that you are not otherwise prohibited under the Export Laws from receiving the Software.
+
+
+10. Limited Warranty and Disclaimer
+
+A)	LOST MARBLE warrants that any media on which the Software may be provided will be free from defects in materials and workmanship under normal use for a period of thirty (30) days from the date of original purchase. Your exclusive remedy and LOST MARBLE's entire liability under this limited warranty will be for LOST MARBLE, at its option, to replace the Software media or refund the purchase price of such Software media. This limited warranty is offered solely by LOST MARBLE and does not apply to any third party product, software, content or service offerings. THE ABOVE WARRANTIES ON MEDIA ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, AND LOST MARBLE EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+B)	TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, THE SOFTWARE, RESTRICTED CONTENT, UNRESTRICTED CONTENT, AND DOCUMENTATION ARE LICENSED TO YOU "AS IS" WITH ALL FAULTS, WITHOUT WARRANTY, CONDITION OR REPRESENTATION, EXPRESS OR IMPLIED, OF ANY KIND, INCLUDING WITHOUT LIMITATION, MERCHANTABILITY, PERFORMANCE, SECURITY, SATISFACTORY QUALITY, NON- INFRINGEMENT OF THIRD PARTY RIGHTS, OR FITNESS FOR A PARTICULAR PURPOSE.
+
+C)	YOU ACKNOWLEDGE THAT THE SOFTWARE MAY NOT (I) SATISFY ALL YOUR REQUIREMENTS, (II) BE FREE FROM DEFECTS, OR (III) OPERATE WITHOUT INTERRUPTION OR ERRORS. IN ADDITION, DUE TO CONTINUAL DEVELOPMENT OF NEW TECHNIQUES FOR INTRUDING UPON AND ATTACKING NETWORKS, LOST MARBLE DOES NOT WARRANT THAT THE SOFTWARE WILL BE FREE OF VULNERABILITY TO INTRUSION OR ATTACK.
+
+D)	THE FOREGOING LIMITED WARRANTY IS NEITHER A SERVICE NOR A SUPPORT CONTRACT. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY LOST MARBLE, ITS EMPLOYEES, DISTRIBUTORS, DEALERS, REPRESENTATIVES OR AGENTS SHALL INCREASE THE SCOPE OF THE ABOVE WARRANTIES OR CREATE ANY NEW WARRANTIES. YOU MAY HAVE ADDITIONAL WARRANTY RIGHTS UNDER LAW WHICH MAY NOT BE WAIVED OR DISCLAIMED. LOST MARBLE DOES NOT SEEK TO LIMIT YOUR WARRANTY RIGHTS TO ANY EXTENT NOT PERMITTED BY LAW. This Section 10 and Section 11, below, shall survive any termination of this EULA, howsoever caused, but this will not imply or create any continued right to use the Software after termination of this EULA.
+
+
+11. Disclaimer of Liabilities
+
+A)	EXCEPT FOR THE EXCLUSIVE REMEDY OFFERED BY LOST MARBLE ABOVE AND REMEDIES  THAT CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW, IN NO EVENT WILL LOST MARBLE OR ITS DEVELOPERS, SUPPLIERS, DIRECTORS, OFFICERS, EMPLOYEES, OR SUBSIDIARIES OR AFFILIATES BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL OR  INDIRECT DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFIT, BUSINESS INTERRUPTION, LOSS OF DATA AND/OR BUSINESS INFORMATION, AND THE LIKE), WHETHER FORESEEABLE OR UNFORESEEABLE, ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE OR DOCUMENTATION, REGARDLESS OF THE BASIS OF THE CLAIM, EVEN IF LOST MARBLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR FOR ANY CLAIM BY ANY OTHER PARTY. IN NO EVENT WILL LOST MARBLE'S AGGREGATE LIABILITY (OR THAT OF ITS DEVELOPERS, SUPPLIERS, DIRECTORS, OFFICERS, EMPLOYEES, OR SUBSIDIARIES OR AFFILIATES), UNDER OR IN CONNECTION WITH THIS EULA, EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE, IF ANY. THIS LIMITATION WILL APPLY EVEN IN THE EVENT OF A FUNDAMENTAL OR MATERIAL BREACH OR A BREACH OF THE FUNDAMENTAL OR MATERIAL TERMS OF THIS EULA.
+
+B)	The above limitations will apply even if any warranty or remedy provided under this EULA fails of its essential purpose. The above limitations will not apply in case of personal injury (including death) only where and to the extent that applicable law requires such liability. Because some jurisdictions do not allow the exclusion or limitation of implied warranties or liabilities for consequential or incidental damages, the above limitations may not apply to you.
+
+
+12. Indemnification
+
+You will indemnify and hold harmless, and at LOST MARBLE's request defend, LOST MARBLE and its affiliates, successors and assigns from and against any and all claims, losses, liabilities, damages, settlements, expenses and costs (including, without limitation, attorneys' fees and court costs) which arise out of or relate to any third party claim or threat thereof that your use of the Software, Documentation or Content is unlawful or not otherwise permitted by this EULA. LOST MARBLE reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification hereunder.
+
+
+13. U.S. Government Restricted Rights
+
+The Software and Documentation are provided with RESTRICTED RIGHTS. The use, duplication, or disclosure by the United States Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software Clause at DFARS 252.227-7013 or subparagraph (c)(1) and (2)  of the Commercial Computer Software Restricted Rights at 48 CFR 52.227-19, as applicable. The Manufacturer is Lost Marble LLC, 2605 Camino Tassajara, #2594, Danville, CA 94526.
+
+
+14. Applicable Law
+
+This EULA shall be governed by the laws of the State of California, without giving effect to any choice of law principles. This EULA will not be governed by the United Nations Convention on Contracts for the International Sales of Goods, the application of which is expressly excluded. Exclusive jurisdiction over and venue of any suit arising out of or relating to this EULA will be in the state and federal courts of Contra Costa County, California. If for any reason a court of competent jurisdiction finds any provision, or portion thereof, to be invalid or unenforceable, the remainder of this EULA shall continue in full force and effect. The waiver by either party of any default or breach of this EULA will not constitute a waiver of any other or subsequent default or breach. You may not assign, sell, transfer, delegate or otherwise dispose of, whether voluntarily or involuntarily, by operation of law or otherwise, this EULA or any rights or obligations under this EULA without LOST MARBLE's prior written consent. Any purported assignment, transfer or delegation by you will be null and void. This EULA constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or representations, written or oral, concerning the subject matter of this EULA.
+
+
+15. Other Services and Materials
+
+This Software uses libraries from the FFmpeg project under the LGPLv2.1. FFmpeg source code is not embedded in this Software's source code. Source code for FFmpeg can be downloaded at https://www.ffmpeg.org/.
+
+This Software may enable access to LOST MARBLE and/or third party services and websites (individually and collectively referred to as "Services"). This EULA does not apply to any Services. You acknowledge and agree that nothing in this EULA guarantees availability or continued availability or uptime of any Services. LOST MARBLE has no control over any third party Services. Any terms, conditions, privacy policies, warranties, or representations associated with any third party Services are solely between you and such third party. LOST MARBLE makes no representations or warranties as to the quality, suitability, functionality, or legality of any third party Services, and You hereby waive any claim you might have against LOST MARBLE regarding any use of any third party Services.
+
+You understand that by using any of the Services, You may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language, and that the results of any search or entering of a particular URL may automatically and unintentionally generate links or references to objectionable material. In addition, you agree not to use the Software to create content that may be deemed offensive, indecent, or objectionable; hateful, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence. Nevertheless, you agree to use the Services at your sole risk and that the LOST MARBLE shall not have any liability to you for content that may be found to be offensive, indecent, or objectionable; hateful threatening or pornographic; incites violence; or contains nudity or graphic or gratuitous violence.
+
+
+16. Contact Information
+
+If you have questions concerning this EULA or need to contact Customer Service, please contact LOST MARBLE at this address: Lost Marble LLC, 2605 Camino Tassajara, #2594, Danville, CA 94526; Customer Support (returns, warranty): support@lostmarble.com; and Legal (EULA questions, illegal activity reporting): legal@lostmarble.com.
+
+
+17. Copyright & Trademark Notice
+
+Lost Marble, Anime Studio, Moho, Moho Debut and Moho Pro are trademarks of Lost Marble LLC. All other product names mentioned in the Software, the Documentation, or other documentation are used for identification purposes only and may be trademarks or registered trademarks of their respective companies. Registered and unregistered trademarks used herein are the exclusive property of their respective owners. For purposes of Japan law regarding unregistered trademarks (e.g., a pending trademark application), the right in and to a trademark in Japan may not be exclusive until it is validly registered. You may not remove, modify, alter, cover or deface any trademark, trade names, product names, logo, copyright or other proprietary notices, legends, symbols or labels in the Software and Documentation. This EULA does not authorize you to use LOST MARBLE's or its licensors' names or respective trademarks. Further, any reference to any third party commercial products, processes or services by trade name, trademark, logo, and company and/or product/service names mentioned or displayed in the Software (and in any of its related Documentation and materials in any form) does not constitute or imply LOST MARBLE's endorsement, recommendation or favoring by LOST MARBLE or any of its suppliers/ licensors.
+
+
+18. Changes to the EULA
+
+LOST MARBLE reserves the right, at its sole discretion, to amend, modify, or update the terms and conditions of this End User License Agreement (EULA) at any time. Please refer to the link here to review the most up to date version of the EULA: www.lostmarble.com/eula
+
+
+Version: 20251023-Moho Debut/Moho Pro
+
+
+

@@ -1,0 +1,940 @@
+{
+ "cap_rhubarb_phonetic.json": {
+  "file": "cap_rhubarb_phonetic.json",
+  "metadata": {
+   "soundFile": "D:\\Animate\\Projects\\HonestInterview\\ReviewV5\\analysis\\cap_analysis.wav",
+   "duration": 70.88
+  },
+  "n": 226,
+  "order_or_negative_issues": 0,
+  "last_end": 70.88,
+  "speech_cues": 206,
+  "speech_outside_windows": [
+   [
+    2.5,
+    2.62,
+    "B",
+    0.02
+   ],
+   [
+    2.69,
+    2.97,
+    "B",
+    0.02
+   ],
+   [
+    7.13,
+    7.57,
+    "B",
+    0.05
+   ],
+   [
+    8.78,
+    8.96,
+    "B",
+    0.04
+   ],
+   [
+    9.38,
+    9.52,
+    "B",
+    0.03
+   ],
+   [
+    10.1,
+    10.45,
+    "B",
+    0.03
+   ],
+   [
+    11.85,
+    11.99,
+    "B",
+    0.01
+   ],
+   [
+    12.46,
+    12.53,
+    "B",
+    0.04
+   ],
+   [
+    14.46,
+    14.53,
+    "B",
+    0.03
+   ],
+   [
+    14.99,
+    15.08,
+    "B",
+    0.02
+   ],
+   [
+    18.51,
+    18.58,
+    "B",
+    0.02
+   ],
+   [
+    23.37,
+    23.56,
+    "B",
+    0.03
+   ],
+   [
+    23.7,
+    24.19,
+    "B",
+    0.08
+   ],
+   [
+    25.7,
+    25.77,
+    "B",
+    0.03
+   ],
+   [
+    27.66,
+    27.72,
+    "B",
+    0.04
+   ],
+   [
+    30.4,
+    30.76,
+    "B",
+    0.14
+   ],
+   [
+    37.13,
+    37.55,
+    "B",
+    0.02
+   ],
+   [
+    39.35,
+    39.43,
+    "B",
+    0.03
+   ],
+   [
+    40.64,
+    41.03,
+    "B",
+    0.02
+   ],
+   [
+    41.26,
+    41.52,
+    "B",
+    0.02
+   ],
+   [
+    43.39,
+    43.6,
+    "B",
+    0.03
+   ],
+   [
+    47.39,
+    47.47,
+    "B",
+    0.03
+   ],
+   [
+    48.6,
+    48.81,
+    "B",
+    0.02
+   ],
+   [
+    49.42,
+    49.71,
+    "B",
+    0.02
+   ],
+   [
+    49.85,
+    49.92,
+    "B",
+    0.02
+   ],
+   [
+    52.26,
+    52.32,
+    "B",
+    0.03
+   ],
+   [
+    54.98,
+    55.2,
+    "B",
+    0.02
+   ],
+   [
+    58.48,
+    58.56,
+    "B",
+    0.03
+   ],
+   [
+    59.75,
+    59.89,
+    "B",
+    0.03
+   ],
+   [
+    62.44,
+    62.5,
+    "B",
+    0.03
+   ],
+   [
+    62.79,
+    63.21,
+    "B",
+    0.03
+   ],
+   [
+    64.58,
+    64.75,
+    "B",
+    0.04
+   ],
+   [
+    65.24,
+    65.66,
+    "B",
+    0.03
+   ],
+   [
+    66.61,
+    66.68,
+    "B",
+    0.03
+   ]
+  ],
+  "speech_during_other": [
+   [
+    "You're talking about human lives for ten billion dollars. What would\u2014",
+    0.03
+   ]
+  ],
+  "coverage": [
+   [
+    "Yes.",
+    2.56,
+    2.87,
+    1.0,
+    3
+   ],
+   [
+    "Listen here.",
+    7.2,
+    7.47,
+    1.0,
+    1
+   ],
+   [
+    "There is nothing,",
+    8.86,
+    9.41,
+    1.0,
+    6
+   ],
+   [
+    "and I mean nothing,",
+    10.17,
+    11.9,
+    1.0,
+    8
+   ],
+   [
+    "that could come out of that ",
+    12.54,
+    14.42,
+    1.0,
+    15
+   ],
+   [
+    "to make me turn down ten bil",
+    15.05,
+    18.48,
+    0.96,
+    18
+   ],
+   [
+    "Yes.",
+    23.44,
+    23.84,
+    1.0,
+    3
+   ],
+   [
+    "The answer is yes.",
+    24.04,
+    25.66,
+    1.0,
+    11
+   ],
+   [
+    "Yes. Take my aunt. Take my g",
+    27.74,
+    30.38,
+    1.0,
+    14
+   ],
+   [
+    "Hell, you could blow the blo",
+    30.64,
+    31.78,
+    1.0,
+    10
+   ],
+   [
+    "Can you even fathom how much",
+    31.9,
+    37.45,
+    0.96,
+    26
+   ],
+   [
+    "And if it was a reality,",
+    39.42,
+    40.93,
+    1.0,
+    10
+   ],
+   [
+    "I'd be first in line.",
+    41.32,
+    43.49,
+    1.0,
+    9
+   ],
+   [
+    "Hey, hey, hey, hey.",
+    47.46,
+    48.71,
+    1.0,
+    8
+   ],
+   [
+    "Guess what?",
+    49.48,
+    49.82,
+    1.0,
+    3
+   ],
+   [
+    "Oh, come on. You gotta be cu",
+    52.33,
+    55.1,
+    1.0,
+    19
+   ],
+   [
+    "I would have did it for five",
+    58.55,
+    59.78,
+    1.0,
+    6
+   ],
+   [
+    "Thousand.",
+    62.51,
+    63.1,
+    1.0,
+    6
+   ],
+   [
+    "Oh, that's a good question.",
+    64.66,
+    65.55,
+    1.0,
+    6
+   ],
+   [
+    "I guess you can call me an e",
+    66.68,
+    70.46,
+    1.0,
+    17
+   ]
+  ],
+  "shape_counts": {
+   "X": 20,
+   "B": 86,
+   "C": 43,
+   "G": 14,
+   "E": 19,
+   "D": 3,
+   "A": 27,
+   "F": 13,
+   "H": 1
+  },
+  "mean_speech_cue": 0.18
+ },
+ "cap_rhubarb_pocketsphinx.json": {
+  "file": "cap_rhubarb_pocketsphinx.json",
+  "metadata": {
+   "soundFile": "D:\\Animate\\Projects\\HonestInterview\\ReviewV5\\analysis\\cap_analysis.wav",
+   "duration": 70.88
+  },
+  "n": 210,
+  "order_or_negative_issues": 0,
+  "last_end": 70.88,
+  "speech_cues": 191,
+  "speech_outside_windows": [
+   [
+    8.79,
+    8.87,
+    "C",
+    0.03
+   ],
+   [
+    23.68,
+    24.03,
+    "B",
+    0.08
+   ],
+   [
+    30.12,
+    30.5,
+    "D",
+    0.04
+   ],
+   [
+    30.5,
+    30.58,
+    "B",
+    0.08
+   ],
+   [
+    30.58,
+    30.72,
+    "C",
+    0.02
+   ],
+   [
+    49.34,
+    49.52,
+    "C",
+    0.1
+   ],
+   [
+    62.77,
+    63.19,
+    "B",
+    0.01
+   ]
+  ],
+  "speech_during_other": [],
+  "coverage": [
+   [
+    "Yes.",
+    2.56,
+    2.87,
+    1.0,
+    2
+   ],
+   [
+    "Listen here.",
+    7.2,
+    7.47,
+    1.0,
+    1
+   ],
+   [
+    "There is nothing,",
+    8.86,
+    9.41,
+    0.98,
+    4
+   ],
+   [
+    "and I mean nothing,",
+    10.17,
+    11.9,
+    1.0,
+    7
+   ],
+   [
+    "that could come out of that ",
+    12.54,
+    14.42,
+    1.0,
+    11
+   ],
+   [
+    "to make me turn down ten bil",
+    15.05,
+    18.48,
+    0.99,
+    19
+   ],
+   [
+    "Yes.",
+    23.44,
+    23.84,
+    1.0,
+    3
+   ],
+   [
+    "The answer is yes.",
+    24.04,
+    25.66,
+    1.0,
+    8
+   ],
+   [
+    "Yes. Take my aunt. Take my g",
+    27.74,
+    30.38,
+    1.0,
+    14
+   ],
+   [
+    "Hell, you could blow the blo",
+    30.64,
+    31.78,
+    1.0,
+    10
+   ],
+   [
+    "Can you even fathom how much",
+    31.9,
+    37.45,
+    0.91,
+    26
+   ],
+   [
+    "And if it was a reality,",
+    39.42,
+    40.93,
+    1.0,
+    12
+   ],
+   [
+    "I'd be first in line.",
+    41.32,
+    43.49,
+    1.0,
+    10
+   ],
+   [
+    "Hey, hey, hey, hey.",
+    47.46,
+    48.71,
+    1.0,
+    8
+   ],
+   [
+    "Guess what?",
+    49.48,
+    49.82,
+    1.0,
+    5
+   ],
+   [
+    "Oh, come on. You gotta be cu",
+    52.33,
+    55.1,
+    1.0,
+    18
+   ],
+   [
+    "I would have did it for five",
+    58.55,
+    59.78,
+    1.0,
+    8
+   ],
+   [
+    "Thousand.",
+    62.51,
+    63.1,
+    1.0,
+    5
+   ],
+   [
+    "Oh, that's a good question.",
+    64.66,
+    65.55,
+    1.0,
+    6
+   ],
+   [
+    "I guess you can call me an e",
+    66.68,
+    70.46,
+    1.0,
+    14
+   ]
+  ],
+  "shape_counts": {
+   "X": 19,
+   "C": 43,
+   "B": 74,
+   "A": 24,
+   "E": 17,
+   "D": 7,
+   "F": 16,
+   "G": 5,
+   "H": 5
+  },
+  "mean_speech_cue": 0.185
+ },
+ "nocap_rhubarb_phonetic.json": {
+  "file": "nocap_rhubarb_phonetic.json",
+  "metadata": {
+   "soundFile": "D:\\Animate\\Projects\\HonestInterview\\ReviewV5\\analysis\\nocap_analysis.wav",
+   "duration": 70.88
+  },
+  "n": 144,
+  "order_or_negative_issues": 0,
+  "last_end": 70.88,
+  "speech_cues": 133,
+  "speech_outside_windows": [
+   [
+    0.43,
+    0.69,
+    "B",
+    0.11
+   ],
+   [
+    2.4,
+    2.54,
+    "B",
+    0.01
+   ],
+   [
+    6.95,
+    7.16,
+    "B",
+    0.02
+   ],
+   [
+    20.54,
+    20.85,
+    "B",
+    0.04
+   ],
+   [
+    23.39,
+    23.46,
+    "B",
+    0.03
+   ],
+   [
+    25.87,
+    25.93,
+    "B",
+    0.03
+   ],
+   [
+    27.52,
+    27.66,
+    "B",
+    0.02
+   ],
+   [
+    37.85,
+    38.22,
+    "B",
+    0.03
+   ],
+   [
+    39.13,
+    39.41,
+    "B",
+    0.03
+   ],
+   [
+    43.85,
+    44.04,
+    "B",
+    0.03
+   ],
+   [
+    50.25,
+    50.59,
+    "B",
+    0.03
+   ],
+   [
+    52.12,
+    52.19,
+    "B",
+    0.03
+   ],
+   [
+    56.86,
+    56.95,
+    "A",
+    0.04
+   ],
+   [
+    57.09,
+    57.23,
+    "B",
+    0.03
+   ],
+   [
+    60.98,
+    61.06,
+    "A",
+    0.08
+   ],
+   [
+    62.05,
+    62.19,
+    "B",
+    0.03
+   ],
+   [
+    63.33,
+    63.48,
+    "B",
+    0.03
+   ],
+   [
+    63.83,
+    64.11,
+    "B",
+    0.03
+   ]
+  ],
+  "speech_during_other": [
+   [
+    "Yes.",
+    0.02
+   ],
+   [
+    "Hey, hey, hey, hey.",
+    0.02
+   ]
+  ],
+  "coverage": [
+   [
+    "Okay,",
+    0.25,
+    0.47,
+    1.0,
+    3
+   ],
+   [
+    "for ten billion dollars, wou",
+    0.7,
+    2.45,
+    1.0,
+    12
+   ],
+   [
+    "Um, no, I didn't finish the ",
+    4.84,
+    7.06,
+    1.0,
+    17
+   ],
+   [
+    "Even if one random person ha",
+    20.62,
+    23.35,
+    1.0,
+    19
+   ],
+   [
+    "Okay, what if it was someone",
+    25.94,
+    27.56,
+    1.0,
+    16
+   ],
+   [
+    "Oh, it's just a hypothetical",
+    37.92,
+    39.3,
+    1.0,
+    10
+   ],
+   [
+    "You're talking about human l",
+    43.92,
+    47.42,
+    1.0,
+    22
+   ],
+   [
+    "I don't want to guess. Don't",
+    50.32,
+    52.08,
+    1.0,
+    15
+   ],
+   [
+    "What?",
+    56.94,
+    57.12,
+    1.0,
+    4
+   ],
+   [
+    "Five billion?",
+    61.1,
+    62.08,
+    1.0,
+    6
+   ],
+   [
+    "What are you?",
+    63.4,
+    64.0,
+    1.0,
+    5
+   ]
+  ],
+  "shape_counts": {
+   "X": 11,
+   "C": 28,
+   "G": 11,
+   "B": 46,
+   "E": 10,
+   "F": 15,
+   "A": 16,
+   "D": 6,
+   "H": 1
+  },
+  "mean_speech_cue": 0.142
+ },
+ "nocap_rhubarb_pocketsphinx.json": {
+  "file": "nocap_rhubarb_pocketsphinx.json",
+  "metadata": {
+   "soundFile": "D:\\Animate\\Projects\\HonestInterview\\ReviewV5\\analysis\\nocap_analysis.wav",
+   "duration": 70.88
+  },
+  "n": 129,
+  "order_or_negative_issues": 0,
+  "last_end": 70.88,
+  "speech_cues": 118,
+  "speech_outside_windows": [
+   [
+    0.45,
+    0.67,
+    "B",
+    0.11
+   ],
+   [
+    38.85,
+    39.41,
+    "B",
+    0.03
+   ],
+   [
+    63.3,
+    63.42,
+    "A",
+    0.06
+   ],
+   [
+    63.95,
+    64.09,
+    "B",
+    0.01
+   ]
+  ],
+  "speech_during_other": [],
+  "coverage": [
+   [
+    "Okay,",
+    0.25,
+    0.47,
+    1.0,
+    2
+   ],
+   [
+    "for ten billion dollars, wou",
+    0.7,
+    2.45,
+    0.99,
+    9
+   ],
+   [
+    "Um, no, I didn't finish the ",
+    4.84,
+    7.06,
+    1.0,
+    17
+   ],
+   [
+    "Even if one random person ha",
+    20.62,
+    23.35,
+    1.0,
+    17
+   ],
+   [
+    "Okay, what if it was someone",
+    25.94,
+    27.56,
+    1.0,
+    13
+   ],
+   [
+    "Oh, it's just a hypothetical",
+    37.92,
+    39.3,
+    1.0,
+    7
+   ],
+   [
+    "You're talking about human l",
+    43.92,
+    47.42,
+    1.0,
+    28
+   ],
+   [
+    "I don't want to guess. Don't",
+    50.32,
+    52.08,
+    0.99,
+    12
+   ],
+   [
+    "What?",
+    56.94,
+    57.12,
+    0.94,
+    2
+   ],
+   [
+    "Five billion?",
+    61.1,
+    62.08,
+    1.0,
+    5
+   ],
+   [
+    "What are you?",
+    63.4,
+    64.0,
+    1.0,
+    6
+   ]
+  ],
+  "shape_counts": {
+   "X": 11,
+   "C": 22,
+   "B": 46,
+   "G": 8,
+   "A": 10,
+   "D": 5,
+   "E": 10,
+   "F": 15,
+   "H": 2
+  },
+  "mean_speech_cue": 0.151
+ }
+}

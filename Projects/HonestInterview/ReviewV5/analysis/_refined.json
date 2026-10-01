@@ -1,0 +1,250 @@
+[
+ {
+  "speaker": "NOCAP",
+  "text": "Okay,",
+  "start": 0.25,
+  "end": 0.47,
+  "thr": -38,
+  "floor": -61.5
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "for ten billion dollars, would you\u2014",
+  "start": 0.73,
+  "end": 2.5,
+  "thr": -38,
+  "floor": -58.0
+ },
+ {
+  "speaker": "CAP",
+  "text": "Yes.",
+  "start": 2.48,
+  "end": 2.87,
+  "thr": -38,
+  "floor": -56.0
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "Um, no, I didn't finish the question, I\u2014",
+  "start": 4.84,
+  "end": 7.11,
+  "thr": -38,
+  "floor": -59.2
+ },
+ {
+  "speaker": "CAP",
+  "text": "Listen here.",
+  "start": 7.2,
+  "end": 7.44,
+  "thr": -38,
+  "floor": -50.9
+ },
+ {
+  "speaker": "CAP",
+  "text": "There is nothing,",
+  "start": 8.88,
+  "end": 9.41,
+  "thr": -38,
+  "floor": -48.5
+ },
+ {
+  "speaker": "CAP",
+  "text": "and I mean nothing,",
+  "start": 10.17,
+  "end": 11.9,
+  "thr": -34.2,
+  "floor": -42.2
+ },
+ {
+  "speaker": "CAP",
+  "text": "that could come out of that little pie hole of yours",
+  "start": 12.54,
+  "end": 14.42,
+  "thr": -32.8,
+  "floor": -40.8
+ },
+ {
+  "speaker": "CAP",
+  "text": "to make me turn down ten billion dollars.",
+  "start": 15.05,
+  "end": 18.49,
+  "thr": -34.4,
+  "floor": -42.4
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "Even if one random person had to die?",
+  "start": 20.62,
+  "end": 23.35,
+  "thr": -33.3,
+  "floor": -41.3
+ },
+ {
+  "speaker": "CAP",
+  "text": "Yes.",
+  "start": 23.48,
+  "end": 23.84,
+  "thr": -32.1,
+  "floor": -40.1
+ },
+ {
+  "speaker": "CAP",
+  "text": "The answer is yes.",
+  "start": 24.04,
+  "end": 25.66,
+  "thr": -33.2,
+  "floor": -41.2
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "Okay, what if it was someone you knew?",
+  "start": 25.99,
+  "end": 27.59,
+  "thr": -32.9,
+  "floor": -40.9
+ },
+ {
+  "speaker": "CAP",
+  "text": "Yes. Take my aunt. Take my grandma.",
+  "start": 27.74,
+  "end": 30.38,
+  "thr": -30.4,
+  "floor": -38.4
+ },
+ {
+  "speaker": "CAP",
+  "text": "Hell, you could blow the block up.",
+  "start": 30.64,
+  "end": 31.78,
+  "thr": -27.4,
+  "floor": -35.4
+ },
+ {
+  "speaker": "CAP",
+  "text": "Can you even fathom how much money ten billion dollars is?",
+  "start": 31.9,
+  "end": 37.45,
+  "thr": -29.6,
+  "floor": -37.6
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "Oh, it's just a hypothetical.",
+  "start": 37.93,
+  "end": 39.5,
+  "thr": -31.1,
+  "floor": -39.1
+ },
+ {
+  "speaker": "CAP",
+  "text": "And if it was a reality,",
+  "start": 39.56,
+  "end": 40.93,
+  "thr": -27.8,
+  "floor": -35.8
+ },
+ {
+  "speaker": "CAP",
+  "text": "I'd be first in line.",
+  "start": 41.32,
+  "end": 43.49,
+  "thr": -31.7,
+  "floor": -39.7
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "You're talking about human lives for ten billion dollars. What would\u2014",
+  "start": 43.99,
+  "end": 47.41,
+  "thr": -29.7,
+  "floor": -37.7
+ },
+ {
+  "speaker": "CAP",
+  "text": "Hey, hey, hey, hey.",
+  "start": 47.41,
+  "end": 48.71,
+  "thr": -27.6,
+  "floor": -35.6
+ },
+ {
+  "speaker": "CAP",
+  "text": "Guess what?",
+  "start": 49.49,
+  "end": 49.82,
+  "thr": -29.5,
+  "floor": -37.5
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "I don't want to guess. Don't make me guess.",
+  "start": 50.35,
+  "end": 52.11,
+  "thr": -29.6,
+  "floor": -37.6
+ },
+ {
+  "speaker": "CAP",
+  "text": "Oh, come on. You gotta be curious about what I'm going to tell you.",
+  "start": 52.26,
+  "end": 55.19,
+  "thr": -31.4,
+  "floor": -39.4
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "What?",
+  "start": 56.7,
+  "end": 57.33,
+  "thr": -29.8,
+  "floor": -37.8
+ },
+ {
+  "speaker": "CAP",
+  "text": "I would have did it for five.",
+  "start": 58.56,
+  "end": 59.77,
+  "thr": -28.7,
+  "floor": -36.7
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "Five billion?",
+  "start": 61.1,
+  "end": 62.08,
+  "thr": -27.9,
+  "floor": -35.9
+ },
+ {
+  "speaker": "CAP",
+  "text": "Thousand.",
+  "start": 62.51,
+  "end": 63.42,
+  "thr": -27.7,
+  "floor": -35.7
+ },
+ {
+  "speaker": "NOCAP",
+  "text": "What are you?",
+  "start": 63.43,
+  "end": 64.19,
+  "thr": -27.5,
+  "floor": -35.5
+ },
+ {
+  "speaker": "CAP",
+  "text": "Oh, that's a good question.",
+  "start": 64.68,
+  "end": 65.6,
+  "thr": -27.0,
+  "floor": -35.0
+ },
+ {
+  "speaker": "CAP",
+  "text": "I guess you can call me an entrepreneur.",
+  "start": 66.68,
+  "end": 70.47,
+  "thr": -27.3,
+  "floor": -35.3
+ }
+]

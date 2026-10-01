@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="FACE/Glasses" symbolType="graphic"><timeline><DOMTimeline name="Glasses"><layers><DOMLayer name="art" color="#4F80FF"><frames><DOMFrame index="0" keyMode="9728"><elements><DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#C3D6D9" alpha="0.550"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!1215 -450[1215 -226 1057 -68[899 90 675 90[451 90 293 -68[135 -226 135 -450[135 -674 293 -832[451 -990 675 -990[899 -990 1057 -832[1215 -674 1215 -450"/>
+<Edge fillStyle1="1" edges="!2385 -450[2385 -226 2227 -68[2069 90 1845 90[1621 90 1463 -68[1305 -226 1305 -450[1305 -674 1463 -832[1621 -990 1845 -990[2069 -990 2227 -832[2385 -674 2385 -450"/>
+</edges></DOMShape>
+<DOMShape isDrawingObject="true">
+<fills>
+<FillStyle index="1"><SolidColor color="#8FA3A6" alpha="0.450"/></FillStyle>
+</fills>
+<edges>
+<Edge fillStyle1="1" edges="!162 -315[675 279 1188 -315|162 -315"/>
+<Edge fillStyle1="1" edges="!1332 -315[1845 279 2358 -315|1332 -315"/>
+</edges></DOMShape>
+<DOMShape isDrawingObject="true">
+<strokes>
+<StrokeStyle index="1"><SolidStroke scaleMode="normal" weight="3.38" joints="round"><fill><SolidColor color="#1A1A1A"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="2"><SolidStroke scaleMode="normal" weight="2.93" joints="round"><fill><SolidColor color="#FFFFFF" alpha="0.900"/></fill></SolidStroke></StrokeStyle>
+<StrokeStyle index="3"><SolidStroke scaleMode="normal" weight="3.15" joints="round"><fill><SolidColor color="#1A1A1A"/></fill></SolidStroke></StrokeStyle>
+</strokes>
+<edges>
+<Edge strokeStyle="1" edges="!1215 -450[1215 -226 1057 -68[899 90 675 90[451 90 293 -68[135 -226 135 -450[135 -674 293 -832[451 -990 675 -990[899 -990 1057 -832[1215 -674 1215 -450"/>
+<Edge strokeStyle="2" edges="!405 -675[540 -810 720 -832"/>
+<Edge strokeStyle="1" edges="!2385 -450[2385 -226 2227 -68[2069 90 1845 90[1621 90 1463 -68[1305 -226 1305 -450[1305 -674 1463 -832[1621 -990 1845 -990[2069 -990 2227 -832[2385 -674 2385 -450"/>
+<Edge strokeStyle="2" edges="!1575 -675[1710 -810 1890 -832"/>
+<Edge strokeStyle="3" edges="!1215 -495[1260 -630 1305 -495"/>
+<Edge strokeStyle="3" edges="!135 -495|-585 -405"/>
+</edges></DOMShape></elements></DOMFrame></frames></DOMLayer></layers></DOMTimeline></timeline></DOMSymbolItem>

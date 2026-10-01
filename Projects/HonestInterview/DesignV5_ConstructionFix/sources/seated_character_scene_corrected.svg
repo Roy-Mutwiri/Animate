@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .line { fill:none; stroke:#181310; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .limb { fill:none; stroke:#181310; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; }
+      .thin { fill:none; stroke:#181310; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; }
+      .soft { fill:none; stroke:#676b65; stroke-width:4; stroke-linecap:round; stroke-linejoin:round; opacity:.55; }
+      .chair { fill:#9b8985; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .chair2 { fill:#c5b0ad; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .chairDark { fill:#675753; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .skin { fill:#d9ddd4; stroke:#181310; stroke-width:7; stroke-linejoin:round; }
+      .shirt { fill:#f7efe3; stroke:#181310; stroke-width:6; stroke-linejoin:round; }
+      .eye { fill:#fbfff8; stroke:#181310; stroke-width:5; }
+      .skel { fill:none; stroke:#0d63c7; stroke-width:6; stroke-linecap:round; stroke-linejoin:round; opacity:.9; }
+      .joint { fill:#0d63c7; stroke:#ffffff; stroke-width:3; opacity:.95; }
+      .mark { fill:none; stroke:#d64b3f; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; opacity:.9; }
+    </style>
+  </defs>
+  
+      <rect width="1080" height="1920" fill="#d5d2cc"/>
+      <rect x="696" y="126" width="218" height="284" fill="#fbfaf4" stroke="#58524d" stroke-width="7"/>
+      <path d="M805 129 L805 408 M699 264 L912 264" class="soft"/>
+      <path d="M0 1138 L1080 1138 L1080 1920 L0 1920 Z" fill="#808680"/>
+      <path d="M0 1365 C270 1332 760 1332 1080 1365" class="soft"/>
+      <path d="M0 1600 C330 1562 780 1564 1080 1602" class="soft"/>
+      <path d="M184 1138 L42 1920 M430 1138 L380 1920 M704 1138 L795 1920 M940 1138 L1068 1920" class="soft"/>
+    
+
+      <g transform="translate(742 955)">
+        <ellipse cx="64" cy="210" rx="120" ry="30" fill="#5d625d" opacity=".28"/>
+        <rect x="0" y="68" width="132" height="160" fill="#444842" stroke="#181310" stroke-width="5"/>
+        <rect x="18" y="92" width="96" height="42" fill="#3d413c" stroke="#181310" stroke-width="4"/>
+        <rect x="18" y="154" width="96" height="42" fill="#3d413c" stroke="#181310" stroke-width="4"/>
+        <circle cx="68" cy="113" r="5" fill="#caa6a0" stroke="#181310" stroke-width="3"/>
+        <circle cx="68" cy="175" r="5" fill="#caa6a0" stroke="#181310" stroke-width="3"/>
+      </g>
+    
+<ellipse cx="514" cy="1325" rx="285" ry="58" fill="#5f625e" opacity=".34"/>
+
+          <path d="M350 620 C414 560 555 546 660 596 C734 632 775 720 766 830 L734 1128 L326 1128 L300 824 C292 736 306 665 350 620 Z" class="chair"/>
+          <path d="M354 610 C444 661 607 656 692 616 L707 852 C604 904 451 905 316 850 Z" class="chair2"/>
+        
+<path d="M348 945 L720 945 L684 1060 L378 1060 Z" fill="#e8cdd0" stroke="#181310" stroke-width="6" stroke-linejoin="round"/>
+<path d="M656 850 L772 890 L724 1290 L620 1290 Z" class="chairDark"/>
+
+      <g>
+        <!-- legs and pelvis, drawn before front chair base for overlap -->
+        <path d="M474 986 C442 1038 425 1100 414 1168" class="limb"/>
+        <path d="M414 1168 C386 1216 376 1265 386 1308" class="limb"/>
+        <path d="M386 1308 C358 1320 344 1328 326 1330" class="limb"/>
+        <path d="M566 982 C606 1035 627 1102 632 1168" class="limb"/>
+        <path d="M632 1168 C650 1220 658 1268 664 1312" class="limb"/>
+        <path d="M664 1312 C690 1322 710 1324 733 1314" class="limb"/>
+        <path d="M474 986 C500 1016 548 1016 566 982" class="limb"/>
+
+        <!-- shortened tapered torso touching the head directly -->
+        <path d="M486 706 C462 808 450 908 474 986 C496 1002 544 1001 566 982 C574 895 568 798 548 706 C532 716 506 718 486 706 Z" class="shirt"/>
+
+        <!-- bent arms resting on armrests -->
+        <path d="M476 730 C410 788 360 864 340 944 C330 970 328 1008 334 1036" class="limb"/>
+        <circle cx="334" cy="1036" r="17" fill="#181310"/>
+        <path d="M552 730 C618 796 676 878 696 932 C714 964 722 994 718 1018" class="limb"/>
+        <ellipse cx="718" cy="1018" rx="20" ry="16" fill="#181310"/>
+
+        <!-- smaller compact head, restrained skeptical gaze offscreen -->
+        <g transform="translate(520 596) scale(.92) translate(-520 -596)">
+          <path d="M436 516 C468 455 572 438 632 492 C696 550 680 655 618 705 C561 751 470 734 431 668 C398 612 406 564 436 516 Z" class="skin"/>
+          <path d="M438 515 C486 462 570 456 632 492 C611 456 542 430 474 456 C442 468 423 494 438 515 Z" fill="#171310" stroke="#181310" stroke-width="6" stroke-linejoin="round"/>
+          <circle cx="612" cy="490" r="7" fill="#eee05a"/>
+          <ellipse class="eye" cx="505" cy="576" rx="20" ry="34"/>
+          <ellipse class="eye" cx="562" cy="572" rx="20" ry="32"/>
+          <ellipse cx="520" cy="576" rx="6" ry="11" fill="#181310"/>
+          <ellipse cx="577" cy="571" rx="6" ry="10" fill="#181310"/>
+          <path d="M472 535 C494 520 516 522 530 538" class="thin"/>
+          <path d="M544 532 C570 520 594 526 608 544" class="thin"/>
+          <path d="M502 654 C532 648 568 648 598 653" class="thin"/>
+        </g>
+      </g>
+    
+<path d="M286 858 L394 824 L380 1290 L260 1290 Z" class="chair"/>
+<path d="M366 1198 L724 1198 L682 1356 L402 1356 Z" class="chairDark"/>
+<path d="M328 1026 C420 998 594 1000 714 1028" class="soft"/>
+</svg>
